@@ -1,0 +1,335 @@
+[INFO ] 2017-10-30 11:23:25,890 [main] Logback logging API implementation is configured.
+[INFO ] 2017-10-30 11:23:31,266 [main] FrameworkServlet 'openrdf-http-server': initialization completed in 10803 ms
+[INFO ] 2017-10-30 12:15:19,447 [Thread-1] Closing org.springframework.web.context.support.XmlWebApplicationContext@6dc6608c: display name [WebApplicationContext for namespace 'openrdf-http-server-servlet']; startup date [Mon Oct 30 11:23:20 EET 2017]; root of context hierarchy
+[INFO ] 2017-10-30 12:15:19,448 [Thread-1] Destroying singletons in org.springframework.beans.factory.support.DefaultListableBeanFactory@487fc205: defining beans [messageSource,adunaAppVersion,adunaAppConfig,adunaWebappNavigation,adunaWebappCommonValuesInserter,adunaWebappMessageInserter,adunaWebappNavigationInserter,filenameViewController,viewResolver,adunaWebappSystemUrlMapping,adunaWebappSystemOverviewController,adunaWebappLoggingOverviewController,adunaWebappSystemInfoController,openrdfRepositoryManager,scopedTarget.openrdfRepositoryInterceptor,openrdfRepositoryInterceptor,openrdfProtocolUrlMapping,openrdfRepositoryListUrlMapping,openrdfRepositoryUrlMapping,openrdfServerHomeUrlMapping,openrdfHandlerExceptionResolver,openrdfProtocolController,openrdfRepositoryListController,openrdfRepositoryController,openrdfRepositoryContextsController,openrdfRepositoryNamespacesController,openrdfRepositoryNamespaceController,openrdfRepositorySizeController,openrdfRepositoryStatementsController,openrdfRepositoryGraphController]; root of factory hierarchy
+[INFO ] 2017-10-30 12:15:46,596 [main] Logback logging API implementation is configured.
+[INFO ] 2017-10-30 12:15:51,989 [main] FrameworkServlet 'openrdf-http-server': initialization completed in 10838 ms
+[INFO ] 2017-10-30 12:22:09,025 [repositories/kiln] POST query -1227659729
+[INFO ] 2017-10-30 12:22:09,204 [repositories/kiln] Request for query -1227659729 is finished
+[INFO ] 2017-10-30 12:23:46,204 [Thread-1] Closing org.springframework.web.context.support.XmlWebApplicationContext@6dc6608c: display name [WebApplicationContext for namespace 'openrdf-http-server-servlet']; startup date [Mon Oct 30 12:15:41 EET 2017]; root of context hierarchy
+[INFO ] 2017-10-30 12:23:46,205 [Thread-1] Destroying singletons in org.springframework.beans.factory.support.DefaultListableBeanFactory@487fc205: defining beans [messageSource,adunaAppVersion,adunaAppConfig,adunaWebappNavigation,adunaWebappCommonValuesInserter,adunaWebappMessageInserter,adunaWebappNavigationInserter,filenameViewController,viewResolver,adunaWebappSystemUrlMapping,adunaWebappSystemOverviewController,adunaWebappLoggingOverviewController,adunaWebappSystemInfoController,openrdfRepositoryManager,scopedTarget.openrdfRepositoryInterceptor,openrdfRepositoryInterceptor,openrdfProtocolUrlMapping,openrdfRepositoryListUrlMapping,openrdfRepositoryUrlMapping,openrdfServerHomeUrlMapping,openrdfHandlerExceptionResolver,openrdfProtocolController,openrdfRepositoryListController,openrdfRepositoryController,openrdfRepositoryContextsController,openrdfRepositoryNamespacesController,openrdfRepositoryNamespaceController,openrdfRepositorySizeController,openrdfRepositoryStatementsController,openrdfRepositoryGraphController]; root of factory hierarchy
+[INFO ] 2017-10-30 12:24:14,187 [main] Logback logging API implementation is configured.
+[INFO ] 2017-10-30 12:24:19,513 [main] FrameworkServlet 'openrdf-http-server': initialization completed in 10742 ms
+[INFO ] 2017-10-30 12:24:52,830 [repositories/kiln] POST query -1227659729
+[INFO ] 2017-10-30 12:24:53,007 [repositories/kiln] Request for query -1227659729 is finished
+[INFO ] 2017-10-30 12:27:54,794 [repositories/kiln] POST query -1227659729
+[INFO ] 2017-10-30 12:27:54,817 [repositories/kiln] Request for query -1227659729 is finished
+[INFO ] 2017-10-30 12:28:05,188 [repositories/kiln] POST query -1227659729
+[INFO ] 2017-10-30 12:28:05,209 [repositories/kiln] Request for query -1227659729 is finished
+[INFO ] 2017-10-30 12:28:09,590 [repositories/kiln] POST query -1227659729
+[INFO ] 2017-10-30 12:28:09,608 [repositories/kiln] Request for query -1227659729 is finished
+[INFO ] 2017-10-30 12:28:19,397 [repositories/kiln] POST query -1227659729
+[INFO ] 2017-10-30 12:28:19,414 [repositories/kiln] Request for query -1227659729 is finished
+[INFO ] 2017-10-30 12:28:37,305 [repositories/kiln] POST query -1227659729
+[INFO ] 2017-10-30 12:28:37,335 [repositories/kiln] Request for query -1227659729 is finished
+[INFO ] 2017-10-30 12:28:40,670 [repositories/kiln] POST query -1227659729
+[INFO ] 2017-10-30 12:28:40,686 [repositories/kiln] Request for query -1227659729 is finished
+[INFO ] 2017-10-30 12:29:11,926 [repositories/kiln] POST query -1227659729
+[INFO ] 2017-10-30 12:29:11,941 [repositories/kiln] Request for query -1227659729 is finished
+[INFO ] 2017-10-30 12:29:43,365 [repositories/kiln] POST query -1227659729
+[INFO ] 2017-10-30 12:29:43,382 [repositories/kiln] Request for query -1227659729 is finished
+[INFO ] 2017-10-30 12:29:53,958 [repositories/kiln] POST query -1227659729
+[INFO ] 2017-10-30 12:29:53,975 [repositories/kiln] Request for query -1227659729 is finished
+[INFO ] 2017-10-30 12:29:57,934 [repositories/kiln] POST query -1227659729
+[INFO ] 2017-10-30 12:29:57,947 [repositories/kiln] Request for query -1227659729 is finished
+[INFO ] 2017-10-30 12:32:00,636 [repositories/kiln] POST transaction to repository
+[WARN ] 2017-10-30 12:32:00,639 [repositories/kiln] Class org.apache.xerces.parsers.SAXParser not found
+[INFO ] 2017-10-30 12:32:01,157 [repositories/kiln] POST data to repository
+[INFO ] 2017-10-30 12:32:01,169 [repositories/kiln] no base URI specified, using dummy 'foo:bar'
+[WARN ] 2017-10-30 12:32:01,187 [repositories/kiln] Class org.apache.xerces.parsers.SAXParser not found
+[INFO ] 2017-10-30 12:32:01,338 [repositories/kiln] POST transaction to repository
+[WARN ] 2017-10-30 12:32:01,339 [repositories/kiln] Class org.apache.xerces.parsers.SAXParser not found
+[INFO ] 2017-10-30 12:32:01,620 [repositories/kiln] POST data to repository
+[INFO ] 2017-10-30 12:32:01,620 [repositories/kiln] no base URI specified, using dummy 'foo:bar'
+[WARN ] 2017-10-30 12:32:01,621 [repositories/kiln] Class org.apache.xerces.parsers.SAXParser not found
+[INFO ] 2017-10-30 12:32:01,757 [repositories/kiln] POST transaction to repository
+[WARN ] 2017-10-30 12:32:01,758 [repositories/kiln] Class org.apache.xerces.parsers.SAXParser not found
+[INFO ] 2017-10-30 12:32:01,975 [repositories/kiln] POST data to repository
+[INFO ] 2017-10-30 12:32:01,975 [repositories/kiln] no base URI specified, using dummy 'foo:bar'
+[WARN ] 2017-10-30 12:32:01,976 [repositories/kiln] Class org.apache.xerces.parsers.SAXParser not found
+[INFO ] 2017-10-30 12:32:02,133 [repositories/kiln] POST transaction to repository
+[WARN ] 2017-10-30 12:32:02,134 [repositories/kiln] Class org.apache.xerces.parsers.SAXParser not found
+[INFO ] 2017-10-30 12:32:02,370 [repositories/kiln] POST data to repository
+[INFO ] 2017-10-30 12:32:02,370 [repositories/kiln] no base URI specified, using dummy 'foo:bar'
+[WARN ] 2017-10-30 12:32:02,371 [repositories/kiln] Class org.apache.xerces.parsers.SAXParser not found
+[INFO ] 2017-10-30 12:32:02,493 [repositories/kiln] POST transaction to repository
+[WARN ] 2017-10-30 12:32:02,493 [repositories/kiln] Class org.apache.xerces.parsers.SAXParser not found
+[INFO ] 2017-10-30 12:32:02,741 [repositories/kiln] POST data to repository
+[INFO ] 2017-10-30 12:32:02,742 [repositories/kiln] no base URI specified, using dummy 'foo:bar'
+[WARN ] 2017-10-30 12:32:02,742 [repositories/kiln] Class org.apache.xerces.parsers.SAXParser not found
+[INFO ] 2017-10-30 12:32:02,863 [repositories/kiln] POST transaction to repository
+[WARN ] 2017-10-30 12:32:02,864 [repositories/kiln] Class org.apache.xerces.parsers.SAXParser not found
+[INFO ] 2017-10-30 12:32:03,045 [repositories/kiln] POST data to repository
+[INFO ] 2017-10-30 12:32:03,045 [repositories/kiln] no base URI specified, using dummy 'foo:bar'
+[WARN ] 2017-10-30 12:32:03,046 [repositories/kiln] Class org.apache.xerces.parsers.SAXParser not found
+[INFO ] 2017-10-30 12:32:03,151 [repositories/kiln] POST transaction to repository
+[WARN ] 2017-10-30 12:32:03,151 [repositories/kiln] Class org.apache.xerces.parsers.SAXParser not found
+[INFO ] 2017-10-30 12:32:03,297 [repositories/kiln] POST data to repository
+[INFO ] 2017-10-30 12:32:03,297 [repositories/kiln] no base URI specified, using dummy 'foo:bar'
+[WARN ] 2017-10-30 12:32:03,297 [repositories/kiln] Class org.apache.xerces.parsers.SAXParser not found
+[INFO ] 2017-10-30 12:32:03,394 [repositories/kiln] POST transaction to repository
+[WARN ] 2017-10-30 12:32:03,394 [repositories/kiln] Class org.apache.xerces.parsers.SAXParser not found
+[INFO ] 2017-10-30 12:32:03,549 [repositories/kiln] POST data to repository
+[INFO ] 2017-10-30 12:32:03,549 [repositories/kiln] no base URI specified, using dummy 'foo:bar'
+[WARN ] 2017-10-30 12:32:03,549 [repositories/kiln] Class org.apache.xerces.parsers.SAXParser not found
+[INFO ] 2017-10-30 12:32:03,646 [repositories/kiln] POST transaction to repository
+[WARN ] 2017-10-30 12:32:03,646 [repositories/kiln] Class org.apache.xerces.parsers.SAXParser not found
+[INFO ] 2017-10-30 12:32:03,766 [repositories/kiln] POST data to repository
+[INFO ] 2017-10-30 12:32:03,766 [repositories/kiln] no base URI specified, using dummy 'foo:bar'
+[WARN ] 2017-10-30 12:32:03,767 [repositories/kiln] Class org.apache.xerces.parsers.SAXParser not found
+[INFO ] 2017-10-30 12:32:03,873 [repositories/kiln] POST transaction to repository
+[WARN ] 2017-10-30 12:32:03,873 [repositories/kiln] Class org.apache.xerces.parsers.SAXParser not found
+[INFO ] 2017-10-30 12:32:04,004 [repositories/kiln] POST data to repository
+[INFO ] 2017-10-30 12:32:04,004 [repositories/kiln] no base URI specified, using dummy 'foo:bar'
+[WARN ] 2017-10-30 12:32:04,005 [repositories/kiln] Class org.apache.xerces.parsers.SAXParser not found
+[INFO ] 2017-10-30 12:32:04,086 [repositories/kiln] POST transaction to repository
+[WARN ] 2017-10-30 12:32:04,086 [repositories/kiln] Class org.apache.xerces.parsers.SAXParser not found
+[INFO ] 2017-10-30 12:32:04,094 [repositories/kiln] POST data to repository
+[INFO ] 2017-10-30 12:32:04,094 [repositories/kiln] no base URI specified, using dummy 'foo:bar'
+[WARN ] 2017-10-30 12:32:04,095 [repositories/kiln] Class org.apache.xerces.parsers.SAXParser not found
+[INFO ] 2017-10-30 12:32:04,104 [repositories/kiln] POST transaction to repository
+[WARN ] 2017-10-30 12:32:04,104 [repositories/kiln] Class org.apache.xerces.parsers.SAXParser not found
+[INFO ] 2017-10-30 12:32:04,110 [repositories/kiln] POST data to repository
+[INFO ] 2017-10-30 12:32:04,110 [repositories/kiln] no base URI specified, using dummy 'foo:bar'
+[WARN ] 2017-10-30 12:32:04,111 [repositories/kiln] Class org.apache.xerces.parsers.SAXParser not found
+[INFO ] 2017-10-30 12:32:04,117 [repositories/kiln] POST transaction to repository
+[WARN ] 2017-10-30 12:32:04,118 [repositories/kiln] Class org.apache.xerces.parsers.SAXParser not found
+[INFO ] 2017-10-30 12:32:04,126 [repositories/kiln] POST data to repository
+[INFO ] 2017-10-30 12:32:04,126 [repositories/kiln] no base URI specified, using dummy 'foo:bar'
+[WARN ] 2017-10-30 12:32:04,127 [repositories/kiln] Class org.apache.xerces.parsers.SAXParser not found
+[INFO ] 2017-10-30 12:32:04,134 [repositories/kiln] POST transaction to repository
+[WARN ] 2017-10-30 12:32:04,134 [repositories/kiln] Class org.apache.xerces.parsers.SAXParser not found
+[INFO ] 2017-10-30 12:32:04,144 [repositories/kiln] POST data to repository
+[INFO ] 2017-10-30 12:32:04,144 [repositories/kiln] no base URI specified, using dummy 'foo:bar'
+[WARN ] 2017-10-30 12:32:04,144 [repositories/kiln] Class org.apache.xerces.parsers.SAXParser not found
+[INFO ] 2017-10-30 12:32:04,152 [repositories/kiln] POST transaction to repository
+[WARN ] 2017-10-30 12:32:04,153 [repositories/kiln] Class org.apache.xerces.parsers.SAXParser not found
+[INFO ] 2017-10-30 12:32:04,160 [repositories/kiln] POST data to repository
+[INFO ] 2017-10-30 12:32:04,160 [repositories/kiln] no base URI specified, using dummy 'foo:bar'
+[WARN ] 2017-10-30 12:32:04,160 [repositories/kiln] Class org.apache.xerces.parsers.SAXParser not found
+[INFO ] 2017-10-30 12:32:04,168 [repositories/kiln] POST transaction to repository
+[WARN ] 2017-10-30 12:32:04,168 [repositories/kiln] Class org.apache.xerces.parsers.SAXParser not found
+[INFO ] 2017-10-30 12:32:04,176 [repositories/kiln] POST data to repository
+[INFO ] 2017-10-30 12:32:04,176 [repositories/kiln] no base URI specified, using dummy 'foo:bar'
+[WARN ] 2017-10-30 12:32:04,177 [repositories/kiln] Class org.apache.xerces.parsers.SAXParser not found
+[INFO ] 2017-10-30 12:32:04,185 [repositories/kiln] POST transaction to repository
+[WARN ] 2017-10-30 12:32:04,186 [repositories/kiln] Class org.apache.xerces.parsers.SAXParser not found
+[INFO ] 2017-10-30 12:32:04,193 [repositories/kiln] POST data to repository
+[INFO ] 2017-10-30 12:32:04,194 [repositories/kiln] no base URI specified, using dummy 'foo:bar'
+[WARN ] 2017-10-30 12:32:04,195 [repositories/kiln] Class org.apache.xerces.parsers.SAXParser not found
+[INFO ] 2017-10-30 12:32:04,204 [repositories/kiln] POST transaction to repository
+[WARN ] 2017-10-30 12:32:04,204 [repositories/kiln] Class org.apache.xerces.parsers.SAXParser not found
+[INFO ] 2017-10-30 12:32:04,212 [repositories/kiln] POST data to repository
+[INFO ] 2017-10-30 12:32:04,212 [repositories/kiln] no base URI specified, using dummy 'foo:bar'
+[WARN ] 2017-10-30 12:32:04,213 [repositories/kiln] Class org.apache.xerces.parsers.SAXParser not found
+[INFO ] 2017-10-30 12:32:04,220 [repositories/kiln] POST transaction to repository
+[WARN ] 2017-10-30 12:32:04,221 [repositories/kiln] Class org.apache.xerces.parsers.SAXParser not found
+[INFO ] 2017-10-30 12:32:04,228 [repositories/kiln] POST data to repository
+[INFO ] 2017-10-30 12:32:04,229 [repositories/kiln] no base URI specified, using dummy 'foo:bar'
+[WARN ] 2017-10-30 12:32:04,229 [repositories/kiln] Class org.apache.xerces.parsers.SAXParser not found
+[INFO ] 2017-10-30 12:32:04,236 [repositories/kiln] POST transaction to repository
+[WARN ] 2017-10-30 12:32:04,237 [repositories/kiln] Class org.apache.xerces.parsers.SAXParser not found
+[INFO ] 2017-10-30 12:32:04,245 [repositories/kiln] POST data to repository
+[INFO ] 2017-10-30 12:32:04,245 [repositories/kiln] no base URI specified, using dummy 'foo:bar'
+[WARN ] 2017-10-30 12:32:04,245 [repositories/kiln] Class org.apache.xerces.parsers.SAXParser not found
+[INFO ] 2017-10-30 12:32:04,254 [repositories/kiln] POST transaction to repository
+[WARN ] 2017-10-30 12:32:04,255 [repositories/kiln] Class org.apache.xerces.parsers.SAXParser not found
+[INFO ] 2017-10-30 12:32:04,260 [repositories/kiln] POST data to repository
+[INFO ] 2017-10-30 12:32:04,261 [repositories/kiln] no base URI specified, using dummy 'foo:bar'
+[WARN ] 2017-10-30 12:32:04,261 [repositories/kiln] Class org.apache.xerces.parsers.SAXParser not found
+[INFO ] 2017-10-30 12:32:04,268 [repositories/kiln] POST transaction to repository
+[WARN ] 2017-10-30 12:32:04,269 [repositories/kiln] Class org.apache.xerces.parsers.SAXParser not found
+[INFO ] 2017-10-30 12:32:04,274 [repositories/kiln] POST data to repository
+[INFO ] 2017-10-30 12:32:04,275 [repositories/kiln] no base URI specified, using dummy 'foo:bar'
+[WARN ] 2017-10-30 12:32:04,275 [repositories/kiln] Class org.apache.xerces.parsers.SAXParser not found
+[INFO ] 2017-10-30 12:32:04,284 [repositories/kiln] POST transaction to repository
+[WARN ] 2017-10-30 12:32:04,285 [repositories/kiln] Class org.apache.xerces.parsers.SAXParser not found
+[INFO ] 2017-10-30 12:32:04,290 [repositories/kiln] POST data to repository
+[INFO ] 2017-10-30 12:32:04,290 [repositories/kiln] no base URI specified, using dummy 'foo:bar'
+[WARN ] 2017-10-30 12:32:04,291 [repositories/kiln] Class org.apache.xerces.parsers.SAXParser not found
+[INFO ] 2017-10-30 12:32:04,299 [repositories/kiln] POST transaction to repository
+[WARN ] 2017-10-30 12:32:04,299 [repositories/kiln] Class org.apache.xerces.parsers.SAXParser not found
+[INFO ] 2017-10-30 12:32:04,307 [repositories/kiln] POST data to repository
+[INFO ] 2017-10-30 12:32:04,307 [repositories/kiln] no base URI specified, using dummy 'foo:bar'
+[WARN ] 2017-10-30 12:32:04,307 [repositories/kiln] Class org.apache.xerces.parsers.SAXParser not found
+[INFO ] 2017-10-30 12:32:04,313 [repositories/kiln] POST transaction to repository
+[WARN ] 2017-10-30 12:32:04,314 [repositories/kiln] Class org.apache.xerces.parsers.SAXParser not found
+[INFO ] 2017-10-30 12:32:04,320 [repositories/kiln] POST data to repository
+[INFO ] 2017-10-30 12:32:04,320 [repositories/kiln] no base URI specified, using dummy 'foo:bar'
+[WARN ] 2017-10-30 12:32:04,320 [repositories/kiln] Class org.apache.xerces.parsers.SAXParser not found
+[INFO ] 2017-10-30 12:32:04,327 [repositories/kiln] POST transaction to repository
+[WARN ] 2017-10-30 12:32:04,327 [repositories/kiln] Class org.apache.xerces.parsers.SAXParser not found
+[INFO ] 2017-10-30 12:32:04,525 [repositories/kiln] POST data to repository
+[INFO ] 2017-10-30 12:32:04,525 [repositories/kiln] no base URI specified, using dummy 'foo:bar'
+[WARN ] 2017-10-30 12:32:04,526 [repositories/kiln] Class org.apache.xerces.parsers.SAXParser not found
+[INFO ] 2017-10-30 12:32:08,032 [repositories/kiln] POST query -1227659729
+[INFO ] 2017-10-30 12:32:08,049 [repositories/kiln] Request for query -1227659729 is finished
+[INFO ] 2017-10-30 12:32:30,983 [repositories/kiln] POST query -1227659729
+[INFO ] 2017-10-30 12:32:30,995 [repositories/kiln] Request for query -1227659729 is finished
+[INFO ] 2017-10-30 12:32:37,353 [repositories/kiln] POST query -1227659729
+[INFO ] 2017-10-30 12:32:37,372 [repositories/kiln] Request for query -1227659729 is finished
+[INFO ] 2017-10-30 12:39:59,481 [repositories/SYSTEM] GET statements
+[INFO ] 2017-10-30 12:40:04,656 [qtp213193302-15] Request for query 3392903 is finished
+[INFO ] 2017-10-30 12:43:31,073 [qtp213193302-97] Request for query 3392903 is finished
+[INFO ] 2017-10-30 12:44:09,406 [repositories/kiln] POST transaction to repository
+[WARN ] 2017-10-30 12:44:09,407 [repositories/kiln] Class org.apache.xerces.parsers.SAXParser not found
+[INFO ] 2017-10-30 12:44:09,629 [repositories/kiln] POST data to repository
+[INFO ] 2017-10-30 12:44:09,630 [repositories/kiln] no base URI specified, using dummy 'foo:bar'
+[WARN ] 2017-10-30 12:44:09,630 [repositories/kiln] Class org.apache.xerces.parsers.SAXParser not found
+[INFO ] 2017-10-30 12:44:09,735 [repositories/kiln] POST transaction to repository
+[WARN ] 2017-10-30 12:44:09,735 [repositories/kiln] Class org.apache.xerces.parsers.SAXParser not found
+[INFO ] 2017-10-30 12:44:09,867 [repositories/kiln] POST data to repository
+[INFO ] 2017-10-30 12:44:09,867 [repositories/kiln] no base URI specified, using dummy 'foo:bar'
+[WARN ] 2017-10-30 12:44:09,867 [repositories/kiln] Class org.apache.xerces.parsers.SAXParser not found
+[INFO ] 2017-10-30 12:44:09,949 [repositories/kiln] POST transaction to repository
+[WARN ] 2017-10-30 12:44:09,950 [repositories/kiln] Class org.apache.xerces.parsers.SAXParser not found
+[INFO ] 2017-10-30 12:44:10,092 [repositories/kiln] POST data to repository
+[INFO ] 2017-10-30 12:44:10,092 [repositories/kiln] no base URI specified, using dummy 'foo:bar'
+[WARN ] 2017-10-30 12:44:10,092 [repositories/kiln] Class org.apache.xerces.parsers.SAXParser not found
+[INFO ] 2017-10-30 12:44:10,190 [repositories/kiln] POST transaction to repository
+[WARN ] 2017-10-30 12:44:10,190 [repositories/kiln] Class org.apache.xerces.parsers.SAXParser not found
+[INFO ] 2017-10-30 12:44:10,329 [repositories/kiln] POST data to repository
+[INFO ] 2017-10-30 12:44:10,330 [repositories/kiln] no base URI specified, using dummy 'foo:bar'
+[WARN ] 2017-10-30 12:44:10,330 [repositories/kiln] Class org.apache.xerces.parsers.SAXParser not found
+[INFO ] 2017-10-30 12:44:10,429 [repositories/kiln] POST transaction to repository
+[WARN ] 2017-10-30 12:44:10,430 [repositories/kiln] Class org.apache.xerces.parsers.SAXParser not found
+[INFO ] 2017-10-30 12:44:10,554 [repositories/kiln] POST data to repository
+[INFO ] 2017-10-30 12:44:10,554 [repositories/kiln] no base URI specified, using dummy 'foo:bar'
+[WARN ] 2017-10-30 12:44:10,555 [repositories/kiln] Class org.apache.xerces.parsers.SAXParser not found
+[INFO ] 2017-10-30 12:44:10,638 [repositories/kiln] POST transaction to repository
+[WARN ] 2017-10-30 12:44:10,638 [repositories/kiln] Class org.apache.xerces.parsers.SAXParser not found
+[INFO ] 2017-10-30 12:44:10,790 [repositories/kiln] POST data to repository
+[INFO ] 2017-10-30 12:44:10,790 [repositories/kiln] no base URI specified, using dummy 'foo:bar'
+[WARN ] 2017-10-30 12:44:10,791 [repositories/kiln] Class org.apache.xerces.parsers.SAXParser not found
+[INFO ] 2017-10-30 12:44:10,868 [repositories/kiln] POST transaction to repository
+[WARN ] 2017-10-30 12:44:10,869 [repositories/kiln] Class org.apache.xerces.parsers.SAXParser not found
+[INFO ] 2017-10-30 12:44:10,990 [repositories/kiln] POST data to repository
+[INFO ] 2017-10-30 12:44:10,990 [repositories/kiln] no base URI specified, using dummy 'foo:bar'
+[WARN ] 2017-10-30 12:44:10,991 [repositories/kiln] Class org.apache.xerces.parsers.SAXParser not found
+[INFO ] 2017-10-30 12:44:11,078 [repositories/kiln] POST transaction to repository
+[WARN ] 2017-10-30 12:44:11,078 [repositories/kiln] Class org.apache.xerces.parsers.SAXParser not found
+[INFO ] 2017-10-30 12:44:11,217 [repositories/kiln] POST data to repository
+[INFO ] 2017-10-30 12:44:11,217 [repositories/kiln] no base URI specified, using dummy 'foo:bar'
+[WARN ] 2017-10-30 12:44:11,218 [repositories/kiln] Class org.apache.xerces.parsers.SAXParser not found
+[INFO ] 2017-10-30 12:44:11,312 [repositories/kiln] POST transaction to repository
+[WARN ] 2017-10-30 12:44:11,313 [repositories/kiln] Class org.apache.xerces.parsers.SAXParser not found
+[INFO ] 2017-10-30 12:44:11,444 [repositories/kiln] POST data to repository
+[INFO ] 2017-10-30 12:44:11,444 [repositories/kiln] no base URI specified, using dummy 'foo:bar'
+[WARN ] 2017-10-30 12:44:11,444 [repositories/kiln] Class org.apache.xerces.parsers.SAXParser not found
+[INFO ] 2017-10-30 12:44:11,521 [repositories/kiln] POST transaction to repository
+[WARN ] 2017-10-30 12:44:11,522 [repositories/kiln] Class org.apache.xerces.parsers.SAXParser not found
+[INFO ] 2017-10-30 12:44:11,666 [repositories/kiln] POST data to repository
+[INFO ] 2017-10-30 12:44:11,667 [repositories/kiln] no base URI specified, using dummy 'foo:bar'
+[WARN ] 2017-10-30 12:44:11,667 [repositories/kiln] Class org.apache.xerces.parsers.SAXParser not found
+[INFO ] 2017-10-30 12:44:11,753 [repositories/kiln] POST transaction to repository
+[WARN ] 2017-10-30 12:44:11,754 [repositories/kiln] Class org.apache.xerces.parsers.SAXParser not found
+[INFO ] 2017-10-30 12:44:11,758 [repositories/kiln] POST data to repository
+[INFO ] 2017-10-30 12:44:11,758 [repositories/kiln] no base URI specified, using dummy 'foo:bar'
+[WARN ] 2017-10-30 12:44:11,758 [repositories/kiln] Class org.apache.xerces.parsers.SAXParser not found
+[INFO ] 2017-10-30 12:44:11,766 [repositories/kiln] POST transaction to repository
+[WARN ] 2017-10-30 12:44:11,767 [repositories/kiln] Class org.apache.xerces.parsers.SAXParser not found
+[INFO ] 2017-10-30 12:44:11,772 [repositories/kiln] POST data to repository
+[INFO ] 2017-10-30 12:44:11,772 [repositories/kiln] no base URI specified, using dummy 'foo:bar'
+[WARN ] 2017-10-30 12:44:11,773 [repositories/kiln] Class org.apache.xerces.parsers.SAXParser not found
+[INFO ] 2017-10-30 12:44:11,780 [repositories/kiln] POST transaction to repository
+[WARN ] 2017-10-30 12:44:11,780 [repositories/kiln] Class org.apache.xerces.parsers.SAXParser not found
+[INFO ] 2017-10-30 12:44:11,785 [repositories/kiln] POST data to repository
+[INFO ] 2017-10-30 12:44:11,785 [repositories/kiln] no base URI specified, using dummy 'foo:bar'
+[WARN ] 2017-10-30 12:44:11,785 [repositories/kiln] Class org.apache.xerces.parsers.SAXParser not found
+[INFO ] 2017-10-30 12:44:11,792 [repositories/kiln] POST transaction to repository
+[WARN ] 2017-10-30 12:44:11,792 [repositories/kiln] Class org.apache.xerces.parsers.SAXParser not found
+[INFO ] 2017-10-30 12:44:11,798 [repositories/kiln] POST data to repository
+[INFO ] 2017-10-30 12:44:11,798 [repositories/kiln] no base URI specified, using dummy 'foo:bar'
+[WARN ] 2017-10-30 12:44:11,798 [repositories/kiln] Class org.apache.xerces.parsers.SAXParser not found
+[INFO ] 2017-10-30 12:44:11,805 [repositories/kiln] POST transaction to repository
+[WARN ] 2017-10-30 12:44:11,805 [repositories/kiln] Class org.apache.xerces.parsers.SAXParser not found
+[INFO ] 2017-10-30 12:44:11,810 [repositories/kiln] POST data to repository
+[INFO ] 2017-10-30 12:44:11,810 [repositories/kiln] no base URI specified, using dummy 'foo:bar'
+[WARN ] 2017-10-30 12:44:11,811 [repositories/kiln] Class org.apache.xerces.parsers.SAXParser not found
+[INFO ] 2017-10-30 12:44:11,818 [repositories/kiln] POST transaction to repository
+[WARN ] 2017-10-30 12:44:11,819 [repositories/kiln] Class org.apache.xerces.parsers.SAXParser not found
+[INFO ] 2017-10-30 12:44:11,824 [repositories/kiln] POST data to repository
+[INFO ] 2017-10-30 12:44:11,824 [repositories/kiln] no base URI specified, using dummy 'foo:bar'
+[WARN ] 2017-10-30 12:44:11,825 [repositories/kiln] Class org.apache.xerces.parsers.SAXParser not found
+[INFO ] 2017-10-30 12:44:11,831 [repositories/kiln] POST transaction to repository
+[WARN ] 2017-10-30 12:44:11,832 [repositories/kiln] Class org.apache.xerces.parsers.SAXParser not found
+[INFO ] 2017-10-30 12:44:11,837 [repositories/kiln] POST data to repository
+[INFO ] 2017-10-30 12:44:11,837 [repositories/kiln] no base URI specified, using dummy 'foo:bar'
+[WARN ] 2017-10-30 12:44:11,837 [repositories/kiln] Class org.apache.xerces.parsers.SAXParser not found
+[INFO ] 2017-10-30 12:44:11,844 [repositories/kiln] POST transaction to repository
+[WARN ] 2017-10-30 12:44:11,844 [repositories/kiln] Class org.apache.xerces.parsers.SAXParser not found
+[INFO ] 2017-10-30 12:44:11,848 [repositories/kiln] POST data to repository
+[INFO ] 2017-10-30 12:44:11,848 [repositories/kiln] no base URI specified, using dummy 'foo:bar'
+[WARN ] 2017-10-30 12:44:11,849 [repositories/kiln] Class org.apache.xerces.parsers.SAXParser not found
+[INFO ] 2017-10-30 12:44:11,854 [repositories/kiln] POST transaction to repository
+[WARN ] 2017-10-30 12:44:11,854 [repositories/kiln] Class org.apache.xerces.parsers.SAXParser not found
+[INFO ] 2017-10-30 12:44:11,859 [repositories/kiln] POST data to repository
+[INFO ] 2017-10-30 12:44:11,860 [repositories/kiln] no base URI specified, using dummy 'foo:bar'
+[WARN ] 2017-10-30 12:44:11,860 [repositories/kiln] Class org.apache.xerces.parsers.SAXParser not found
+[INFO ] 2017-10-30 12:44:11,867 [repositories/kiln] POST transaction to repository
+[WARN ] 2017-10-30 12:44:11,867 [repositories/kiln] Class org.apache.xerces.parsers.SAXParser not found
+[INFO ] 2017-10-30 12:44:11,872 [repositories/kiln] POST data to repository
+[INFO ] 2017-10-30 12:44:11,872 [repositories/kiln] no base URI specified, using dummy 'foo:bar'
+[WARN ] 2017-10-30 12:44:11,873 [repositories/kiln] Class org.apache.xerces.parsers.SAXParser not found
+[INFO ] 2017-10-30 12:44:11,878 [repositories/kiln] POST transaction to repository
+[WARN ] 2017-10-30 12:44:11,880 [repositories/kiln] Class org.apache.xerces.parsers.SAXParser not found
+[INFO ] 2017-10-30 12:44:11,885 [repositories/kiln] POST data to repository
+[INFO ] 2017-10-30 12:44:11,885 [repositories/kiln] no base URI specified, using dummy 'foo:bar'
+[WARN ] 2017-10-30 12:44:11,885 [repositories/kiln] Class org.apache.xerces.parsers.SAXParser not found
+[INFO ] 2017-10-30 12:44:11,893 [repositories/kiln] POST transaction to repository
+[WARN ] 2017-10-30 12:44:11,893 [repositories/kiln] Class org.apache.xerces.parsers.SAXParser not found
+[INFO ] 2017-10-30 12:44:11,898 [repositories/kiln] POST data to repository
+[INFO ] 2017-10-30 12:44:11,898 [repositories/kiln] no base URI specified, using dummy 'foo:bar'
+[WARN ] 2017-10-30 12:44:11,898 [repositories/kiln] Class org.apache.xerces.parsers.SAXParser not found
+[INFO ] 2017-10-30 12:44:11,905 [repositories/kiln] POST transaction to repository
+[WARN ] 2017-10-30 12:44:11,905 [repositories/kiln] Class org.apache.xerces.parsers.SAXParser not found
+[INFO ] 2017-10-30 12:44:11,912 [repositories/kiln] POST data to repository
+[INFO ] 2017-10-30 12:44:11,912 [repositories/kiln] no base URI specified, using dummy 'foo:bar'
+[WARN ] 2017-10-30 12:44:11,912 [repositories/kiln] Class org.apache.xerces.parsers.SAXParser not found
+[INFO ] 2017-10-30 12:44:11,918 [repositories/kiln] POST transaction to repository
+[WARN ] 2017-10-30 12:44:11,919 [repositories/kiln] Class org.apache.xerces.parsers.SAXParser not found
+[INFO ] 2017-10-30 12:44:11,922 [repositories/kiln] POST data to repository
+[INFO ] 2017-10-30 12:44:11,923 [repositories/kiln] no base URI specified, using dummy 'foo:bar'
+[WARN ] 2017-10-30 12:44:11,923 [repositories/kiln] Class org.apache.xerces.parsers.SAXParser not found
+[INFO ] 2017-10-30 12:44:11,928 [repositories/kiln] POST transaction to repository
+[WARN ] 2017-10-30 12:44:11,929 [repositories/kiln] Class org.apache.xerces.parsers.SAXParser not found
+[INFO ] 2017-10-30 12:44:11,933 [repositories/kiln] POST data to repository
+[INFO ] 2017-10-30 12:44:11,933 [repositories/kiln] no base URI specified, using dummy 'foo:bar'
+[WARN ] 2017-10-30 12:44:11,934 [repositories/kiln] Class org.apache.xerces.parsers.SAXParser not found
+[INFO ] 2017-10-30 12:44:11,940 [repositories/kiln] POST transaction to repository
+[WARN ] 2017-10-30 12:44:11,940 [repositories/kiln] Class org.apache.xerces.parsers.SAXParser not found
+[INFO ] 2017-10-30 12:44:12,074 [repositories/kiln] POST data to repository
+[INFO ] 2017-10-30 12:44:12,074 [repositories/kiln] no base URI specified, using dummy 'foo:bar'
+[WARN ] 2017-10-30 12:44:12,074 [repositories/kiln] Class org.apache.xerces.parsers.SAXParser not found
+[INFO ] 2017-10-30 12:44:33,540 [repositories/kiln] POST query -1227659729
+[INFO ] 2017-10-30 12:44:33,598 [repositories/kiln] Request for query -1227659729 is finished
+[INFO ] 2017-10-30 15:45:40,158 [repositories/kiln] POST query -1227659729
+[INFO ] 2017-10-30 15:45:40,172 [repositories/kiln] Request for query -1227659729 is finished
+[INFO ] 2017-10-30 15:48:49,837 [repositories/kiln] POST query -1227659729
+[INFO ] 2017-10-30 15:48:49,849 [repositories/kiln] Request for query -1227659729 is finished
+[INFO ] 2017-10-30 15:49:33,085 [repositories/kiln] POST query -1227659729
+[INFO ] 2017-10-30 15:49:33,100 [repositories/kiln] Request for query -1227659729 is finished
+[INFO ] 2017-10-30 15:50:18,510 [repositories/kiln] POST query -1227659729
+[INFO ] 2017-10-30 15:50:18,522 [repositories/kiln] Request for query -1227659729 is finished
+[INFO ] 2017-10-30 15:53:52,597 [repositories/kiln] POST query -1227659729
+[INFO ] 2017-10-30 15:53:52,609 [repositories/kiln] Request for query -1227659729 is finished
+[INFO ] 2017-10-30 15:55:01,507 [repositories/kiln] POST query -1227659729
+[INFO ] 2017-10-30 15:55:01,519 [repositories/kiln] Request for query -1227659729 is finished
+[INFO ] 2017-10-30 15:55:11,741 [repositories/kiln] POST query -1227659729
+[INFO ] 2017-10-30 15:55:11,764 [repositories/kiln] Request for query -1227659729 is finished
+[INFO ] 2017-10-30 15:55:31,265 [repositories/kiln] POST query -1227659729
+[INFO ] 2017-10-30 15:55:31,272 [repositories/kiln] Request for query -1227659729 is finished
+[INFO ] 2017-10-30 15:55:36,158 [repositories/kiln] POST query -1227659729
+[INFO ] 2017-10-30 15:55:36,171 [repositories/kiln] Request for query -1227659729 is finished
+[INFO ] 2017-10-30 15:56:23,938 [repositories/kiln] POST query -1227659729
+[INFO ] 2017-10-30 15:56:23,950 [repositories/kiln] Request for query -1227659729 is finished
+[INFO ] 2017-10-30 15:58:01,950 [repositories/kiln] POST query -1227659729
+[INFO ] 2017-10-30 15:58:01,964 [repositories/kiln] Request for query -1227659729 is finished
+[INFO ] 2017-10-30 15:58:05,960 [repositories/kiln] POST query -1227659729
+[INFO ] 2017-10-30 15:58:05,972 [repositories/kiln] Request for query -1227659729 is finished
+[INFO ] 2017-10-30 15:58:09,792 [repositories/kiln] POST query -1227659729
+[INFO ] 2017-10-30 15:58:09,803 [repositories/kiln] Request for query -1227659729 is finished
+[INFO ] 2017-10-30 18:15:07,397 [repositories/kiln] POST query -1227659729
+[INFO ] 2017-10-30 18:15:07,410 [repositories/kiln] Request for query -1227659729 is finished
+[INFO ] 2017-10-30 23:46:27,854 [Thread-1] Closing org.springframework.web.context.support.XmlWebApplicationContext@6dc6608c: display name [WebApplicationContext for namespace 'openrdf-http-server-servlet']; startup date [Mon Oct 30 12:24:08 EET 2017]; root of context hierarchy
+[INFO ] 2017-10-30 23:46:27,857 [Thread-1] Destroying singletons in org.springframework.beans.factory.support.DefaultListableBeanFactory@487fc205: defining beans [messageSource,adunaAppVersion,adunaAppConfig,adunaWebappNavigation,adunaWebappCommonValuesInserter,adunaWebappMessageInserter,adunaWebappNavigationInserter,filenameViewController,viewResolver,adunaWebappSystemUrlMapping,adunaWebappSystemOverviewController,adunaWebappLoggingOverviewController,adunaWebappSystemInfoController,openrdfRepositoryManager,scopedTarget.openrdfRepositoryInterceptor,openrdfRepositoryInterceptor,openrdfProtocolUrlMapping,openrdfRepositoryListUrlMapping,openrdfRepositoryUrlMapping,openrdfServerHomeUrlMapping,openrdfHandlerExceptionResolver,openrdfProtocolController,openrdfRepositoryListController,openrdfRepositoryController,openrdfRepositoryContextsController,openrdfRepositoryNamespacesController,openrdfRepositoryNamespaceController,openrdfRepositorySizeController,openrdfRepositoryStatementsController,openrdfRepositoryGraphController]; root of factory hierarchy

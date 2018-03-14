@@ -1,0 +1,388 @@
+[INFO ] 2017-10-31 09:57:58,501 [main] Logback logging API implementation is configured.
+[INFO ] 2017-10-31 09:58:03,863 [main] FrameworkServlet 'openrdf-http-server': initialization completed in 10819 ms
+[INFO ] 2017-10-31 10:16:13,512 [repositories/kiln] POST query -1227659729
+[INFO ] 2017-10-31 10:16:13,717 [repositories/kiln] Request for query -1227659729 is finished
+[INFO ] 2017-10-31 10:16:22,976 [repositories/kiln] POST query -1227659729
+[INFO ] 2017-10-31 10:16:23,018 [repositories/kiln] Request for query -1227659729 is finished
+[INFO ] 2017-10-31 10:16:26,105 [repositories/kiln] POST query -1227659729
+[INFO ] 2017-10-31 10:16:26,129 [repositories/kiln] Request for query -1227659729 is finished
+[INFO ] 2017-10-31 11:00:52,349 [repositories/kiln] POST query -1227659729
+[INFO ] 2017-10-31 11:00:52,369 [repositories/kiln] Request for query -1227659729 is finished
+[INFO ] 2017-10-31 11:01:16,486 [repositories/kiln] POST query -1227659729
+[INFO ] 2017-10-31 11:01:16,513 [repositories/kiln] Request for query -1227659729 is finished
+[INFO ] 2017-10-31 11:01:43,876 [repositories/kiln] POST query -1227659729
+[INFO ] 2017-10-31 11:01:43,894 [repositories/kiln] Request for query -1227659729 is finished
+[INFO ] 2017-10-31 11:01:47,079 [repositories/kiln] POST query -1227659729
+[INFO ] 2017-10-31 11:01:47,099 [repositories/kiln] Request for query -1227659729 is finished
+[INFO ] 2017-10-31 11:02:52,740 [repositories/kiln] POST query -1227659729
+[INFO ] 2017-10-31 11:02:52,759 [repositories/kiln] Request for query -1227659729 is finished
+[INFO ] 2017-10-31 11:07:04,468 [repositories/kiln] POST query -1227659729
+[INFO ] 2017-10-31 11:07:04,488 [repositories/kiln] Request for query -1227659729 is finished
+[INFO ] 2017-10-31 11:14:20,620 [repositories/kiln] POST query -1227659729
+[INFO ] 2017-10-31 11:14:20,634 [repositories/kiln] Request for query -1227659729 is finished
+[INFO ] 2017-10-31 11:14:24,747 [repositories/kiln] POST query -1227659729
+[INFO ] 2017-10-31 11:14:24,760 [repositories/kiln] Request for query -1227659729 is finished
+[INFO ] 2017-10-31 12:19:10,897 [repositories/kiln] POST query -1227659729
+[INFO ] 2017-10-31 12:19:10,912 [repositories/kiln] Request for query -1227659729 is finished
+[INFO ] 2017-10-31 12:32:39,789 [repositories/kiln] POST query -1227659729
+[INFO ] 2017-10-31 12:32:39,805 [repositories/kiln] Request for query -1227659729 is finished
+[INFO ] 2017-10-31 12:32:42,881 [repositories/kiln] POST query -1227659729
+[INFO ] 2017-10-31 12:32:42,903 [repositories/kiln] Request for query -1227659729 is finished
+[INFO ] 2017-10-31 12:32:44,780 [repositories/kiln] POST query -1227659729
+[INFO ] 2017-10-31 12:32:44,795 [repositories/kiln] Request for query -1227659729 is finished
+[INFO ] 2017-10-31 12:32:47,264 [repositories/kiln] POST query -1227659729
+[INFO ] 2017-10-31 12:32:47,277 [repositories/kiln] Request for query -1227659729 is finished
+[INFO ] 2017-10-31 12:32:49,628 [repositories/kiln] POST query -1227659729
+[INFO ] 2017-10-31 12:32:49,642 [repositories/kiln] Request for query -1227659729 is finished
+[INFO ] 2017-10-31 12:32:56,940 [Thread-1] Closing org.springframework.web.context.support.XmlWebApplicationContext@6dc6608c: display name [WebApplicationContext for namespace 'openrdf-http-server-servlet']; startup date [Tue Oct 31 09:57:53 EET 2017]; root of context hierarchy
+[INFO ] 2017-10-31 12:32:56,941 [Thread-1] Destroying singletons in org.springframework.beans.factory.support.DefaultListableBeanFactory@487fc205: defining beans [messageSource,adunaAppVersion,adunaAppConfig,adunaWebappNavigation,adunaWebappCommonValuesInserter,adunaWebappMessageInserter,adunaWebappNavigationInserter,filenameViewController,viewResolver,adunaWebappSystemUrlMapping,adunaWebappSystemOverviewController,adunaWebappLoggingOverviewController,adunaWebappSystemInfoController,openrdfRepositoryManager,scopedTarget.openrdfRepositoryInterceptor,openrdfRepositoryInterceptor,openrdfProtocolUrlMapping,openrdfRepositoryListUrlMapping,openrdfRepositoryUrlMapping,openrdfServerHomeUrlMapping,openrdfHandlerExceptionResolver,openrdfProtocolController,openrdfRepositoryListController,openrdfRepositoryController,openrdfRepositoryContextsController,openrdfRepositoryNamespacesController,openrdfRepositoryNamespaceController,openrdfRepositorySizeController,openrdfRepositoryStatementsController,openrdfRepositoryGraphController]; root of factory hierarchy
+[INFO ] 2017-10-31 12:33:26,982 [main] Logback logging API implementation is configured.
+[INFO ] 2017-10-31 12:33:32,288 [main] FrameworkServlet 'openrdf-http-server': initialization completed in 10741 ms
+[INFO ] 2017-10-31 12:33:51,380 [repositories/kiln] POST query -1227659729
+[INFO ] 2017-10-31 12:33:51,573 [repositories/kiln] Request for query -1227659729 is finished
+[INFO ] 2017-10-31 12:34:04,960 [repositories/kiln] POST query -1227659729
+[INFO ] 2017-10-31 12:34:04,996 [repositories/kiln] Request for query -1227659729 is finished
+[INFO ] 2017-10-31 12:34:15,751 [repositories/kiln] POST query -1227659729
+[INFO ] 2017-10-31 12:34:15,777 [repositories/kiln] Request for query -1227659729 is finished
+[INFO ] 2017-10-31 12:35:30,263 [repositories/kiln] POST query -1227659729
+[INFO ] 2017-10-31 12:35:30,282 [repositories/kiln] Request for query -1227659729 is finished
+[INFO ] 2017-10-31 12:35:33,773 [repositories/kiln] POST query -1227659729
+[INFO ] 2017-10-31 12:35:33,803 [repositories/kiln] Request for query -1227659729 is finished
+[INFO ] 2017-10-31 12:37:25,308 [repositories/kiln] POST query -1227659729
+[INFO ] 2017-10-31 12:37:25,325 [repositories/kiln] Request for query -1227659729 is finished
+[INFO ] 2017-10-31 12:38:31,414 [Thread-1] Closing org.springframework.web.context.support.XmlWebApplicationContext@6dc6608c: display name [WebApplicationContext for namespace 'openrdf-http-server-servlet']; startup date [Tue Oct 31 12:33:21 EET 2017]; root of context hierarchy
+[INFO ] 2017-10-31 12:38:31,414 [Thread-1] Destroying singletons in org.springframework.beans.factory.support.DefaultListableBeanFactory@487fc205: defining beans [messageSource,adunaAppVersion,adunaAppConfig,adunaWebappNavigation,adunaWebappCommonValuesInserter,adunaWebappMessageInserter,adunaWebappNavigationInserter,filenameViewController,viewResolver,adunaWebappSystemUrlMapping,adunaWebappSystemOverviewController,adunaWebappLoggingOverviewController,adunaWebappSystemInfoController,openrdfRepositoryManager,scopedTarget.openrdfRepositoryInterceptor,openrdfRepositoryInterceptor,openrdfProtocolUrlMapping,openrdfRepositoryListUrlMapping,openrdfRepositoryUrlMapping,openrdfServerHomeUrlMapping,openrdfHandlerExceptionResolver,openrdfProtocolController,openrdfRepositoryListController,openrdfRepositoryController,openrdfRepositoryContextsController,openrdfRepositoryNamespacesController,openrdfRepositoryNamespaceController,openrdfRepositorySizeController,openrdfRepositoryStatementsController,openrdfRepositoryGraphController]; root of factory hierarchy
+[INFO ] 2017-10-31 12:39:00,390 [main] Logback logging API implementation is configured.
+[INFO ] 2017-10-31 12:39:05,719 [main] FrameworkServlet 'openrdf-http-server': initialization completed in 10716 ms
+[INFO ] 2017-10-31 12:39:24,262 [repositories/kiln] POST query -1227659729
+[INFO ] 2017-10-31 12:39:24,459 [repositories/kiln] Request for query -1227659729 is finished
+[INFO ] 2017-10-31 12:39:41,330 [repositories/kiln] POST query -1227659729
+[INFO ] 2017-10-31 12:39:41,358 [repositories/kiln] Request for query -1227659729 is finished
+[INFO ] 2017-10-31 14:37:37,597 [repositories/kiln] POST query -1227659729
+[INFO ] 2017-10-31 14:37:37,618 [repositories/kiln] Request for query -1227659729 is finished
+[INFO ] 2017-10-31 14:37:44,199 [Thread-1] Closing org.springframework.web.context.support.XmlWebApplicationContext@6dc6608c: display name [WebApplicationContext for namespace 'openrdf-http-server-servlet']; startup date [Tue Oct 31 12:38:55 EET 2017]; root of context hierarchy
+[INFO ] 2017-10-31 14:37:44,199 [Thread-1] Destroying singletons in org.springframework.beans.factory.support.DefaultListableBeanFactory@487fc205: defining beans [messageSource,adunaAppVersion,adunaAppConfig,adunaWebappNavigation,adunaWebappCommonValuesInserter,adunaWebappMessageInserter,adunaWebappNavigationInserter,filenameViewController,viewResolver,adunaWebappSystemUrlMapping,adunaWebappSystemOverviewController,adunaWebappLoggingOverviewController,adunaWebappSystemInfoController,openrdfRepositoryManager,scopedTarget.openrdfRepositoryInterceptor,openrdfRepositoryInterceptor,openrdfProtocolUrlMapping,openrdfRepositoryListUrlMapping,openrdfRepositoryUrlMapping,openrdfServerHomeUrlMapping,openrdfHandlerExceptionResolver,openrdfProtocolController,openrdfRepositoryListController,openrdfRepositoryController,openrdfRepositoryContextsController,openrdfRepositoryNamespacesController,openrdfRepositoryNamespaceController,openrdfRepositorySizeController,openrdfRepositoryStatementsController,openrdfRepositoryGraphController]; root of factory hierarchy
+[INFO ] 2017-10-31 14:38:12,828 [main] Logback logging API implementation is configured.
+[INFO ] 2017-10-31 14:38:18,149 [main] FrameworkServlet 'openrdf-http-server': initialization completed in 10721 ms
+[INFO ] 2017-10-31 14:38:39,032 [repositories/kiln] POST query -1227659729
+[INFO ] 2017-10-31 14:38:39,248 [repositories/kiln] Request for query -1227659729 is finished
+[INFO ] 2017-10-31 14:38:51,317 [repositories/kiln] POST query -1227659729
+[INFO ] 2017-10-31 14:38:51,343 [repositories/kiln] Request for query -1227659729 is finished
+[INFO ] 2017-10-31 14:40:03,893 [Thread-1] Closing org.springframework.web.context.support.XmlWebApplicationContext@6dc6608c: display name [WebApplicationContext for namespace 'openrdf-http-server-servlet']; startup date [Tue Oct 31 14:38:07 EET 2017]; root of context hierarchy
+[INFO ] 2017-10-31 14:40:03,895 [Thread-1] Destroying singletons in org.springframework.beans.factory.support.DefaultListableBeanFactory@487fc205: defining beans [messageSource,adunaAppVersion,adunaAppConfig,adunaWebappNavigation,adunaWebappCommonValuesInserter,adunaWebappMessageInserter,adunaWebappNavigationInserter,filenameViewController,viewResolver,adunaWebappSystemUrlMapping,adunaWebappSystemOverviewController,adunaWebappLoggingOverviewController,adunaWebappSystemInfoController,openrdfRepositoryManager,scopedTarget.openrdfRepositoryInterceptor,openrdfRepositoryInterceptor,openrdfProtocolUrlMapping,openrdfRepositoryListUrlMapping,openrdfRepositoryUrlMapping,openrdfServerHomeUrlMapping,openrdfHandlerExceptionResolver,openrdfProtocolController,openrdfRepositoryListController,openrdfRepositoryController,openrdfRepositoryContextsController,openrdfRepositoryNamespacesController,openrdfRepositoryNamespaceController,openrdfRepositorySizeController,openrdfRepositoryStatementsController,openrdfRepositoryGraphController]; root of factory hierarchy
+[INFO ] 2017-10-31 14:40:40,040 [main] Logback logging API implementation is configured.
+[INFO ] 2017-10-31 14:40:45,371 [main] FrameworkServlet 'openrdf-http-server': initialization completed in 10724 ms
+[INFO ] 2017-10-31 14:41:17,267 [repositories/kiln] POST query -1227659729
+[INFO ] 2017-10-31 14:41:17,444 [repositories/kiln] Request for query -1227659729 is finished
+[INFO ] 2017-10-31 14:41:31,596 [repositories/kiln] POST query -1227659729
+[INFO ] 2017-10-31 14:41:31,620 [repositories/kiln] Request for query -1227659729 is finished
+[INFO ] 2017-10-31 15:59:21,893 [repositories/kiln] POST query -1227659729
+[INFO ] 2017-10-31 15:59:21,911 [repositories/kiln] Request for query -1227659729 is finished
+[INFO ] 2017-10-31 15:59:26,849 [repositories/kiln] POST query -1227659729
+[INFO ] 2017-10-31 15:59:26,867 [repositories/kiln] Request for query -1227659729 is finished
+[INFO ] 2017-10-31 16:05:29,157 [Thread-1] Closing org.springframework.web.context.support.XmlWebApplicationContext@6dc6608c: display name [WebApplicationContext for namespace 'openrdf-http-server-servlet']; startup date [Tue Oct 31 14:40:34 EET 2017]; root of context hierarchy
+[INFO ] 2017-10-31 16:05:29,159 [Thread-1] Destroying singletons in org.springframework.beans.factory.support.DefaultListableBeanFactory@487fc205: defining beans [messageSource,adunaAppVersion,adunaAppConfig,adunaWebappNavigation,adunaWebappCommonValuesInserter,adunaWebappMessageInserter,adunaWebappNavigationInserter,filenameViewController,viewResolver,adunaWebappSystemUrlMapping,adunaWebappSystemOverviewController,adunaWebappLoggingOverviewController,adunaWebappSystemInfoController,openrdfRepositoryManager,scopedTarget.openrdfRepositoryInterceptor,openrdfRepositoryInterceptor,openrdfProtocolUrlMapping,openrdfRepositoryListUrlMapping,openrdfRepositoryUrlMapping,openrdfServerHomeUrlMapping,openrdfHandlerExceptionResolver,openrdfProtocolController,openrdfRepositoryListController,openrdfRepositoryController,openrdfRepositoryContextsController,openrdfRepositoryNamespacesController,openrdfRepositoryNamespaceController,openrdfRepositorySizeController,openrdfRepositoryStatementsController,openrdfRepositoryGraphController]; root of factory hierarchy
+[INFO ] 2017-10-31 16:05:56,430 [main] Logback logging API implementation is configured.
+[INFO ] 2017-10-31 16:06:01,755 [main] FrameworkServlet 'openrdf-http-server': initialization completed in 10765 ms
+[INFO ] 2017-10-31 16:07:08,856 [repositories/kiln] POST transaction to repository
+[WARN ] 2017-10-31 16:07:08,866 [repositories/kiln] Class org.apache.xerces.parsers.SAXParser not found
+[INFO ] 2017-10-31 16:07:08,902 [repositories/kiln] POST data to repository
+[INFO ] 2017-10-31 16:07:08,918 [repositories/kiln] no base URI specified, using dummy 'foo:bar'
+[WARN ] 2017-10-31 16:07:08,930 [repositories/kiln] Class org.apache.xerces.parsers.SAXParser not found
+[INFO ] 2017-10-31 16:07:09,170 [repositories/kiln] POST transaction to repository
+[WARN ] 2017-10-31 16:07:09,173 [repositories/kiln] Class org.apache.xerces.parsers.SAXParser not found
+[INFO ] 2017-10-31 16:07:09,439 [repositories/kiln] POST data to repository
+[INFO ] 2017-10-31 16:07:09,439 [repositories/kiln] no base URI specified, using dummy 'foo:bar'
+[WARN ] 2017-10-31 16:07:09,440 [repositories/kiln] Class org.apache.xerces.parsers.SAXParser not found
+[INFO ] 2017-10-31 16:07:09,574 [repositories/kiln] POST transaction to repository
+[WARN ] 2017-10-31 16:07:09,575 [repositories/kiln] Class org.apache.xerces.parsers.SAXParser not found
+[INFO ] 2017-10-31 16:07:09,791 [repositories/kiln] POST data to repository
+[INFO ] 2017-10-31 16:07:09,791 [repositories/kiln] no base URI specified, using dummy 'foo:bar'
+[WARN ] 2017-10-31 16:07:09,792 [repositories/kiln] Class org.apache.xerces.parsers.SAXParser not found
+[INFO ] 2017-10-31 16:07:09,918 [repositories/kiln] POST transaction to repository
+[WARN ] 2017-10-31 16:07:09,919 [repositories/kiln] Class org.apache.xerces.parsers.SAXParser not found
+[INFO ] 2017-10-31 16:07:10,084 [repositories/kiln] POST data to repository
+[INFO ] 2017-10-31 16:07:10,084 [repositories/kiln] no base URI specified, using dummy 'foo:bar'
+[WARN ] 2017-10-31 16:07:10,085 [repositories/kiln] Class org.apache.xerces.parsers.SAXParser not found
+[INFO ] 2017-10-31 16:07:10,213 [repositories/kiln] POST transaction to repository
+[WARN ] 2017-10-31 16:07:10,214 [repositories/kiln] Class org.apache.xerces.parsers.SAXParser not found
+[INFO ] 2017-10-31 16:07:10,415 [repositories/kiln] POST data to repository
+[INFO ] 2017-10-31 16:07:10,415 [repositories/kiln] no base URI specified, using dummy 'foo:bar'
+[WARN ] 2017-10-31 16:07:10,416 [repositories/kiln] Class org.apache.xerces.parsers.SAXParser not found
+[INFO ] 2017-10-31 16:07:10,531 [repositories/kiln] POST transaction to repository
+[WARN ] 2017-10-31 16:07:10,532 [repositories/kiln] Class org.apache.xerces.parsers.SAXParser not found
+[INFO ] 2017-10-31 16:07:10,744 [repositories/kiln] POST data to repository
+[INFO ] 2017-10-31 16:07:10,744 [repositories/kiln] no base URI specified, using dummy 'foo:bar'
+[WARN ] 2017-10-31 16:07:10,745 [repositories/kiln] Class org.apache.xerces.parsers.SAXParser not found
+[INFO ] 2017-10-31 16:07:10,846 [repositories/kiln] POST transaction to repository
+[WARN ] 2017-10-31 16:07:10,847 [repositories/kiln] Class org.apache.xerces.parsers.SAXParser not found
+[INFO ] 2017-10-31 16:07:10,990 [repositories/kiln] POST data to repository
+[INFO ] 2017-10-31 16:07:10,990 [repositories/kiln] no base URI specified, using dummy 'foo:bar'
+[WARN ] 2017-10-31 16:07:10,991 [repositories/kiln] Class org.apache.xerces.parsers.SAXParser not found
+[INFO ] 2017-10-31 16:07:11,115 [repositories/kiln] POST transaction to repository
+[WARN ] 2017-10-31 16:07:11,115 [repositories/kiln] Class org.apache.xerces.parsers.SAXParser not found
+[INFO ] 2017-10-31 16:07:11,326 [repositories/kiln] POST data to repository
+[INFO ] 2017-10-31 16:07:11,326 [repositories/kiln] no base URI specified, using dummy 'foo:bar'
+[WARN ] 2017-10-31 16:07:11,327 [repositories/kiln] Class org.apache.xerces.parsers.SAXParser not found
+[INFO ] 2017-10-31 16:07:11,414 [repositories/kiln] POST transaction to repository
+[WARN ] 2017-10-31 16:07:11,415 [repositories/kiln] Class org.apache.xerces.parsers.SAXParser not found
+[INFO ] 2017-10-31 16:07:11,552 [repositories/kiln] POST data to repository
+[INFO ] 2017-10-31 16:07:11,552 [repositories/kiln] no base URI specified, using dummy 'foo:bar'
+[WARN ] 2017-10-31 16:07:11,552 [repositories/kiln] Class org.apache.xerces.parsers.SAXParser not found
+[INFO ] 2017-10-31 16:07:11,661 [repositories/kiln] POST transaction to repository
+[WARN ] 2017-10-31 16:07:11,661 [repositories/kiln] Class org.apache.xerces.parsers.SAXParser not found
+[INFO ] 2017-10-31 16:07:11,825 [repositories/kiln] POST data to repository
+[INFO ] 2017-10-31 16:07:11,825 [repositories/kiln] no base URI specified, using dummy 'foo:bar'
+[WARN ] 2017-10-31 16:07:11,825 [repositories/kiln] Class org.apache.xerces.parsers.SAXParser not found
+[INFO ] 2017-10-31 16:07:11,944 [repositories/kiln] POST transaction to repository
+[WARN ] 2017-10-31 16:07:11,944 [repositories/kiln] Class org.apache.xerces.parsers.SAXParser not found
+[INFO ] 2017-10-31 16:07:12,185 [repositories/kiln] POST data to repository
+[INFO ] 2017-10-31 16:07:12,185 [repositories/kiln] no base URI specified, using dummy 'foo:bar'
+[WARN ] 2017-10-31 16:07:12,186 [repositories/kiln] Class org.apache.xerces.parsers.SAXParser not found
+[INFO ] 2017-10-31 16:07:12,280 [repositories/kiln] POST transaction to repository
+[WARN ] 2017-10-31 16:07:12,281 [repositories/kiln] Class org.apache.xerces.parsers.SAXParser not found
+[INFO ] 2017-10-31 16:07:12,290 [repositories/kiln] POST data to repository
+[INFO ] 2017-10-31 16:07:12,290 [repositories/kiln] no base URI specified, using dummy 'foo:bar'
+[WARN ] 2017-10-31 16:07:12,290 [repositories/kiln] Class org.apache.xerces.parsers.SAXParser not found
+[INFO ] 2017-10-31 16:07:12,300 [repositories/kiln] POST transaction to repository
+[WARN ] 2017-10-31 16:07:12,300 [repositories/kiln] Class org.apache.xerces.parsers.SAXParser not found
+[INFO ] 2017-10-31 16:07:12,308 [repositories/kiln] POST data to repository
+[INFO ] 2017-10-31 16:07:12,308 [repositories/kiln] no base URI specified, using dummy 'foo:bar'
+[WARN ] 2017-10-31 16:07:12,309 [repositories/kiln] Class org.apache.xerces.parsers.SAXParser not found
+[INFO ] 2017-10-31 16:07:12,318 [repositories/kiln] POST transaction to repository
+[WARN ] 2017-10-31 16:07:12,318 [repositories/kiln] Class org.apache.xerces.parsers.SAXParser not found
+[INFO ] 2017-10-31 16:07:12,326 [repositories/kiln] POST data to repository
+[INFO ] 2017-10-31 16:07:12,326 [repositories/kiln] no base URI specified, using dummy 'foo:bar'
+[WARN ] 2017-10-31 16:07:12,327 [repositories/kiln] Class org.apache.xerces.parsers.SAXParser not found
+[INFO ] 2017-10-31 16:07:12,336 [repositories/kiln] POST transaction to repository
+[WARN ] 2017-10-31 16:07:12,336 [repositories/kiln] Class org.apache.xerces.parsers.SAXParser not found
+[INFO ] 2017-10-31 16:07:12,345 [repositories/kiln] POST data to repository
+[INFO ] 2017-10-31 16:07:12,345 [repositories/kiln] no base URI specified, using dummy 'foo:bar'
+[WARN ] 2017-10-31 16:07:12,346 [repositories/kiln] Class org.apache.xerces.parsers.SAXParser not found
+[INFO ] 2017-10-31 16:07:12,353 [repositories/kiln] POST transaction to repository
+[WARN ] 2017-10-31 16:07:12,354 [repositories/kiln] Class org.apache.xerces.parsers.SAXParser not found
+[INFO ] 2017-10-31 16:07:12,361 [repositories/kiln] POST data to repository
+[INFO ] 2017-10-31 16:07:12,361 [repositories/kiln] no base URI specified, using dummy 'foo:bar'
+[WARN ] 2017-10-31 16:07:12,362 [repositories/kiln] Class org.apache.xerces.parsers.SAXParser not found
+[INFO ] 2017-10-31 16:07:12,370 [repositories/kiln] POST transaction to repository
+[WARN ] 2017-10-31 16:07:12,371 [repositories/kiln] Class org.apache.xerces.parsers.SAXParser not found
+[INFO ] 2017-10-31 16:07:12,378 [repositories/kiln] POST data to repository
+[INFO ] 2017-10-31 16:07:12,378 [repositories/kiln] no base URI specified, using dummy 'foo:bar'
+[WARN ] 2017-10-31 16:07:12,378 [repositories/kiln] Class org.apache.xerces.parsers.SAXParser not found
+[INFO ] 2017-10-31 16:07:12,387 [repositories/kiln] POST transaction to repository
+[WARN ] 2017-10-31 16:07:12,388 [repositories/kiln] Class org.apache.xerces.parsers.SAXParser not found
+[INFO ] 2017-10-31 16:07:12,400 [repositories/kiln] POST data to repository
+[INFO ] 2017-10-31 16:07:12,400 [repositories/kiln] no base URI specified, using dummy 'foo:bar'
+[WARN ] 2017-10-31 16:07:12,400 [repositories/kiln] Class org.apache.xerces.parsers.SAXParser not found
+[INFO ] 2017-10-31 16:07:12,412 [repositories/kiln] POST transaction to repository
+[WARN ] 2017-10-31 16:07:12,413 [repositories/kiln] Class org.apache.xerces.parsers.SAXParser not found
+[INFO ] 2017-10-31 16:07:12,422 [repositories/kiln] POST data to repository
+[INFO ] 2017-10-31 16:07:12,422 [repositories/kiln] no base URI specified, using dummy 'foo:bar'
+[WARN ] 2017-10-31 16:07:12,422 [repositories/kiln] Class org.apache.xerces.parsers.SAXParser not found
+[INFO ] 2017-10-31 16:07:12,432 [repositories/kiln] POST transaction to repository
+[WARN ] 2017-10-31 16:07:12,432 [repositories/kiln] Class org.apache.xerces.parsers.SAXParser not found
+[INFO ] 2017-10-31 16:07:12,441 [repositories/kiln] POST data to repository
+[INFO ] 2017-10-31 16:07:12,441 [repositories/kiln] no base URI specified, using dummy 'foo:bar'
+[WARN ] 2017-10-31 16:07:12,441 [repositories/kiln] Class org.apache.xerces.parsers.SAXParser not found
+[INFO ] 2017-10-31 16:07:12,452 [repositories/kiln] POST transaction to repository
+[WARN ] 2017-10-31 16:07:12,452 [repositories/kiln] Class org.apache.xerces.parsers.SAXParser not found
+[INFO ] 2017-10-31 16:07:12,461 [repositories/kiln] POST data to repository
+[INFO ] 2017-10-31 16:07:12,461 [repositories/kiln] no base URI specified, using dummy 'foo:bar'
+[WARN ] 2017-10-31 16:07:12,462 [repositories/kiln] Class org.apache.xerces.parsers.SAXParser not found
+[INFO ] 2017-10-31 16:07:12,471 [repositories/kiln] POST transaction to repository
+[WARN ] 2017-10-31 16:07:12,471 [repositories/kiln] Class org.apache.xerces.parsers.SAXParser not found
+[INFO ] 2017-10-31 16:07:12,478 [repositories/kiln] POST data to repository
+[INFO ] 2017-10-31 16:07:12,478 [repositories/kiln] no base URI specified, using dummy 'foo:bar'
+[WARN ] 2017-10-31 16:07:12,479 [repositories/kiln] Class org.apache.xerces.parsers.SAXParser not found
+[INFO ] 2017-10-31 16:07:12,487 [repositories/kiln] POST transaction to repository
+[WARN ] 2017-10-31 16:07:12,488 [repositories/kiln] Class org.apache.xerces.parsers.SAXParser not found
+[INFO ] 2017-10-31 16:07:12,496 [repositories/kiln] POST data to repository
+[INFO ] 2017-10-31 16:07:12,496 [repositories/kiln] no base URI specified, using dummy 'foo:bar'
+[WARN ] 2017-10-31 16:07:12,497 [repositories/kiln] Class org.apache.xerces.parsers.SAXParser not found
+[INFO ] 2017-10-31 16:07:12,509 [repositories/kiln] POST transaction to repository
+[WARN ] 2017-10-31 16:07:12,509 [repositories/kiln] Class org.apache.xerces.parsers.SAXParser not found
+[INFO ] 2017-10-31 16:07:12,516 [repositories/kiln] POST data to repository
+[INFO ] 2017-10-31 16:07:12,516 [repositories/kiln] no base URI specified, using dummy 'foo:bar'
+[WARN ] 2017-10-31 16:07:12,517 [repositories/kiln] Class org.apache.xerces.parsers.SAXParser not found
+[INFO ] 2017-10-31 16:07:12,525 [repositories/kiln] POST transaction to repository
+[WARN ] 2017-10-31 16:07:12,526 [repositories/kiln] Class org.apache.xerces.parsers.SAXParser not found
+[INFO ] 2017-10-31 16:07:12,533 [repositories/kiln] POST data to repository
+[INFO ] 2017-10-31 16:07:12,533 [repositories/kiln] no base URI specified, using dummy 'foo:bar'
+[WARN ] 2017-10-31 16:07:12,534 [repositories/kiln] Class org.apache.xerces.parsers.SAXParser not found
+[INFO ] 2017-10-31 16:07:12,544 [repositories/kiln] POST transaction to repository
+[WARN ] 2017-10-31 16:07:12,544 [repositories/kiln] Class org.apache.xerces.parsers.SAXParser not found
+[INFO ] 2017-10-31 16:07:12,555 [repositories/kiln] POST data to repository
+[INFO ] 2017-10-31 16:07:12,555 [repositories/kiln] no base URI specified, using dummy 'foo:bar'
+[WARN ] 2017-10-31 16:07:12,555 [repositories/kiln] Class org.apache.xerces.parsers.SAXParser not found
+[INFO ] 2017-10-31 16:07:12,566 [repositories/kiln] POST transaction to repository
+[WARN ] 2017-10-31 16:07:12,566 [repositories/kiln] Class org.apache.xerces.parsers.SAXParser not found
+[INFO ] 2017-10-31 16:07:12,745 [repositories/kiln] POST data to repository
+[INFO ] 2017-10-31 16:07:12,745 [repositories/kiln] no base URI specified, using dummy 'foo:bar'
+[WARN ] 2017-10-31 16:07:12,745 [repositories/kiln] Class org.apache.xerces.parsers.SAXParser not found
+[INFO ] 2017-10-31 16:07:19,442 [repositories/kiln] POST query -1227659729
+[INFO ] 2017-10-31 16:07:19,568 [repositories/kiln] Request for query -1227659729 is finished
+[INFO ] 2017-10-31 16:08:06,778 [repositories/kiln] POST query -1227659729
+[INFO ] 2017-10-31 16:08:06,803 [repositories/kiln] Request for query -1227659729 is finished
+[INFO ] 2017-10-31 16:11:11,921 [repositories/kiln] POST query -1227659729
+[INFO ] 2017-10-31 16:11:11,942 [repositories/kiln] Request for query -1227659729 is finished
+[INFO ] 2017-10-31 16:12:32,373 [repositories/kiln] POST query -1227659729
+[INFO ] 2017-10-31 16:12:32,391 [repositories/kiln] Request for query -1227659729 is finished
+[INFO ] 2017-10-31 16:13:11,067 [repositories/kiln] POST query -1227659729
+[INFO ] 2017-10-31 16:13:11,085 [repositories/kiln] Request for query -1227659729 is finished
+[INFO ] 2017-10-31 16:14:25,748 [repositories/kiln] POST query -1227659729
+[INFO ] 2017-10-31 16:14:25,769 [repositories/kiln] Request for query -1227659729 is finished
+[INFO ] 2017-10-31 16:18:33,640 [Thread-1] Closing org.springframework.web.context.support.XmlWebApplicationContext@6dc6608c: display name [WebApplicationContext for namespace 'openrdf-http-server-servlet']; startup date [Tue Oct 31 16:05:51 EET 2017]; root of context hierarchy
+[INFO ] 2017-10-31 16:18:33,641 [Thread-1] Destroying singletons in org.springframework.beans.factory.support.DefaultListableBeanFactory@487fc205: defining beans [messageSource,adunaAppVersion,adunaAppConfig,adunaWebappNavigation,adunaWebappCommonValuesInserter,adunaWebappMessageInserter,adunaWebappNavigationInserter,filenameViewController,viewResolver,adunaWebappSystemUrlMapping,adunaWebappSystemOverviewController,adunaWebappLoggingOverviewController,adunaWebappSystemInfoController,openrdfRepositoryManager,scopedTarget.openrdfRepositoryInterceptor,openrdfRepositoryInterceptor,openrdfProtocolUrlMapping,openrdfRepositoryListUrlMapping,openrdfRepositoryUrlMapping,openrdfServerHomeUrlMapping,openrdfHandlerExceptionResolver,openrdfProtocolController,openrdfRepositoryListController,openrdfRepositoryController,openrdfRepositoryContextsController,openrdfRepositoryNamespacesController,openrdfRepositoryNamespaceController,openrdfRepositorySizeController,openrdfRepositoryStatementsController,openrdfRepositoryGraphController]; root of factory hierarchy
+[INFO ] 2017-10-31 16:19:08,380 [main] Logback logging API implementation is configured.
+[INFO ] 2017-10-31 16:19:13,681 [main] FrameworkServlet 'openrdf-http-server': initialization completed in 10739 ms
+[INFO ] 2017-10-31 16:19:44,994 [repositories/kiln] POST query -1227659729
+[INFO ] 2017-10-31 16:19:45,166 [repositories/kiln] Request for query -1227659729 is finished
+[INFO ] 2017-10-31 16:20:25,369 [repositories/kiln] POST transaction to repository
+[WARN ] 2017-10-31 16:20:25,372 [repositories/kiln] Class org.apache.xerces.parsers.SAXParser not found
+[INFO ] 2017-10-31 16:20:25,849 [repositories/kiln] POST data to repository
+[INFO ] 2017-10-31 16:20:25,862 [repositories/kiln] no base URI specified, using dummy 'foo:bar'
+[WARN ] 2017-10-31 16:20:25,879 [repositories/kiln] Class org.apache.xerces.parsers.SAXParser not found
+[INFO ] 2017-10-31 16:20:26,034 [repositories/kiln] POST transaction to repository
+[WARN ] 2017-10-31 16:20:26,034 [repositories/kiln] Class org.apache.xerces.parsers.SAXParser not found
+[INFO ] 2017-10-31 16:20:26,306 [repositories/kiln] POST data to repository
+[INFO ] 2017-10-31 16:20:26,306 [repositories/kiln] no base URI specified, using dummy 'foo:bar'
+[WARN ] 2017-10-31 16:20:26,307 [repositories/kiln] Class org.apache.xerces.parsers.SAXParser not found
+[INFO ] 2017-10-31 16:20:26,441 [repositories/kiln] POST transaction to repository
+[WARN ] 2017-10-31 16:20:26,442 [repositories/kiln] Class org.apache.xerces.parsers.SAXParser not found
+[INFO ] 2017-10-31 16:20:26,683 [repositories/kiln] POST data to repository
+[INFO ] 2017-10-31 16:20:26,684 [repositories/kiln] no base URI specified, using dummy 'foo:bar'
+[WARN ] 2017-10-31 16:20:26,684 [repositories/kiln] Class org.apache.xerces.parsers.SAXParser not found
+[INFO ] 2017-10-31 16:20:26,805 [repositories/kiln] POST transaction to repository
+[WARN ] 2017-10-31 16:20:26,805 [repositories/kiln] Class org.apache.xerces.parsers.SAXParser not found
+[INFO ] 2017-10-31 16:20:26,998 [repositories/kiln] POST data to repository
+[INFO ] 2017-10-31 16:20:26,999 [repositories/kiln] no base URI specified, using dummy 'foo:bar'
+[WARN ] 2017-10-31 16:20:26,999 [repositories/kiln] Class org.apache.xerces.parsers.SAXParser not found
+[INFO ] 2017-10-31 16:20:27,125 [repositories/kiln] POST transaction to repository
+[WARN ] 2017-10-31 16:20:27,125 [repositories/kiln] Class org.apache.xerces.parsers.SAXParser not found
+[INFO ] 2017-10-31 16:20:27,267 [repositories/kiln] POST data to repository
+[INFO ] 2017-10-31 16:20:27,267 [repositories/kiln] no base URI specified, using dummy 'foo:bar'
+[WARN ] 2017-10-31 16:20:27,268 [repositories/kiln] Class org.apache.xerces.parsers.SAXParser not found
+[INFO ] 2017-10-31 16:20:27,387 [repositories/kiln] POST transaction to repository
+[WARN ] 2017-10-31 16:20:27,387 [repositories/kiln] Class org.apache.xerces.parsers.SAXParser not found
+[INFO ] 2017-10-31 16:20:27,583 [repositories/kiln] POST data to repository
+[INFO ] 2017-10-31 16:20:27,584 [repositories/kiln] no base URI specified, using dummy 'foo:bar'
+[WARN ] 2017-10-31 16:20:27,584 [repositories/kiln] Class org.apache.xerces.parsers.SAXParser not found
+[INFO ] 2017-10-31 16:20:27,695 [repositories/kiln] POST transaction to repository
+[WARN ] 2017-10-31 16:20:27,695 [repositories/kiln] Class org.apache.xerces.parsers.SAXParser not found
+[INFO ] 2017-10-31 16:20:27,843 [repositories/kiln] POST data to repository
+[INFO ] 2017-10-31 16:20:27,843 [repositories/kiln] no base URI specified, using dummy 'foo:bar'
+[WARN ] 2017-10-31 16:20:27,844 [repositories/kiln] Class org.apache.xerces.parsers.SAXParser not found
+[INFO ] 2017-10-31 16:20:27,942 [repositories/kiln] POST transaction to repository
+[WARN ] 2017-10-31 16:20:27,942 [repositories/kiln] Class org.apache.xerces.parsers.SAXParser not found
+[INFO ] 2017-10-31 16:20:28,098 [repositories/kiln] POST data to repository
+[INFO ] 2017-10-31 16:20:28,098 [repositories/kiln] no base URI specified, using dummy 'foo:bar'
+[WARN ] 2017-10-31 16:20:28,099 [repositories/kiln] Class org.apache.xerces.parsers.SAXParser not found
+[INFO ] 2017-10-31 16:20:28,191 [repositories/kiln] POST transaction to repository
+[WARN ] 2017-10-31 16:20:28,192 [repositories/kiln] Class org.apache.xerces.parsers.SAXParser not found
+[INFO ] 2017-10-31 16:20:28,332 [repositories/kiln] POST data to repository
+[INFO ] 2017-10-31 16:20:28,332 [repositories/kiln] no base URI specified, using dummy 'foo:bar'
+[WARN ] 2017-10-31 16:20:28,332 [repositories/kiln] Class org.apache.xerces.parsers.SAXParser not found
+[INFO ] 2017-10-31 16:20:28,428 [repositories/kiln] POST transaction to repository
+[WARN ] 2017-10-31 16:20:28,428 [repositories/kiln] Class org.apache.xerces.parsers.SAXParser not found
+[INFO ] 2017-10-31 16:20:28,601 [repositories/kiln] POST data to repository
+[INFO ] 2017-10-31 16:20:28,601 [repositories/kiln] no base URI specified, using dummy 'foo:bar'
+[WARN ] 2017-10-31 16:20:28,602 [repositories/kiln] Class org.apache.xerces.parsers.SAXParser not found
+[INFO ] 2017-10-31 16:20:28,693 [repositories/kiln] POST transaction to repository
+[WARN ] 2017-10-31 16:20:28,694 [repositories/kiln] Class org.apache.xerces.parsers.SAXParser not found
+[INFO ] 2017-10-31 16:20:28,846 [repositories/kiln] POST data to repository
+[INFO ] 2017-10-31 16:20:28,846 [repositories/kiln] no base URI specified, using dummy 'foo:bar'
+[WARN ] 2017-10-31 16:20:28,847 [repositories/kiln] Class org.apache.xerces.parsers.SAXParser not found
+[INFO ] 2017-10-31 16:20:28,939 [repositories/kiln] POST transaction to repository
+[WARN ] 2017-10-31 16:20:28,940 [repositories/kiln] Class org.apache.xerces.parsers.SAXParser not found
+[INFO ] 2017-10-31 16:20:28,948 [repositories/kiln] POST data to repository
+[INFO ] 2017-10-31 16:20:28,948 [repositories/kiln] no base URI specified, using dummy 'foo:bar'
+[WARN ] 2017-10-31 16:20:28,948 [repositories/kiln] Class org.apache.xerces.parsers.SAXParser not found
+[INFO ] 2017-10-31 16:20:28,960 [repositories/kiln] POST transaction to repository
+[WARN ] 2017-10-31 16:20:28,961 [repositories/kiln] Class org.apache.xerces.parsers.SAXParser not found
+[INFO ] 2017-10-31 16:20:28,968 [repositories/kiln] POST data to repository
+[INFO ] 2017-10-31 16:20:28,969 [repositories/kiln] no base URI specified, using dummy 'foo:bar'
+[WARN ] 2017-10-31 16:20:28,969 [repositories/kiln] Class org.apache.xerces.parsers.SAXParser not found
+[INFO ] 2017-10-31 16:20:28,977 [repositories/kiln] POST transaction to repository
+[WARN ] 2017-10-31 16:20:28,977 [repositories/kiln] Class org.apache.xerces.parsers.SAXParser not found
+[INFO ] 2017-10-31 16:20:28,989 [repositories/kiln] POST data to repository
+[INFO ] 2017-10-31 16:20:28,990 [repositories/kiln] no base URI specified, using dummy 'foo:bar'
+[WARN ] 2017-10-31 16:20:28,990 [repositories/kiln] Class org.apache.xerces.parsers.SAXParser not found
+[INFO ] 2017-10-31 16:20:28,998 [repositories/kiln] POST transaction to repository
+[WARN ] 2017-10-31 16:20:28,999 [repositories/kiln] Class org.apache.xerces.parsers.SAXParser not found
+[INFO ] 2017-10-31 16:20:29,005 [repositories/kiln] POST data to repository
+[INFO ] 2017-10-31 16:20:29,005 [repositories/kiln] no base URI specified, using dummy 'foo:bar'
+[WARN ] 2017-10-31 16:20:29,006 [repositories/kiln] Class org.apache.xerces.parsers.SAXParser not found
+[INFO ] 2017-10-31 16:20:29,014 [repositories/kiln] POST transaction to repository
+[WARN ] 2017-10-31 16:20:29,015 [repositories/kiln] Class org.apache.xerces.parsers.SAXParser not found
+[INFO ] 2017-10-31 16:20:29,022 [repositories/kiln] POST data to repository
+[INFO ] 2017-10-31 16:20:29,022 [repositories/kiln] no base URI specified, using dummy 'foo:bar'
+[WARN ] 2017-10-31 16:20:29,022 [repositories/kiln] Class org.apache.xerces.parsers.SAXParser not found
+[INFO ] 2017-10-31 16:20:29,031 [repositories/kiln] POST transaction to repository
+[WARN ] 2017-10-31 16:20:29,031 [repositories/kiln] Class org.apache.xerces.parsers.SAXParser not found
+[INFO ] 2017-10-31 16:20:29,039 [repositories/kiln] POST data to repository
+[INFO ] 2017-10-31 16:20:29,039 [repositories/kiln] no base URI specified, using dummy 'foo:bar'
+[WARN ] 2017-10-31 16:20:29,040 [repositories/kiln] Class org.apache.xerces.parsers.SAXParser not found
+[INFO ] 2017-10-31 16:20:29,047 [repositories/kiln] POST transaction to repository
+[WARN ] 2017-10-31 16:20:29,048 [repositories/kiln] Class org.apache.xerces.parsers.SAXParser not found
+[INFO ] 2017-10-31 16:20:29,053 [repositories/kiln] POST data to repository
+[INFO ] 2017-10-31 16:20:29,053 [repositories/kiln] no base URI specified, using dummy 'foo:bar'
+[WARN ] 2017-10-31 16:20:29,068 [repositories/kiln] Class org.apache.xerces.parsers.SAXParser not found
+[INFO ] 2017-10-31 16:20:29,078 [repositories/kiln] POST transaction to repository
+[WARN ] 2017-10-31 16:20:29,079 [repositories/kiln] Class org.apache.xerces.parsers.SAXParser not found
+[INFO ] 2017-10-31 16:20:29,085 [repositories/kiln] POST data to repository
+[INFO ] 2017-10-31 16:20:29,085 [repositories/kiln] no base URI specified, using dummy 'foo:bar'
+[WARN ] 2017-10-31 16:20:29,086 [repositories/kiln] Class org.apache.xerces.parsers.SAXParser not found
+[INFO ] 2017-10-31 16:20:29,094 [repositories/kiln] POST transaction to repository
+[WARN ] 2017-10-31 16:20:29,095 [repositories/kiln] Class org.apache.xerces.parsers.SAXParser not found
+[INFO ] 2017-10-31 16:20:29,104 [repositories/kiln] POST data to repository
+[INFO ] 2017-10-31 16:20:29,104 [repositories/kiln] no base URI specified, using dummy 'foo:bar'
+[WARN ] 2017-10-31 16:20:29,104 [repositories/kiln] Class org.apache.xerces.parsers.SAXParser not found
+[INFO ] 2017-10-31 16:20:29,115 [repositories/kiln] POST transaction to repository
+[WARN ] 2017-10-31 16:20:29,117 [repositories/kiln] Class org.apache.xerces.parsers.SAXParser not found
+[INFO ] 2017-10-31 16:20:29,125 [repositories/kiln] POST data to repository
+[INFO ] 2017-10-31 16:20:29,125 [repositories/kiln] no base URI specified, using dummy 'foo:bar'
+[WARN ] 2017-10-31 16:20:29,126 [repositories/kiln] Class org.apache.xerces.parsers.SAXParser not found
+[INFO ] 2017-10-31 16:20:29,135 [repositories/kiln] POST transaction to repository
+[WARN ] 2017-10-31 16:20:29,135 [repositories/kiln] Class org.apache.xerces.parsers.SAXParser not found
+[INFO ] 2017-10-31 16:20:29,143 [repositories/kiln] POST data to repository
+[INFO ] 2017-10-31 16:20:29,143 [repositories/kiln] no base URI specified, using dummy 'foo:bar'
+[WARN ] 2017-10-31 16:20:29,143 [repositories/kiln] Class org.apache.xerces.parsers.SAXParser not found
+[INFO ] 2017-10-31 16:20:29,150 [repositories/kiln] POST transaction to repository
+[WARN ] 2017-10-31 16:20:29,151 [repositories/kiln] Class org.apache.xerces.parsers.SAXParser not found
+[INFO ] 2017-10-31 16:20:29,160 [repositories/kiln] POST data to repository
+[INFO ] 2017-10-31 16:20:29,160 [repositories/kiln] no base URI specified, using dummy 'foo:bar'
+[WARN ] 2017-10-31 16:20:29,160 [repositories/kiln] Class org.apache.xerces.parsers.SAXParser not found
+[INFO ] 2017-10-31 16:20:29,169 [repositories/kiln] POST transaction to repository
+[WARN ] 2017-10-31 16:20:29,170 [repositories/kiln] Class org.apache.xerces.parsers.SAXParser not found
+[INFO ] 2017-10-31 16:20:29,177 [repositories/kiln] POST data to repository
+[INFO ] 2017-10-31 16:20:29,177 [repositories/kiln] no base URI specified, using dummy 'foo:bar'
+[WARN ] 2017-10-31 16:20:29,178 [repositories/kiln] Class org.apache.xerces.parsers.SAXParser not found
+[INFO ] 2017-10-31 16:20:29,186 [repositories/kiln] POST transaction to repository
+[WARN ] 2017-10-31 16:20:29,186 [repositories/kiln] Class org.apache.xerces.parsers.SAXParser not found
+[INFO ] 2017-10-31 16:20:29,193 [repositories/kiln] POST data to repository
+[INFO ] 2017-10-31 16:20:29,193 [repositories/kiln] no base URI specified, using dummy 'foo:bar'
+[WARN ] 2017-10-31 16:20:29,194 [repositories/kiln] Class org.apache.xerces.parsers.SAXParser not found
+[INFO ] 2017-10-31 16:20:29,201 [repositories/kiln] POST transaction to repository
+[WARN ] 2017-10-31 16:20:29,202 [repositories/kiln] Class org.apache.xerces.parsers.SAXParser not found
+[INFO ] 2017-10-31 16:20:29,209 [repositories/kiln] POST data to repository
+[INFO ] 2017-10-31 16:20:29,210 [repositories/kiln] no base URI specified, using dummy 'foo:bar'
+[WARN ] 2017-10-31 16:20:29,210 [repositories/kiln] Class org.apache.xerces.parsers.SAXParser not found
+[INFO ] 2017-10-31 16:20:29,218 [repositories/kiln] POST transaction to repository
+[WARN ] 2017-10-31 16:20:29,219 [repositories/kiln] Class org.apache.xerces.parsers.SAXParser not found
+[INFO ] 2017-10-31 16:20:29,412 [repositories/kiln] POST data to repository
+[INFO ] 2017-10-31 16:20:29,412 [repositories/kiln] no base URI specified, using dummy 'foo:bar'
+[WARN ] 2017-10-31 16:20:29,413 [repositories/kiln] Class org.apache.xerces.parsers.SAXParser not found
+[INFO ] 2017-10-31 16:20:40,147 [repositories/kiln] POST query -1227659729
+[INFO ] 2017-10-31 16:20:40,178 [repositories/kiln] Request for query -1227659729 is finished
+[INFO ] 2017-10-31 16:24:13,897 [Thread-1] Closing org.springframework.web.context.support.XmlWebApplicationContext@6dc6608c: display name [WebApplicationContext for namespace 'openrdf-http-server-servlet']; startup date [Tue Oct 31 16:19:02 EET 2017]; root of context hierarchy
+[INFO ] 2017-10-31 16:24:13,898 [Thread-1] Destroying singletons in org.springframework.beans.factory.support.DefaultListableBeanFactory@487fc205: defining beans [messageSource,adunaAppVersion,adunaAppConfig,adunaWebappNavigation,adunaWebappCommonValuesInserter,adunaWebappMessageInserter,adunaWebappNavigationInserter,filenameViewController,viewResolver,adunaWebappSystemUrlMapping,adunaWebappSystemOverviewController,adunaWebappLoggingOverviewController,adunaWebappSystemInfoController,openrdfRepositoryManager,scopedTarget.openrdfRepositoryInterceptor,openrdfRepositoryInterceptor,openrdfProtocolUrlMapping,openrdfRepositoryListUrlMapping,openrdfRepositoryUrlMapping,openrdfServerHomeUrlMapping,openrdfHandlerExceptionResolver,openrdfProtocolController,openrdfRepositoryListController,openrdfRepositoryController,openrdfRepositoryContextsController,openrdfRepositoryNamespacesController,openrdfRepositoryNamespaceController,openrdfRepositorySizeController,openrdfRepositoryStatementsController,openrdfRepositoryGraphController]; root of factory hierarchy
+[INFO ] 2017-10-31 16:24:51,809 [main] Logback logging API implementation is configured.
+[INFO ] 2017-10-31 16:24:57,106 [main] FrameworkServlet 'openrdf-http-server': initialization completed in 10667 ms
+[INFO ] 2017-10-31 16:25:30,966 [main] Logback logging API implementation is configured.
+[INFO ] 2017-10-31 16:25:36,323 [main] FrameworkServlet 'openrdf-http-server': initialization completed in 10830 ms
+[INFO ] 2017-10-31 16:26:17,879 [repositories/kiln] POST query -1227659729
+[INFO ] 2017-10-31 16:26:18,067 [repositories/kiln] Request for query -1227659729 is finished
+[INFO ] 2017-10-31 16:34:53,062 [Thread-1] Closing org.springframework.web.context.support.XmlWebApplicationContext@6a4484e6: display name [WebApplicationContext for namespace 'openrdf-http-server-servlet']; startup date [Tue Oct 31 16:25:25 EET 2017]; root of context hierarchy
+[INFO ] 2017-10-31 16:34:53,063 [Thread-1] Destroying singletons in org.springframework.beans.factory.support.DefaultListableBeanFactory@7d6e3e42: defining beans [messageSource,adunaAppVersion,adunaAppConfig,adunaWebappNavigation,adunaWebappCommonValuesInserter,adunaWebappMessageInserter,adunaWebappNavigationInserter,filenameViewController,viewResolver,adunaWebappSystemUrlMapping,adunaWebappSystemOverviewController,adunaWebappLoggingOverviewController,adunaWebappSystemInfoController,openrdfRepositoryManager,scopedTarget.openrdfRepositoryInterceptor,openrdfRepositoryInterceptor,openrdfProtocolUrlMapping,openrdfRepositoryListUrlMapping,openrdfRepositoryUrlMapping,openrdfServerHomeUrlMapping,openrdfHandlerExceptionResolver,openrdfProtocolController,openrdfRepositoryListController,openrdfRepositoryController,openrdfRepositoryContextsController,openrdfRepositoryNamespacesController,openrdfRepositoryNamespaceController,openrdfRepositorySizeController,openrdfRepositoryStatementsController,openrdfRepositoryGraphController]; root of factory hierarchy
+[INFO ] 2017-10-31 16:35:19,184 [main] Logback logging API implementation is configured.
+[INFO ] 2017-10-31 16:35:24,494 [main] FrameworkServlet 'openrdf-http-server': initialization completed in 10822 ms

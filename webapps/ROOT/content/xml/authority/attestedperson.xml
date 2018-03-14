@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title/>
+         </titleStmt>
+         <publicationStmt>
+            <ab/>
+         </publicationStmt>
+         <sourceDesc>
+            <ab/>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <particDesc>
+            <listPerson>
+               <person xml:id="person11">
+                  <persName xml:lang="grc">Λέων Ἀλιάτης</persName>
+                  <persName xml:lang="ru">Лев Алиат</persName>
+                  <persName xml:lang="en">Leon Aliates</persName>
+                  <floruit notBefore="1059" notAfter="1059">
+                     <seg xml:lang="ru">1059 г.</seg>
+                     <seg xml:lang="en">1059 C.E.</seg>
+                  </floruit>
+                  <occupation>πατρίκιος καὶ στρατηγὸς Χερσῶνος καὶ Σουγδαίας</occupation>
+                  <affiliation>Cherson</affiliation>
+                  <listBibl>
+                     <bibl>http://iospe.kcl.ac.uk/5.11.html</bibl>
+                  </listBibl>
+               </person>
+               
+               <person xml:id="person371">
+                  <persName xml:lang="grc">Κυρά</persName>
+                  <persName xml:lang="ru">Кира</persName>
+                  <persName xml:lang="en">Kyra</persName>
+                  <floruit notBefore="1375" notAfter="1375">
+                     <seg xml:lang="ru">1375 г.</seg>
+                     <seg xml:lang="en">1375 C.E.</seg>
+                  </floruit>
+                  <affiliation>Bosporus</affiliation>
+                  <listBibl>
+                     <bibl>http://iospe.kcl.ac.uk/5.320.html</bibl>
+                  </listBibl>
+               </person>
+            </listPerson>         
+         </particDesc>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <ab/>
+      </body>
+   </text>
+</TEI>
