@@ -1,0 +1,66 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:py="http://codespeak.net/lxml/objectify/pytype" py:pytype="TREE">
+    <text>
+    <body>
+    <div type="edition" xml:lang="grc-Grek" n="urn:cts:greekDoc:seg.020-0110.sego">
+    <div type="textpart" subtype="commentary" n="lem">
+    <head>
+    Gornea (Garni). Aedificatio condita commemoratur, aet. imp. Rom.
+    </head>
+    <p>
+    <ref target="urn:cts:greekDoc:seg.015-0836.sego">SEG 15 836</ref>
+    ; McCrum-Woodhead,
+    <hi rend="italic">Doc. Flav. Emp.</hi>
+    238. Titulum anno 308
+    <hi rend="italic">p</hi>
+    attribuit, et ut de aedificatione pro regina Naiade suscepta agentem interpretatur L. A. Elnitski,
+    <hi rend="italic">VDI</hi>
+    1958(1), 146/8, c. del. fig. 1, cuius textum leviter correctum exhibernus.
+    </p>
+    </div>
+    <div type="textpart" subtype="edition" n="ed">
+    <ab>
+    <l n="1">
+    Ἥλιος Τ̣ι̣ρ̣ι̣δά
+    <supplied reason="lost">τη</supplied>
+    ς̣
+    </l>
+    <l n="2">
+    μεγάλης Ἀρμενίας ἀνά
+    <supplied reason="lost">πλε</supplied>
+    -
+    </l>
+    <l n="3">
+    ως δεσπότης αἴκτισε Ναι
+    <supplied reason="lost">άδι</supplied>
+    </l>
+    <l n="4">
+    <supplied reason="lost">βασιλίσ(σ)ᾳ τὸν ἀνίκητον κάσΓτελλον</supplied>
+    ,
+    </l>
+    <l n="5">
+    αἴτούς αι’ τῆς βασιλεί
+    <supplied reason="lost">ας εὐ</supplied>
+    -
+    </l>
+    <l n="6">
+    μενιέας (
+    <hi rend="italic">sic</hi>
+    )· ὑπὸ ἐξουσιαστεῖ ἀρή̣
+    </l>
+    <l n="7">
+    λιτουργὸς τῷ μεγάλῳ σ
+    <supplied reason="lost">πουδαί</supplied>
+    -
+    </l>
+    <l n="8">
+    μετὰ μα⟨θ⟩ητοῦ- - ῳ καὶ εὐχαρί
+    <supplied reason="lost">στῳ</supplied>
+    .
+    </l>
+    <l n="9">Του Μαρτυρίου.</l>
+    </ab>
+    </div>
+    </div>
+    </body>
+    </text>
+    </TEI>

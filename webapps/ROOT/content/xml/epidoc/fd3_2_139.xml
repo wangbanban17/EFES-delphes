@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:space="preserve">
+            <teiHeader>
+                <fileDesc>
+                    <titleStmt>
+                        <title>近邻邦联关于阿提卡银币的决议</title>
+                        <editor xml:id="iv"><persName>王班班</persName></editor>
+                    </titleStmt>
+                    <publicationStmt>
+                        <authority>希腊铭文选译</authority>
+                        <idno type="filename">FD 3.2.139</idno>
+                        <idno type="projectNo">1</idno>
+                        <availability>
+                            <licence target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons Attributions-NonCommercial-ShareAlike 4.0 International License</licence>
+                        </availability>
+                    </publicationStmt>
+                    <sourceDesc>
+                        <msDesc>
+                            <msIdentifier>
+                                <repository ref="#delphi_trathen">雅典圣宝库，德尔斐</repository> 
+                                <idno type="invNo"/>
+                            </msIdentifier>
+                            <msContents><summary corresp="#decree">决议</summary></msContents>
+                            <physDesc>
+                                <objectDesc>
+                                    <supportDesc>
+                                        <support><objectType ref="#block">大理石块</objectType>
+                                            <dimensions><width/><depth/><height/></dimensions></support>
+                                    </supportDesc>
+                                    <layoutDesc>
+                                        <layout/>
+                                    </layoutDesc>
+                                </objectDesc>
+                                <handDesc>
+                                    <handNote><height/></handNote>
+                                </handDesc>
+                            </physDesc>
+                            <history>
+                                <origin>
+                                    <origPlace ref="#gortyn">Gortyna, <foreign>Pythion</foreign></origPlace>
+                                    <origDate period="#hellenistic" notBefore="-0200" notAfter="-0170">inizi II secolo a.C.</origDate>
+                                </origin>
+                            </history>
+                        </msDesc>
+                    </sourceDesc>
+                </fileDesc>
+                <revisionDesc>
+                    <change when="2017-11-08" who="#iv">added</change>
+                    <change when="2018-12-20" who="#iv">completed</change>
+                </revisionDesc>
+            </teiHeader>
+            <text>
+                <body>
+                    <div type="edition" xml:lang="grc" xml:space="preserve">
+                        <ab>
+                          <lb n="0"/><gap reason="lost" quantity="1" unit="line"/>
+                          <lb n="1"/><gap reason="lost" extent="unknown" unit="character"/><gap reason="illegible" quantity="3" unit="character"/><orig>ιοασια</orig><gap reason="lost" quantity="3" unit="character"/> ἀνα<supplied reason="lost">λ</supplied>αμβανέσθωσ<unclear>α</unclear>ν <gap reason="lost" extent="unknown" unit="character"/>
+                          <lb n="2"/><unclear>τ</unclear>ῶν δ’ ἐκ τῆς πολεμίας ὠ<supplied reason="lost">φ</supplied>ελιῶ<unclear>ν</unclear>, ὅσα μὲν ἂν ἐξοδεύσαντες
+                          <lb n="3"/>κοινῆι τῶν <rs type="institution" subtype="board" role="war" key="archon" ref="#gortyn"><w lemma="ἄρχων">ἀρχόντων</w></rs> τινὸς <w lemma="ἡγέομαι">ἡγουμένου</w> λαμβάνωσιν, γινέ<lb 
+                        break="no" n="4"/>σθωι τῶν <w lemma="ἐπικαλέω">ἐπικαλεσαμένων</w> τὴμ <w lemma="βοήθεια">βοήθειαν</w>, τὰ δ’ ἰδίαι ληφθέν<lb 
+                        break="no" n="5"/>τα κ<supplied reason="lost">ατ</supplied>εχέτωσαν ἰδίαι· τὰ δὲ <unclear>τ</unclear>έλη πάντων τὰ ἐν ταῖς <rs type="institution" subtype="assembly" role="payments" key="polis" ref="#gortyn"><w lemma="πόλις">πόλε<lb 
+                        break="no" n="6"/>σι<unclear>ν</unclear></w></rs> <surplus>ε</surplus>τεταγμέν<unclear>α</unclear> ὅσα ἂν <w lemma="σῶμα">σώμ<supplied reason="lost">α</supplied>τα</w> ληφθέντ<unclear>α</unclear> παρ’ ὁποτέρων
+                          <lb n="6a"/><gap reason="lost" quantity="1" unit="line"/>
+                          </ab>
+                    </div>
+                    <div type="commentary">
+                        <p>Il trattato, relativo alla spartizone del bottino di guerra, è stipulato da Gortyna e un’altra <foreign>polis</foreign> di cui non si è conservato il nome. Il termine ἀρχόντων alla linea 3, a Gortyna impiegato in quest’unica iscrizione, sembra indicare in modo generico i magistrati delle due città, uno dei quali è a capo della spedizione (in altri testi di Gortyna compaiono invece ἀρκός – indicante il capo dell’<foreign>andreion</foreign> – in <ref type="ins" target="#ic4_75"><title>IC</title> IV 75</ref> e ἀρχῶ – forse come equivalente di protocosmo – in <ref type="ins" target="#ic4_250"><title>IC</title> IV 250</ref>).</p>
+                <p><emph>Elementi istituzionali o altri termini rilevanti</emph>: <ref type="inst" target="#archon"><foreign>archon</foreign></ref>, <ref type="inst" target="#polis"><foreign>polis</foreign></ref>.</p>
+                    </div>
+                    <div type="bibliography">
+                        <p><emph>Edd.</emph> <bibl><ref target="#b476">De Sanctis 1907</ref>, pp. 311-316 n. 17</bibl>; 
+                            <bibl type="main_edition"><ref target="#bib4"><title>IC</title> IV</ref> 180 <ptr type="phi" target="200619"/></bibl>; 
+                            <bibl type="indexed_edition"><ref target="#bib15">Chaniotis, <title>Verträge</title></ref> 46</bibl>.</p>
+                <p><emph>Cf.</emph> <bibl><ref target="#b613">Fernández Nieto 2003</ref>, p. 363</bibl>.</p>
+                    </div>
+               <div type="translation">
+                   <p>时值 Polyon 任德尔斐执政官，Daidaphorios 月 13 日，来到德尔斐的近邻邦联成员决定：</p>
+                   <p>所有[3]希腊人应以 4 德拉克马银（的价格）接受阿提卡的四德拉克马（银币）。</p>
+                   <p>如果[4]任何住在城中之人，无论是外邦人、公民还是奴隶，无论男女，不接受它（阿提卡四德拉克马）或不按照本法规定支付，那么奴隶将遭[6]官员鞭打；自由人将处 200 银德拉克马罚款。</p>
+                    <p>[7]各城邦官员与市集监督（ἀγορανόμος）当共同执法，向那些拒不遵守本法的人征收规定的罚款；罚款的一半归于将违法者移送有司者，另一半归于城邦。</p>
+                    <p>[10]如果在城邦或在公共节庆[负责]的官员对把违法者移送来的人不加协助，那么在符合近邻邦联法律的调查之后，这位官员将在近邻邦联受审。</p>
+                    <p>[13]同样，如果在城邦或公共节庆营业的汇兑商（τραπεζίτης）不遵守本法令，任何有意者均可将其移送有司受审；任何拒绝协助起诉者的（官员）也当受审，一如本法其他规定。</p>
+                    <p>[16]本法印封副本，当由每位圣使（ἱερομνήμων）带回本城邦；书记官（γραμματεύς）当将本法发往全希腊；并将其刻于德尔斐圣地内的雅典圣宝库（Treasury of the Athenians），同样亦刻于雅典卫城上，以使所有人都知道近邻邦联对此等事宜的安排。</p>
+                  
+               </div> 
+            </body>
+            </text>
+        </TEI>
