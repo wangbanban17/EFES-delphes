@@ -5,13 +5,13 @@
             <teiHeader>
                 <fileDesc>
                     <titleStmt>
-                        <title>Trattato fra Praisos e Hierapytna</title>
+                        <title>List of participating magistrates</title>
                         <editor xml:id="iv"><persName>WANG Banban</persName></editor>
                     </titleStmt>
                     <publicationStmt>
                         <authority>Attic Inscriptions Online in Delphi</authority>
-                        <idno type="filename">Chaniotis, Verträge 21</idno>
-                        <idno type="projectNo">511</idno>
+                        <idno type="filename">fd3_2_3</idno>
+                        <idno type="projectNo">1</idno>
                         <availability>
                             <licence target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons Attributions-NonCommercial-ShareAlike 4.0 International License</licence>
                         </availability>
@@ -19,7 +19,7 @@
                     <sourceDesc>
                         <msDesc>
                             <msIdentifier>
-                                <repository ref="#unknown">sconosciuta</repository> 
+                                <repository ref="513">513+635</repository> 
                                 <idno type="invNo"/>
                             </msIdentifier>
                             <msContents><summary corresp="#treaty">trattato</summary></msContents>
