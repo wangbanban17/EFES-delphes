@@ -1,0 +1,69 @@
+<body xmlns:xml="http://www.w3.org/XML/1998/namespace">
+    <div xml:lang="en" type="translation" xml:space="preserve">
+      <div n="1" subtype="title" type="textpart">
+        <p>
+          <lb/>For Good Fortune. In the archonship of Pyrrhos at Delphi,+1+
+          <lb/>and of Dionysios after Lykiskos in Athens,
+          <lb/>these <term target="theōroi" xml:lang="grc-Latn">sacred delegates</term> from the People 
+          <lb/>of Athens were dispatched to help in conducting the <term target="Pythaïda" xml:lang="grc-Latn">Pytha<lb break="no" n="5"/>is</term>+2+. 
+        </p>
+      </div> 
+      <div n="2" subtype="subcolumn" type="textpart">
+        <p>
+          <lb/>Demainetos son of Demeas,
+          <lb/>Eudemos son of Sarapion, by birth son of Gorgippos,+3+ 
+          <lb/><gap reason="lost" quantity="2" unit="character"/>anos son of Gorgippos,
+          <lb/>Chares the younger, son of Chares,
+          <lb n="10"/>Ptolemaios son of Euboulos, 
+          <lb/>Euboulos son of Euboulos, Dionysios son of Euboulos,
+          <lb/>Rhadamanthys son of Attinos,
+          <lb/>Sostratos son of Alexandros,
+          <lb/>Xenon son of Philanthos,
+        </p>
+      </div>
+      <div n="3" subtype="subcolumn" type="textpart">
+        <p>
+          <lb/><term target="theōroi" xml:lang="grc-Latn">Sacred delegates</term> from <placeName ref="https://pleiades.stoa.org/places/580117">Tetrapolis</placeName>:
+          <lb/>Mētrodōros son of Kallistratos,
+          <lb/>Damokritos son of Damokritos,
+          <lb/>Hēniochidēs son of Euphilētos
+          <lb/><space quantity="5" unit="character"/>from Pyrrhakis:
+          <lb/>Tiranax son of Euklēs of <placeName ref="https://pleiades.stoa.org/places/580076">Phlya</placeName><note type="deme">XIII</note>.
+        </p>
+      </div>
+    </div>
+    <div xml:lang="grc" type="edition" xml:space="preserve">
+      <div n="1" type="textpart">
+      <ab>
+      <lb/>ἀγαθῇ <supplied reason="lost">τύ</supplied>χῃ. ἐπὶ Πύρρου ἄρχοντος ἐν Δελφοῖς,
+      <lb/>Ἀθήνη<supplied reason="lost">σιν δ</supplied>ὲ Διονυσίου τοῦ μετὰ Λυκίσκον,
+      <lb/>οἵ<unclear>δ</unclear><supplied reason="lost">ε ἀπεστά</supplied>λησαν θεωροὶ ὑπὸ τοῦ δήμου
+      <lb/><supplied reason="lost">τοῦ Ἀθηναί</supplied>ων, συμπέμψοντες τὴν Πυθα<lb break="no" n="5"/><supplied reason="lost">ΐδα</supplied>
+      </ab>
+      </div>
+      <div n="2" type="textpart">
+      <ab>
+      <lb/><supplied reason="lost">Δημαίνε</supplied>τος Δημέου,
+      <lb/><supplied reason="lost">Εὔδ</supplied>ημος Σαραπίωνος, γόνῳ Γοργίππου,
+      <lb/><gap reason="lost" quantity="2" unit="character"/><unclear>α</unclear>νος Γοργίππου,
+      <lb/><supplied reason="lost">Χά</supplied>ρης Χάρητος νεώτερος,
+      <lb n="10"/><supplied reason="lost">Πτ</supplied>ολεμαῖος Εὐβούλου,
+      <lb/><supplied reason="lost">Ε</supplied><unclear>ὔ</unclear>βουλος Εὐβούλου, Διονύσιος Εὐβούλου,
+      <lb/><supplied reason="lost">Ῥ</supplied>αδάμανθυς Ἀττινοῦ,
+      <lb/>Σώστρατος Ἀλεξάνδρου,
+      <lb/>Ξένων Φιλάνθου,
+      <lb n="15"/>Λυσίας Πύρρου.
+      </ab>
+      </div>
+      <div n="2" subtype="subcolumn" type="textpart">
+      <ab>
+      <lb/>θεωροὶ ἐκ Τετραπολέων·
+      <lb/>Μητρόδωρος Καλλι<surplus>σ</surplus>στράτου, 
+      <lb/>Δαμόκριτος Δαμοκρίτου,
+      <lb/>Ἡνιοχίδης Εὐφιλήτου.
+      <lb n="5"/><space quantity="5" unit="character"/>ἐκ Πυρρακιδῶν·
+      <lb/>Τιμάναξ Εὐκλέους Φλυε<unclear>ύ</unclear><supplied reason="lost">ς</supplied>
+      </ab>
+      </div>
+    </div>
+  </body>
