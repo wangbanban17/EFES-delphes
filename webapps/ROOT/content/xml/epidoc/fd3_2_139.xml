@@ -39,7 +39,7 @@
                             </physDesc>
                             <history>
                                 <origin>
-                                    <origPlace ref="#gortyn">Gortyna, <foreign>Pythion</foreign></origPlace>
+                                    <origPlace ref="#delphi">Delphi, <foreign>Pythion</foreign></origPlace>
                                     <origDate period="#hellenistic" notBefore="-0200" notAfter="-0170">inizi II secolo a.C.</origDate>
                                 </origin>
                             </history>
