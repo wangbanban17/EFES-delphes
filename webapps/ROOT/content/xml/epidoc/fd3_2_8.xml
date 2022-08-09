@@ -5,7 +5,7 @@
           <lb/>For Good Fortune. In the archonship of Pyrrhos at Delphi,+1+
           <lb/>and of Dionysios after Lykiskos in Athens,
           <lb/>these <term target="theōroi" xml:lang="grc-Latn">sacred delegates</term> from the People 
-          <lb/>of Athens were dispatched to help in conducting the <term target="Pythaïda" xml:lang="grc-Latn">Pytha<lb break="no" n="5"/>is</term>+2+. 
+          <lb/>of Athens were dispatched to help in conducting the <term target="Pythaïda" xml:lang="grc-Latn">Pytha<lb break="no" n="5"/>is</term>.+2+ 
         </p>
       </div> 
       <div n="2" subtype="subcolumn" type="textpart">
@@ -66,4 +66,7 @@
       </ab>
       </div>
     </div>
+	<div xml:lang="en" type="commentary" xml:space="preserve">
+		!+1+ This text was inscribed on one block on the southern façade of the Athenian Treasury, below the list of <i>theōroi</i> for the first Pythaïs in 138/7 BCE. !
+	</div>
   </body>
