@@ -1,72 +1,101 @@
-<body xmlns:xml="http://www.w3.org/XML/1998/namespace">
-    <div xml:lang="en" type="translation" xml:space="preserve">
-      <div n="1" subtype="title" type="textpart">
-        <p>
-          <lb/>For Good Fortune. In the archonship of Pyrrhos at Delphi,+1+
-          <lb/>and of Dionysios after Lykiskos in Athens,
-          <lb/>these <term target="theōroi" xml:lang="grc-Latn">sacred delegates</term> from the People 
-          <lb/>of Athens were dispatched to help in conducting the <term target="Pythaïda" xml:lang="grc-Latn">Pytha<lb break="no" n="5"/>is</term>.+2+ 
-        </p>
-      </div> 
-      <div n="2" subtype="subcolumn" type="textpart">
-        <p>
-          <lb/>Demainetos son of Demeas,
-          <lb/>Eudemos son of Sarapion, by birth son of Gorgippos,+3+ 
-          <lb/><gap reason="lost" quantity="2" unit="character"/>anos son of Gorgippos,
-          <lb/>Chares the younger, son of Chares,
-          <lb n="10"/>Ptolemaios son of Euboulos, 
-          <lb/>Euboulos son of Euboulos, Dionysios son of Euboulos,
-          <lb/>Rhadamanthys son of Attinos,
-          <lb/>Sostratos son of Alexandros,
-          <lb/>Xenon son of Philanthos,
-        </p>
-      </div>
-      <div n="3" subtype="subcolumn" type="textpart">
-        <p>
-          <lb/><term target="theōroi" xml:lang="grc-Latn">Sacred delegates</term> from <placeName ref="https://pleiades.stoa.org/places/580117">Tetrapolis</placeName>:
-          <lb/>Mētrodōros son of Kallistratos,
-          <lb/>Damokritos son of Damokritos,
-          <lb/>Hēniochidēs son of Euphilētos
-          <lb/><space quantity="5" unit="character"/>from Pyrrhakis:
-          <lb/>Tiranax son of Euklēs of <placeName ref="https://pleiades.stoa.org/places/580076">Phlya</placeName><note type="deme">XIII</note>.
-        </p>
-      </div>
-    </div>
-    <div xml:lang="grc" type="edition" xml:space="preserve">
-      <div n="1" type="textpart">
-      <ab>
-      <lb/>ἀγαθῇ <supplied reason="lost">τύ</supplied>χῃ. ἐπὶ Πύρρου ἄρχοντος ἐν Δελφοῖς,
-      <lb/>Ἀθήνη<supplied reason="lost">σιν δ</supplied>ὲ Διονυσίου τοῦ μετὰ Λυκίσκον,
-      <lb/>οἵ<unclear>δ</unclear><supplied reason="lost">ε ἀπεστά</supplied>λησαν θεωροὶ ὑπὸ τοῦ δήμου
-      <lb/><supplied reason="lost">τοῦ Ἀθηναί</supplied>ων, συμπέμψοντες τὴν Πυθα<lb break="no" n="5"/><supplied reason="lost">ΐδα</supplied>
-      </ab>
-      </div>
-      <div n="2" type="textpart">
-      <ab>
-      <lb/><supplied reason="lost">Δημαίνε</supplied>τος Δημέου,
-      <lb/><supplied reason="lost">Εὔδ</supplied>ημος Σαραπίωνος, γόνῳ Γοργίππου,
-      <lb/><gap reason="lost" quantity="2" unit="character"/><unclear>α</unclear>νος Γοργίππου,
-      <lb/><supplied reason="lost">Χά</supplied>ρης Χάρητος νεώτερος,
-      <lb n="10"/><supplied reason="lost">Πτ</supplied>ολεμαῖος Εὐβούλου,
-      <lb/><supplied reason="lost">Ε</supplied><unclear>ὔ</unclear>βουλος Εὐβούλου, Διονύσιος Εὐβούλου,
-      <lb/><supplied reason="lost">Ῥ</supplied>αδάμανθυς Ἀττινοῦ,
-      <lb/>Σώστρατος Ἀλεξάνδρου,
-      <lb/>Ξένων Φιλάνθου,
-      <lb n="15"/>Λυσίας Πύρρου.
-      </ab>
-      </div>
-      <div n="2" subtype="subcolumn" type="textpart">
-      <ab>
-      <lb/>θεωροὶ ἐκ Τετραπολέων·
-      <lb/>Μητρόδωρος Καλλι<surplus>σ</surplus>στράτου, 
-      <lb/>Δαμόκριτος Δαμοκρίτου,
-      <lb/>Ἡνιοχίδης Εὐφιλήτου.
-      <lb n="5"/><space quantity="5" unit="character"/>ἐκ Πυρρακιδῶν·
-      <lb/>Τιμάναξ Εὐκλέους Φλυε<unclear>ύ</unclear><supplied reason="lost">ς</supplied>
-      </ab>
-      </div>
-    </div>
-	<div xml:lang="en" type="commentary" xml:space="preserve">
-		!+1+ This text was inscribed on one block on the southern façade of the Athenian Treasury, below the list of <i>theōroi</i> for the first Pythaïs in 138/7 BCE. !
-	</div>
-  </body>
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:space="preserve">
+            <teiHeader>
+                <fileDesc>
+                    <titleStmt>
+                        <title>List of participating magistrates</title>
+                        <editor xml:id="iv"><persName>WANG Banban</persName></editor>
+                    </titleStmt>
+                    <publicationStmt>
+                        <authority>Attic Inscriptions Online in Delphi</authority>
+                        <idno type="filename">fd3_2_3</idno>
+                        <idno type="projectNo">1</idno>
+                        <availability>
+                            <licence target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons Attributions-NonCommercial-ShareAlike 4.0 International License</licence>
+                        </availability>
+                    </publicationStmt>
+                    <sourceDesc>
+                        <msDesc>
+                            <msIdentifier>
+                                <repository ref="513">513+635</repository> 
+                                <idno type="invNo"/>
+                            </msIdentifier>
+                            <msContents><summary corresp="#treaty">trattato</summary></msContents>
+                            <physDesc>
+                                <objectDesc>
+                                    <supportDesc>
+                                        <support><objectType ref="#stele">stele</objectType>
+                                            <dimensions><width/><depth/><height/></dimensions></support>
+                                    </supportDesc>
+                                    <layoutDesc>
+                                        <layout/>
+                                    </layoutDesc>
+                                </objectDesc>
+                                <handDesc>
+                                    <handNote><height/></handNote>
+                                </handDesc>
+                            </physDesc>
+                            <history>
+                                <origin>
+                                    <origPlace ref="#praisos">Praisos</origPlace>
+                                    <origDate period="#hellenistic" notBefore="-0230" notAfter="-0200">fine III secolo a.C.</origDate>
+                                </origin>
+                            </history>
+                        </msDesc>
+                    </sourceDesc>
+                </fileDesc>
+                <revisionDesc>
+                    <change when="2017-11-08" who="#iv">added</change>
+                    <change when="2018-12-20" who="#iv">completed</change>
+                </revisionDesc>
+            </teiHeader>
+            <text>
+                <body>
+                    <div type="edition" xml:lang="grc" xml:space="preserve">
+                      <div n="1" type="textpart">
+                        <ab>
+                        <lb/>ἀγαθῇ <supplied reason="lost">τύ</supplied>χῃ. ἐπὶ Πύρρου ἄρχοντος ἐν Δελφοῖς,
+                        <lb/>Ἀθήνη<supplied reason="lost">σιν δ</supplied>ὲ Διονυσίου τοῦ μετὰ Λυκίσκον,
+                        <lb/>οἵ<unclear>δ</unclear><supplied reason="lost">ε ἀπεστά</supplied>λησαν θεωροὶ ὑπὸ τοῦ δήμου
+                        <lb/><supplied reason="lost">τοῦ Ἀθηναί</supplied>ων, συμπέμψοντες τὴν Πυθα<lb break="no" n="5"/><supplied reason="lost">ΐδα</supplied>
+                        </ab>
+                        </div>
+                        <div type="textpart">
+                        <ab>
+                        <lb/><supplied reason="lost">Δημαίνε</supplied>τος Δημέου,
+                        <lb/><supplied reason="lost">Εὔδ</supplied>ημος Σαραπίωνος, γόνῳ Γοργίππου,
+                        <lb/><gap reason="lost" quantity="2" unit="character"/><unclear>α</unclear>νος Γοργίππου,
+                        <lb/><supplied reason="lost">Χά</supplied>ρης Χάρητος νεώτερος,
+                        <lb n="10"/><supplied reason="lost">Πτ</supplied>ολεμαῖος Εὐβούλου,
+                        <lb/><supplied reason="lost">Ε</supplied><unclear>ὔ</unclear>βουλος Εὐβούλου, Διονύσιος Εὐβούλου,
+                        <lb/><supplied reason="lost">Ῥ</supplied>αδάμανθυς Ἀττινοῦ,
+                        <lb/>Σώστρατος Ἀλεξάνδρου,
+                        <lb/>Ξένων Φιλάνθου,
+                        <lb n="15"/>Λυσίας Πύρρου.
+                        </ab>
+                        </div>
+                        <div n="2" subtype="subcolumn" type="textpart">
+                        <ab>
+                        <lb/>θεωροὶ ἐκ Τετραπολέων·
+                        <lb/>Μητρόδωρος Καλλι<surplus>σ</surplus>στράτου, 
+                        <lb/>Δαμόκριτος Δαμοκρίτου,
+                        <lb/>Ἡνιοχίδης Εὐφιλήτου.
+                        <lb n="5"/><space quantity="5" unit="character"/>ἐκ Πυρρακιδῶν·
+                        <lb/>Τιμάναξ Εὐκλέους Φλυε<unclear>ύ</unclear><supplied reason="lost">ς</supplied>
+                        </ab>
+                      </div>
+                    </div>
+                    <div type="commentary">
+                      <p> This text was inscribed on one block on the southern façade of the Athenian Treasury, below the list of <i>theōroi</i> for the first Pythaïs in 138/7 BCE. For more detail on Hellenistic inscriptions on the Athenian Treasury, see Note 1 for <a class="highlight" href="/inscription/fdIII2/3"><i>F.Delphes</i> III 2.3</a>; on the Pythais, see <a class="highlight" href="/inscription/IGII34/18"><i>IG</i> II<sup>3</sup> 4, 18</a> with notes.
+                      <br/><em>Textual Note</em>. After consulting the squeezes at <i>Inscriptiones Graecae</i>, the editor gives variant readings in comparison with <i>F.Delphes</i> III 2 and Tracy, <i>BCH</i> 99 (1975), 190: l. 1.2, a break should be mentioned; l. 2.1, the Π has three legs rather than two, probably due to a stonecutter's fault; 2.6, the last Υ is visible.!</p>
+                      <p> The first five lines were inscribed with slightly larger letters and thicker serifs. The fifth line, having only three letters, serves as a visual break between the title parts (l. 1–4) and the name lists from l. 6 onwards.!</p>
+                      <p>For the formula indicating the natural father, now see <a class="highlight" href="/papers/aiuk-45"><i>AIUK Papers</i> 4.5</a>, 59. This Eudemos reappeared in <i>F.Delphes</i> III 2.27, 2.14, where we know he belonged to Kekropis <i>phylē</i>.</p>
+                      <p>Tetrapolis, a community in Attica including the cities of Marathon, Probalinthos, Trikorythos and Oinoi. For the community in detail, see <a class="highlight" href="/inscription/SEG/50168"><i>SEG</i> 50.168</a>, note 1; The community maintained a special connection with Delphi independently from Athens, even when the Sanctuary of Apollo was under the dominance of Aitolians: Delphi honoured Tetrapolis because of their 'proximity with the god' and rendered them the privilege of perennial <i>promanteia</i> (the collective priority of consulting the oracle) and 'the right to sacrifice at the altars in the first place after the Delphians' (<i>prothysia</i>), see <i>F.Delphes</i> III 2.18 (mid-third century), 2.19 (<i>Chronologie delphique</i> K24, reengraved in the second century), 2.20 (the last one dated to 178/7 BCE) = <i>Choix des inscriptiones de Delphes</i>, No. 198–200.</p>
+                     <p>Column 2 was inscribed right below Column 2 of <i>F.Delphes</i> III 2.7, where the <i>theoroi</i> also from Tetrapolis were added later than the original engraving. As the block still has much space below Column 1, it seems that the layout suggests a continuity of Tetrapolitan <i>theoroi</i> between the two Pythaïdes. See also Karila-Cohen in Baslez and Prévot, <i>Prosopographie et histoire religieuse</i>, 76–80; Humphreys, <i>Kinship in Ancient Athens</i>, 2019, 657.</p>
+                      <p>Pyrrhakidai was a <i>genos</i> of Athens, perhaps emerging in the late second century BCE, though two inscriptions dated to <i>ca</i>.400 on Delos recorded two names as 'of Pyrrhakidai' (<i>ID</i> 66 and 67), suggesting an earlier affiliation to Delos. The name Timanax (also <i>F.Delphes</i> III 2.7 as patronym, perhaps the grandfather of Timanax here) was also attested more in the Cyclades than in Attica. See also Papazarkadas, <i>Sacred and Public Land in Ancient Athens</i>, 2012, Appendix V and Humphreys, <i>Kinship in Ancient Athens</i>, 2019, 680, 716.</p>
+                    </div>
+                    </body>
+            </text>
+        </TEI>
