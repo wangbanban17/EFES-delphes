@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:space="preserve">
+            <teiHeader>
+                <fileDesc>
+                    <titleStmt>
+                        <title>List of participating magistrates</title>
+                        <editor xml:id="iv"><persName>WANG Banban</persName></editor>
+                    </titleStmt>
+                    <publicationStmt>
+                        <authority>Attic Inscriptions Online in Delphi</authority>
+                        <idno type="filename">fd3_2_3</idno>
+                        <idno type="projectNo">1</idno>
+                        <availability>
+                            <licence target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons Attributions-NonCommercial-ShareAlike 4.0 International License</licence>
+                        </availability>
+                    </publicationStmt>
+                    <sourceDesc>
+                        <msDesc>
+                            <msIdentifier>
+                                <repository ref="513">513+635</repository> 
+                                <idno type="invNo"/>
+                            </msIdentifier>
+                            <msContents><summary corresp="#treaty">trattato</summary></msContents>
+                            <physDesc>
+                                <objectDesc>
+                                    <supportDesc>
+                                        <support><objectType ref="#stele">stele</objectType>
+                                            <dimensions><width/><depth/><height/></dimensions></support>
+                                    </supportDesc>
+                                    <layoutDesc>
+                                        <layout/>
+                                    </layoutDesc>
+                                </objectDesc>
+                                <handDesc>
+                                    <handNote><height/></handNote>
+                                </handDesc>
+                            </physDesc>
+                            <history>
+                                <origin>
+                                    <origPlace ref="#praisos">Praisos</origPlace>
+                                    <origDate period="#hellenistic" notBefore="-0230" notAfter="-0200">fine III secolo a.C.</origDate>
+                                </origin>
+                            </history>
+                        </msDesc>
+                    </sourceDesc>
+                </fileDesc>
+                <revisionDesc>
+                    <change when="2017-11-08" who="#iv">added</change>
+                    <change when="2018-12-20" who="#iv">completed</change>
+                </revisionDesc>
+            </teiHeader>
+            <text>
+                <body>
+                    <div type="edition" xml:lang="grc" xml:space="preserve">
+                        <ab>
+                            <lb n="1"/><gap reason="lost" extent="unknown" unit="character"/> καὶ <orig>κω</orig><gap reason="lost" extent="unknown" unit="character"/>
+                            <lb n="2"/><gap reason="lost" extent="unknown" unit="character"/> <rs type="institution" subtype="assembly" role="treaty-making" key="polisE" ref="#praisos"><placeName ref="#praisos" type="ethnic"><supplied reason="lost">Π</supplied>ραισίοις</placeName></rs> <gap reason="lost" extent="unknown" unit="character"/>
+                            <lb n="3"/><gap reason="lost" extent="unknown" unit="character"/> <rs type="institution" subtype="assembly" role="treaty-making" key="polisE" ref="#praisos"><placeName ref="#praisos" type="ethnic"><supplied reason="lost">Πρ</supplied>αισίων</placeName></rs> <gap reason="lost" extent="unknown" unit="character"/>
+                            <lb n="4"/><gap reason="lost" extent="unknown" unit="character"/><orig>η</orig> <placeName ref="#hierapytna" type="ethnic">Ἱαραπ<supplied reason="lost">υτν</supplied><gap reason="lost" extent="unknown" unit="character"/></placeName>
+                            <lb n="5"/><gap reason="lost" extent="unknown" unit="character"/><orig>υτωντ</orig><gap reason="lost" extent="unknown" unit="character"/>
+                            <lb n="6"/><gap reason="lost" extent="unknown" unit="character"/><orig><unclear>απο</unclear></orig><gap reason="lost" extent="unknown" unit="character"/>
+                          </ab>
+                    </div>
+                    <div xml:lang="en" type="translation" xml:space="preserve">
+                            <div n="1" subtype="title" type="textpart">
+                              <p>
+                                <lb/>In the archonship of Dionysios in Athens,+1+
+                                <lb/>the nine magistrates who led the Pythaïs:+2+
+                                </p> 
+                            </div> 
+                            <div n="2" subtype="subcolumn" type="textpart">
+                              <p>
+                                <lb/>Archon: Dionysios son of Demetrios;
+                                <lb/>King: Heliodoros son of Diodotos;
+                                <lb n="5"/> Polemarch: Glaukos son of Lysandros;
+                                <lb/>Court Presidents:+3+
+                                <lb/>Herakleides son of Herakleides,
+                                <lb/>Euktemon son of Kallios,
+                                <lb/>Boukattes son of Lykinos,
+                                <lb n="10"/>Mnesitheos son of Hagnios,
+                                <lb/>Pamphilos son of Nikokles,
+                                <lb/><supplied reason="lost">name</supplied>, <supplied reason="lost">patronym</supplied>
+                              </p>
+                            </div>
+                            <div n="3" subtype="subcolumn" type="textpart">
+                              <p>
+                                <lb/>Herald of the Cou<lb break="no"/>ncil of the A<lb break="no" n="5"/>reopagos:
+                                <lb/>Mnasikles 
+                                <lb/>son of Mnasikles.
+                                <lb/>sacred deputy (hieromnēmōn)
+                                <lb/><gap reason="illegible" extent="unknown" unit="character"/> - - - +4+
+                              </p>
+                            </div>
+                    </div>
+                    <div type="commentary">
+                        <p><lb/>!+1+This list of nine magistrates was inscribed on a wall-block at the corner of the Treasury of the Athenians in Delphi. Column 1 was on the southern façade, while Column 2 was on the eastern face of the southern <i>anta</i>. The text was aligned to the left, apart from line 6 of which the text was centred.
+                        <lb/><em>Monumental Note</em>: The Treasury of the Athenians was situated at the corner of the first turn in the Sacred Way of the Sanctuary of Apollo Pythios in Delphi. A detailed description of its architectural features can be found in J.-F. Bommelaer, <i>Guide de Delphes</i>. <i>Le site</i> (2007<sup>2</sup>), 159–162. For the erection and its earlier history see Note 1 at <a href="/inscription/FDIII2/1"><i>F.Delphes</i> III 2.1</a>.  
+                        <lb/>Although being erected already in the Classical Period, the treasury was for at least two centuries not inscribed, and its role as an inscription carrier started only at the early third century BCE. It bore more than 150 inscriptions dated from the mid-third century BCE to the sixth century CE, in which most were about Athens and were inscribed earlier than 80 BCE (<i>F.Delphes</i> III 2.1–157). Most were found on the southern façade of the treasury from 150 BCE onwards, with some text on the two <i>antai</i>, the architrave and the stylobate to the east of the treasury, and eight manumission acts on the hindered northern façade. A large number of texts are about Athenian ceremonies, especially the Pythaïs and Dodekaïs; but there are also records for interstate arbitration in favour of the Athenian Dionysiac artists (<i>F.Delphes</i> III 2.68–70), <i>proxenia</i> decrees for Athenians and other Greeks, as well as manumission acts.
+                        <lb/>These magistrates organised the second <i>Pythais</i> festival with a proceeding from Athens to Delphi. On the Pythaïs, see <a class="highlight" href="/inscription/IGII34/18"><i>IG</i> II<sup>3</sup> 4, 18</a> with notes. At this second Pythaïs (128/7 BCE), the treasury bore, on various blocks with seemingly irregular dispositions, name lists for participating magistrates, <i>theoroi</i> (<a class="highlight" href="/inscription/FDIII2/8"><i>F.Delphes</i> III 2.8</a>), Pythaïst-boys (<a class="highlight" href="/inscription/FDIII2/12"><i>F.Delphes</i> III 2.12</a>), ephebes (<a class="highlight" href="/inscription/FDIII2/24"><i>F.Delphes</i> III 2.24</a>), several wreath honours for victors, and two hymns that should have been performed during this Pythaïs (<a href="/inscription/FDIII2/138"><i>F.Delphes</i> III 2.138</a>). Tracy, <i>Attic Letter-cutters of 229 to 86 B.C.</i> (1990), 170 identified all the texts for the second Pythaïs were inscribed by the same cutter who inscribed also texts for the first Pythaïs. My consultation of the squeezes of <a class="highlight" href="/inscription/FDIII2/8"><i>F.Delphes</i> III 2.8</a>, among others, makes me sceptical of this attribution, though the typical thickened serifs at the end of every terminal stroke indicates the stonecutter(s) must have been Athenian.
+                        <lb/>We know the date thanks to the Athenian archon and the synchronism with Delphic archons, as indicated by Follet, <i>Topoi</i> 8 (1998), 243–260.!</p>
+                        
+                        <p>!+2+ Colin, <i>Culte d'Apollon Pythien</i> (1905), 32 noticed that a large part of ll. 1-2 was inscribed by another cutter over a preexisting text, which is unreadable now. These two lines were also inscribed with smaller letters.!</p>
+                        
+                        <p>!+3+ The text was aligned to the left, but letters on line 6 were distributed with propotional interspaces, so as to get a 24-letter-long line. This practice, perhaps a remain from the earlier text written on papyrus, may indicate that the following names are all court presidents.!</p>
+                        
+                        <p>!+4+ In comparison with the better preserved magistrate list, <i>F.Delphes</i> III 2.2, there should have been more magistrates lost, especially important is the <i>architheoros</i>, who then led the 11 <i>theoroi</i> listed in <a class="highlight" href="/inscription/FDIII2/8"><i>F.Delphes</i> III 2.8</a>.<br/>Tracy, <i>BCH</i> 99 (1975), 188-9 proposed that <i>F.Delphes</i> III 2.56α, a two-line fragment found on the same block, can be restored into a part of a name list for this same Pythaïs. His proposal, however, rather started a new text than continuing the existing text.!</p>
+                    </div>
+                </body>
+            </text>
+        </TEI>

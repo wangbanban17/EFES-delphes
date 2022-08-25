@@ -1,0 +1,187 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:space="preserve">
+            <teiHeader>
+                <fileDesc>
+                    <titleStmt>
+                        <title>List of ephebes participating in the second Pythaïs</title>
+                        <editor xml:id="wbb"><persName>WANG Banban</persName></editor>
+                    </titleStmt>
+                    <publicationStmt>
+                        <authority>Attic Inscriptions Online in Delphi</authority>
+                        <idno type="filename">FD3_2_24</idno>
+                        <idno type="projectNo">1</idno>
+                        <availability>
+                            <licence target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons Attributions-NonCommercial-ShareAlike 4.0 International License</licence>
+                        </availability>
+                    </publicationStmt>
+                    <sourceDesc>
+                        <msDesc>
+                            <msIdentifier>
+                                <repository ref="737+106+730+732+7469">737+106+730+732+7469
+                                </repository> 
+                                <idno type="invNo"/>
+                            </msIdentifier>
+                            <msContents><summary corresp="#treaty">List of Names</summary></msContents>
+                            <physDesc>
+                                <objectDesc>
+                                    <supportDesc>
+                                        <support><objectType ref="#stele">Block, Wall</objectType>
+                                            <dimensions><width/><depth/><height/></dimensions></support>
+                                    </supportDesc>
+                                    <layoutDesc>
+                                        <layout/>
+                                    </layoutDesc>
+                                </objectDesc>
+                                <handDesc>
+                                    <handNote><height/></handNote>
+                                </handDesc>
+                            </physDesc>
+                            <history>
+                                <origin>
+                                    <origPlace ref="#praisos">Delphi</origPlace>
+                                    <origDate period="#hellenistic" notBefore="-0230" notAfter="-0200">128/127 BCE</origDate>
+                                </origin>
+                            </history>
+                        </msDesc>
+                    </sourceDesc>
+                </fileDesc>
+                <revisionDesc>
+                    <change when="2022-08-03" who="#wbb">added</change>
+                    <change when="2022-08-23" who="#wbb">completed</change>
+                </revisionDesc>
+            </teiHeader>
+            <text>
+                <body xmlns:xml="http://www.w3.org/XML/1998/namespace">
+  <div xml:lang="en" type="translation" xml:space="preserve">
+    <div n="1" subtype="title" type="textpart">
+        <p>
+          <lb/>God. Good Fortune.+1+
+          <lb/><term target="ephēbeusantes" xml:lang="grc-Latn">Those who were ephebes</term> <!-- or "ex-ephebes"? -->in the archonship of Dionysios after Lykiskos in Athens, and in the priesthood for
+          <lb/>Apollo of Eumēlos son of Noumēnios of Athens, when <term target="stratēgountos epi ta hopla" xml:lang="grc-Latn">general of hoplites</term> was The<lb break="no"/>ophrastos son of Hērakleitēs of <placeName ref="https://pleiades.stoa.org/places/579842">Acharnai</placeName>, and general of navy was Hipparchos son of Timoklēs
+          <lb n="5"/>of <placeName ref="https://pleiades.stoa.org/places/580062">Piraeus</placeName>, and general of cavalry was Dioklēs son of Dioklēs of Athens, and phylarchs were
+          <lb/>Hermōn son of Dionysios, <add place="above">by birth son of Antiphōn</add> of Athens, Hagios son of Boulōn of Athens, Chariklēs son of Theo<lb break="no"/>dōros of Athens, Xenoklēs son of Dēmētrios of Athens, phylarch at <placeName ref="https://pleiades.stoa.org/places/580062">Piraeus</placeName> was Pyrrhinos
+          <lb/>son of Athēnagoras of <placeName ref="https://pleiades.stoa.org/places/579998">Kydantidai</placeName>, phylarch at <placeName ref="https://pleiades.stoa.org/places/579920">Eleusis</placeName> was Epiphanēs son of Hippakos of <placeName ref="https://pleiades.stoa.org/places/580009">Lamptrai</placeName>,
+          <lb/><term target="exēgētou puthochrēstou" xml:lang="grc-Latn">the Pythian oracle interpreter</term> was Ophelas son of Habrōn of <placeName ref="https://pleiades.stoa.org/places/579892">Bate</placeName>, <term target="kosmētou" xml:lang="grc-Latn">superintendent</term> was Apollo<lb break="no" n="10"/>nios son of Apollonios of <placeName ref="https://pleiades.stoa.org/places/580107">Sounion</placeName>, led the Pythaïs with the teachers
+          <lb/><term target="paidotribou" xml:lang="grc-Latn">gymnastic master Nikōn</term> son of Alexis of <placeName ref="https://pleiades.stoa.org/places/678060">Berytos</placeName>,<term targer="hoplomachou" xml:lang="grc-Latn">hoplite master</term> Sōtadēs son of Sōtelēs 
+          <lb/>of Soloi,<!-- Not sure Cilician or Cyprian, so no link to Pleiades --> <term target="akontistou" xml:lang="grc-Latn">javelin master</term> Nikandros son of Dēmētrios of <placeName ref="https://pleiades.stoa.org/places/579932">Euōnymōn</placeName>,<term target="toxotou" xml:lang="grc-Latn">archery master</term> Pystilos son of 
+		      <lb/>Nikis of <placeName ref="https://pleiades.stoa.org/places/580038">Oē</placeName>, <term target="grammateōs" xml:lang="grc-Latn">secretary</term> Tharrhinos son of Tharrhikos of <placeName ref="https://pleiades.stoa.org/places/580009">Lamptrai</placeName>, <term target="hupēretou" xml:lang="grc-Latn">attendant</term> Hierōn
+		      <lb/>son of Hērakleidēs of <placeName ref="https://pleiades.stoa.org/places/579863">Anagyrous</placeName>, <term target="hupooplomarchou" xml:lang="grc-Latn">assistant hoplite master</term> Artemidōros son of Neōn 
+		      <lb n="15"/>of Tarsos, as the thanks-offering to Apollo. <!-- in accordance with the "Pythaïs" in line 10. -->
+		      <lb/><space quantity="-1" unit="character"/>In the <term target="tarantinarchountōn" xml:lang="grc-Latn">leadership of Tarantine cavalry</term> of Diogenēs son of Aropos, Lysōn son of Dēmokratēs,<!-- I want a hanging indent for one letter -->
+		      <lb/><space quantity="16" unit="character"/>of the Athenians:
+        </p>
+    </div>
+    <div n="1" subtype="subcolumn" type="textpart">
+      <p>
+        <lb/>Tharsytas son of Menedēmos,
+        <lb/>Charēs son of Charēs,
+        <lb n="20"/>Kēphisodōros son of Dēmētrios,
+        <lb/>Pythilas son of Apollōnios,
+        <lb/>Philōn son of Philōn,
+        <lb/>Aristonikos son of Lysimachos,
+        <lb/>Hestiaios son of Philokratos,
+        <lb n="25"/>Dēmētrios son of Zēnōn,
+        <lb/>Diophantos son of Dēmētrios,
+        <lb/>Miltiadēs son of Miltiadēs,
+        <lb/>Dioskouridēs son of Dionysios,
+        <lb/>Diodotos son of Hērakleidēs,
+        <lb n="30"/>Dioskouridēs son of Aristoklēs,
+        <lb/>Kleomenēs son of Theodōros,
+        <lb/>Telesias son of Timomachos,
+        <lb/>Asklēpiodotos son of Iasōn,
+        <lb/><gap reason="lost" quantity="1" unit="line"/>
+        <lb/><gap reason="lost" quantity="5" unit="character" certainty="low"/>os son of Diognētos,
+        <lb/>Ōkymenēs son of Ōkymenēs,
+        <lb/>Pyrrhos son of Dēmokleidēs,
+        <lb/>Plistias son of Dionysios,
+        <lb/>Diogenēs son of Diogenēs,
+        <lb/>Neōn son of Philokratēs,
+        <lb/>Apollodŏros son of Apollodōros,
+        <lb/>Attalos son of Adrastēs,
+        <lb/>Dionysios son of Dionysios,
+        <lb/>Aristoboulos son of Aristoboulos, 
+        <lb/>Sōsandros son of Nikostratos,
+        <lb/>Olympos son of Mētrodōros,
+        <lb/>Spartakos son of Spartokos,
+        <lb/>Mēnodōros son of Hērakleidēs,
+      </p>
+    </div>
+    <div n="2" subtype="subcolumn" type="textpart">
+      <p>
+        <lb/>Agathoklēs son of -,
+        <lb/>Dēmētrios son of De-
+        <lb/>Nikias son of Euphēmidēs,
+        <lb/>Diodotos son of Philostratos,
+        <lb/>Aristodamas son of Aristōn,
+        <lb/>Dinoklēs son of Philostratos,
+        <lb/>Dionysios son of Diogenēs,
+        <lb/>Lysimachos son of Philoxenos,
+        <lb/>Philēmōn son of Lēnaios,
+        <lb/>Antimachos son of Nikias,
+        <lb/>Dexitheos son of Dexitheos,
+        <lb/>Athēnobios son of Athēnodōros,
+        <lb/>Athēnagoras son of Pyrrhinos, <!-- son of the Piraeus phylarch? -->
+        <lb/>Mousaios son of Euēgoros,
+        <lb/>Mēnodōros son of Diogenēs,
+        <lb/>Apollodotos son of Sthe-,
+        <lb/>- son of Dionysios,
+        <lb/><gap reason="lost" quantity="1" unit="line"/>
+        <lb/>Nikanōr son of Dēmeas,
+        <lb/>Timokratēs son of Alexandros,
+        <lb/>Chairoklēs son of Chairoklēs,
+        <lb/>Timoklēs son of Dēmokleidēs,
+        <lb/>Charmidēs son of Paramonos,
+        <lb/>Polyainetos son of Amyklas,<!-- V2-52945, perhaps a multi-gen immigrant from Istros or Thasos? -->
+        <lb/>Onēsiphilos son of Philōn, 
+        <lb/>Diodōros son of Diodōros, 
+        <lb/>Phōntidēs son of Hipparchos, 
+        <lb/>Sōsippos son of Nikanōr,
+        <lb/>Theodōros son of Theodōros,
+        <lb/>Epikratēs son of Aphrodisios,
+        <lb/>Dēmagoras son of Euthydoros,
+      </p>
+    </div>
+    <div n="3" subtype="subcolumn" type="textpart">
+      <p>
+        <lb/>- son of -,
+        <lb/>Zēnodotos son of -,
+        <lb/>Achaios son of Apollodōros,
+        <lb/>Sōphilos son of Sōphilos, 
+        <lb/>Aristiōn son of Eudoxos,
+        <lb/>Damōnax son of Askōndas,<!-- This name was attested only once in Athens, but of all the 20 attestations in <i>LGPN</i>, 18 came from Rhodes and Cyrene; Askōndas was attested four times, with the other three all in Boiotia. -->
+        <lb/>Apollōnios son of Dionysios. 
+        <lb/>When at Delphi <term target="gymnasiarchountos" xml:lang="grc-Latn">gymnasiarch</term>
+        <lb/>was Kleomantis son of Hērys, <!-- Very popular name in Delphi, this Kleomantis appeared in many honorific texts in Delphi. V3b-42931. --> 
+        <lb/>the ephebes were
+        <lb/>Diodōros son of Mnasithēs, <!-- the father V3b-43859 is a large slave manumittor, eg sgdi 2154. -->
+        <lb/>Nikias son of Aristiōn,
+        <lb/>Xenokratēs son of Agēsilaos <!-- he would become the archon at Delphi L87 -->
+        <lb/>Xenōn son of Peisitheos, <!-- SGDI 2271, V3b-44429 -->
+        <lb/>Phainios son of Gorgilos,
+        <lb/>Lamenēs son of Philleas <!-- FD restored as Damenēs, but this Lamenēs may be the forefather of a later archon N14, consult add. 290!! -->
+      </p>
+    </div>
+  </div>
+  <div xml:lang="en" type="commentary" xml:space="preserve">
+    <p>+1+ This list of 76 ephebes plus their masters and magistrates was inscribed on the southern façade of the Athenian Treasury shortly after the second Pythaïs in 128/7 BCE, together with other lists of magistrates, participants and victors (for more detail see <a href="/inscription/FDIII2/3"><i>F.Delphes</i> III 2.3</a>, note 1). The list was inscribed to the right of the ephebes' list for the first Pythaïs in 138/7 BCE (<i>F.Delphes</i> III 2.23). The text up to line 17, serving as a preceding paragraph, was inscribed on an upper block; the name lists of ephebes, written in three columns, occupyed blocks in two storeys, with the higher storey of each column bearing 16 lines, and lower storey having 15 lines.<br/>
+    The first line was inscribed in even distributed alignment, namely, the first letter was flush left and the last to the right, with the horizontal space evenly distributed between letters.</p>!
+    
+    <p>+2+ Eumēlos son of Noumēnios held this priesthood in Athens for life. He is very probably the father of a Pythaïst-boy named Noumēnios son of Eumēlos, in <i>F.Delphes</i> III 2.11 (138/7 BCE).</p>!
+    
+    <p>+3+ This magistrate, literally 'director ordained by Pythian Apollo' was chosen among Athenians since the fifth century BCE, according to both Plato's testimony (Pl. <i>Leg.</i> 9.865b-d) and epigraphic evidence (<a href="/inscription/IGI3/131"><i>IG</i> I<sup>3</sup>, 131</a>, line 9). For the exegetes in the Archaic and Classical Athens, see now Valdés Guía in <i>Mediterraneo Antico</i> 5 (2002), especially 190 onwards. Although Suda, <i>s.v.</i> describes, 'there are three Pythochrestoi, whose task it is to purify those in the grip of a certain curse. Also those expounding the ancestral customs.', yet in the Hellenistic times, the sources were limited to the Pythaïs inscriptions, where only one Pythochrestos exegetes was mentioned (see in detail, Oliver, <i>Athenian Expounders</i>, 36–46). In the Roman period, Pythochrestos exegetes still played an important role in the Dodekaïs inscriptions, as the then exegetes Polykritos of Azenia was mentioned in all the Dodekaïs inscriptions (<i>F.Delphes</i> III 2.59 and 61–64), but can also be used as a title for honorific citizenship of Delphi (for instance, <a href="/inscription/AIUK8/5"><i>AIUK</i> 8 (Broomhall), no. 5</a>).<br/>
+    This Ophelas son of Habrōn of Bate belonged to a distinguished family with two other members being exegetes 'appointed by the People' (<i>hupo dēmou kathestamemos exēgētēs</i>): a Kallias son of Habrōn in <i>F.Delphes</i> III 2.5 in 106/5 BCE, and a Kallias son of Euchtēmōn in <i>F.Delphes</i> III 2.6 in 98/7 BCE.</p>!
+  
+    <p>+4+ <i>Kosmētos</i> played an important role in funding supplies for Hellenistic ephebeias in Athens, and would receive honorific wreaths in the following year (<i>SEG</i> 15.104): for the ephebeia in late Hellenistic Athens, see now Perrin-Saminadayar, <i>Éducation, culture et société à Athènes</i>, especially 248–266.
+    <br/>In Hellenistic Athens, becoming instructors of ephebes was one of the exceptional ways that foreigners could play a public role, as it required qualifications (see Niku, <i>Official Status of the Foreign Residents in Athens</i>, 17). Their children or relatives may then get ephebic trainings or be granted Athenian citizenship. In our case, three teachers were explicitly mentioned as foreigners: the pedotribe / gymnastic master Nikōn from Berytos (today Beirut), whose relative a Nikōn from Berytos later became ephebe on Delos in 119/8 (<i>ID</i> 2598 I.43); hoplite master Sōtades from (most likely Cilician) Soloi; and Artemidoros from Tarsos as assistant of his master. The first two were also honoured in the following year with wreaths in Athens (<i>SEG</i> 15.104).</p>!
+  
+    <p>+5+ The first letter of this line was hanged to the left.
+    <br/>For the Tarantine cavalry, see <a class="highlight" href="/inscription/SEG/46167/"><i>SEG</i> 46.167</a>.</p>!
+  
+    <p>+6+ To averagely distribute the names in the two lower storeys, there was a wide vertical gap between lines 33 and 34.</p>!
+    </div>
+  
+    </body>
+  </text>
+</TEI>
