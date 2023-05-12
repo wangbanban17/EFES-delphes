@@ -1,0 +1,205 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:space="preserve">
+            <teiHeader>
+                <fileDesc>
+                    <titleStmt>
+                        <title>List of ephebes participating in the second Pythaïs</title>
+                        <editor xml:id="wbb"><persName>WANG Banban</persName></editor>
+                    </titleStmt>
+                    <publicationStmt>
+                        <authority>Attic Inscriptions Online in Delphi</authority>
+                        <idno type="filename">FD3_2_24</idno>
+                        <idno type="projectNo">1</idno>
+                        <availability>
+                            <licence target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons Attributions-NonCommercial-ShareAlike 4.0 International License</licence>
+                        </availability>
+                    </publicationStmt>
+                    <sourceDesc>
+                        <msDesc>
+                            <msIdentifier>
+                                <repository ref="737+106+730+732+7469">737+106+730+732+7469
+                                </repository> 
+                                <idno type="invNo"/>
+                            </msIdentifier>
+                            <msContents><summary corresp="#treaty">List of Names</summary></msContents>
+                            <physDesc>
+                                <objectDesc>
+                                    <supportDesc>
+                                        <support><objectType ref="#stele">Block, Wall</objectType>
+                                            <dimensions><width/><depth/><height/></dimensions></support>
+                                    </supportDesc>
+                                    <layoutDesc>
+                                        <layout/>
+                                    </layoutDesc>
+                                </objectDesc>
+                                <handDesc>
+                                    <handNote><height/></handNote>
+                                </handDesc>
+                            </physDesc>
+                            <history>
+                                <origin>
+                                    <origPlace ref="#praisos">Delphi</origPlace>
+                                    <origDate period="#hellenistic" notBefore="-0230" notAfter="-0200">128/127 BCE</origDate>
+                                </origin>
+                            </history>
+                        </msDesc>
+                    </sourceDesc>
+                </fileDesc>
+                <revisionDesc>
+                    <change when="2022-08-03" who="#wbb">added</change>
+                    <change when="2022-08-23" who="#wbb">completed</change>
+                </revisionDesc>
+            </teiHeader>
+            <text>
+                <body xmlns:xml="http://www.w3.org/XML/1998/namespace">
+  <div xml:lang="grc" type="edition" xml:space="preserve">
+    <div n="1" type="textpart">
+        <ab>
+            <lb/>ἀ<supplied reason="lost">γ</supplied>αθ<supplied reason="lost">ᾷ</supplied> τ<supplied reason="lost">ύχᾳ</supplied>.
+            <lb/>ἐπὶ <supplied reason="lost">Π</supplied>ύρρου ἄρχοντος ἐν Δελφοῖς, Ἀθήνησ<supplied reason="lost">ιν</supplied> δὲ Διονυ[σίου τοῦ μετὰ Λυκίσκον, οἵδε ἀπε]
+            <lb break="no"/>στά<supplied reason="lost">λ</supplied>ησαν ὑπὸ τοῦ δήμου τοῦ Ἀθηναίων π<supplied reason="lost">υ</supplied>θαιισ<supplied reason="lost">ταὶ παῖδες</supplied>·
+        </ab>
+    </div>
+    <div n="1" subtype="column" type="textpart">
+        <ab>
+            <lb/>Πάμφιλος Ἀρτέμωνος
+            <lb n="5"/>Ἀπολλόδωρος καὶ
+            <lb/><supplied reason="lost">Λ</supplied>εόντιχος Σωσιβίου
+            <lb/>Νικάνωρ Νικάνορος
+            <lb/>Τιμόθεος Τιμοθέου
+            <lb/>Χαριμήδης Φαντέου
+            <lb n="10"/>Πιστοκράτης Σατύρου
+            <lb/>Δωρόθεος Δωροθέου
+            <lb/>Κράτερμος Ἀθηνάδου
+            <lb/><supplied reason="lost">Σαρα</supplied>πίων Δημητρίου
+            <lb/><gap reason="lost" unit="character" atLeast="5" atMost="6" precision="low"/>ένης Ἀναξικράτου
+            <lb n="15"/>[Τιμοκλ]ῆς Ἱππάρχου
+            <lb/><gap reason="lost"/>ν Ἀγα<gap reason="illegible"/>
+            <lb/>
+        </ab>
+    </div>
+  </div>
+  <div xml:lang="en" type="translation" xml:space="preserve">
+    <div n="1" type="textpart">
+        <p>
+            <lb/>For Good Fortune.<note type="footnote">1</note>
+            <lb/>In the archonship of Pyrrhos at Delphi, and in Athens of Dionysios after Lykiskos <note type="inline">(128/7)</note>, the following
+            <lb/>were dispatched by the People of the Athenians as <term target="puthaiistai paides" xml:lang="grc-Latn">Pythaist-<supplied reason="lost">boys</supplied></term>:<note type="footnote">2</note>
+            <lb/>
+        </p>
+    </div>
+    <div n="1" subtype="subcolumn" type="textpart">
+      <p>
+        <lb/>Pamphilos son of Artemon
+        <lb/><milestone unit="line" n="5"/>Apollodoros and
+        <lb/>Leotichos sons of Sosibios <!--ephebe in 118/7, <i>SEG</i> 21.477, col. 1, l. 124; his father in <i>F.Delphes</i> III 2, 27, col. 1, l. 33; Themakos, Erechtheis)-->
+        <lb/>Nikanor son of Nikanor <!--perhaps relative of the epimeletes in IDélos 1659?-->
+        <lb/>Timotheos son of Timotheos <!--ephebe in 118/7? <i>IG</i> II<sup>2</sup> 1008, col. 3, l. 104, Halai, Aixonides-->
+        <lb/>Charimedes son of Phanteas <!--ephebe in 118/7, <i>IG</i> II<sup>2</sup> 1008, col. 3, l. 125 Aiantis-->
+        <lb/><milestone unit="line" n="10"/>Pistokrates son of Satyros
+        <lb/>Dorotheos son of Dorotheos <!--there seem to be many: (pre-?)ephebe in ca. 125?, AIUK 4.3B, no. 1, l. 3 (I agree with Tracy in hand attribution.); <i>IG</i> II<sup>2</sup> 1009, col. 3, l. 65 (Oineis); <i>IG</i> II<sup>2</sup> 1006+SEG 38.114, col.4, l. 118 (Eroiadai) are the three most plausible choices-->
+        <lb/>Kratermos son of Athenades <!--later cavalryman in the third <i>Pythais</i> in 106 (<i>F.Delphes</i> III 2, 28,col. 2, l. 44. Aiantis. Also <i>IG</i> II<sup>2</sup> 1009, col. 4, l. 67 ephebe in 116/5), Rhamnous-->
+        <lb/>Sarapion son of Demetrios <!--maybe <i>IG</i> II<sup>2</sup> 1006+SEG 38-114, col. 5, l. 109 Anaphlystos? No certainty.-->
+        <lb/><gap reason="lost" unit="character" atLeast="5" atMost="6" precision="low"/>enes son of Anaxikrates
+        <lb/><milestone unit="line" n="15"/>Timokles son of Hipparchos <!--son of Hipparchos, the fleet general in this <i>Pythais</i> (<a href="/inscriptions/FDIII2/24" class="highlight"><i>F.Delphes</i> III 2, 24</a>, l. 4). Himself cannot be the same as the victor in <i>F.Delphes</i> III 2, 41, col. 3, but perhaps a relative (or if we believe his victory not in this year, then it may be him as a cavalryman later. No such name was attested in cavalryman lists in the third / fourth <i>Pythais</i> though. -->
+        <lb/>- son of Aga-
+
+      </p>
+    </div>
+    <div n="2" subtype="subcolumn" type="textpart">
+      <p>
+        <lb/>Medeios son of Medeios<note type="footnote">3</note>
+        <lb/>Dionysios and
+        <lb/>Niketes sons of Athenobios<note type="footnote">4</note>
+        <lb/>Hermogenes son of Kallistratos
+        <lb/>Attinas son of Herakleides <!--son of theoros <i>F.Delphes</i> III 2, 8, l. 12? Himself in <i>IG</i> II<sup>2</sup> 1008, col. 1, l. 126, Phlya; he became thesmothetes in around 90s, <i>IG</i> II<sup>2</sup> 1714, l. 7.-->
+        <lb/>Timostratos son of Ariston <!--ephebe (?) in 125/4, <i>IG</i> II<sup>2</sup> 2452, l. 42. Phaleron-->
+        <lb/>Hermokles son of Kleidamos <!--ephebe in 118/7, <i>IG</i> II<sup>2</sup> 1008, col. 3, l. 127, Antiochis-->
+        <lb/>Nikolaos son of Aischron
+        <lb/>Lykophron son of Menekrates <!--relative of Lykophron, boy in 138/7 <i>F.Delphes</i> III 2, 11, l. 5; he is unlikely to be the priest on Delos in IDélos 1897, as Seangb suggests. Sounion--> 
+        <lb/>Antigonos son of Alexandros <!-- Otryne? Relative of Alexandros s. Antigonos in IG II3 1 1284-->
+        <lb/>Sositheos son of Sosipatros <!--Euonymon. Later gymnasiarch on Delos in 94/3 BC, IDélos 1930-1932-->
+        <lb/>Androkles son of Philistion <!--Ptelea-->
+        <lb/>Alexandros son of Ne-
+        <lb/>
+      </p>
+    </div>
+    <div n="3" subtype="subcolumn" type="textpart">
+      <p>
+        <lb/>Polykleitos son of Alexandros <!--Cavalryman in the third <i>Pythais</i> (<i>F.Delphes</i> III 2, 28, col. 1, l. 40); epimeletes of the island Delos in 99/8 (I Délos 2499). Donator of the fourth <i>Pythais</i> in <i>IG</i> II<sup>2</sup> 2336, l. 202. His son Nikagoras joined the third <i>Pythais</i> as paides (FD III 2, 15, col. 3, l. 9)? Phyla-->
+        <lb/>Agenor son of Apollonios <!--Erikeia II. <i>IG</i> II<sup>2</sup> 1008, l. 100-->
+        <lb/>Pasion son of Hermaiskos <!--epimeletes of the island Delos in c. 89/8, IDélos 1873; being thesmothetes in around 90s, <i>IG</i> II<sup>2</sup> 1714, l. 11. Anaphlystos X.-->
+        <lb/>Dionysios son of Theobios <!--father of Theobios, epimeletes on Delos in 96/5, IDélos 1892 and donator of the fourth <i>Pythais</i>, <i>IG</i> II<sup>2</sup> 2336, l. 218. Acharnai-->
+        <lb/>Marsyas son of Zenon
+        <lb/>Ariarathes son of Attalos <!--Sypalettos. Chr. Habicht, Chiron 21, 1991, 8. Coin manager-->
+        <lb/>Asklepiades son of Xenon <!--Phyle, <i>IG</i> II<sup>2</sup> 2452, l. 24-->
+        <lb/>Chairimenes son of Xenon <!--he is brother of Asklepiades, son of Xenon epimeletes of Delos in 118/7 BC (IDélos 1652).-->
+        <lb/>Sosigenes son of Sosigenes <!--Hybadai, see IG II3 4 367; or Probalinthos, <i>IG</i> II<sup>2</sup> 1008, col. 4, l. 108, ephebes in 119/8-->
+        <lb/>Xenodikos son of Lysimachos <!--Hippothontis. <i>IG</i> II<sup>2</sup> 1006, col.3, l. 126.-->
+        <lb/>Charikles son of Theogenes <!--Leukonoion-->
+        <lb/>Nikarchos son of -
+        <lb/>- son of -nios
+        <lb/>
+      </p>
+    </div>
+    <div n="4" subtype="subcolumn" type="textpart">
+    <p>
+        <lb/>Straton son of Rhinon
+        <lb/>Boulon son of Leostratos <!--cavalryman in the third <i>Pythais</i> (<i>F.Delphes</i> III 2, 28, col. 3, l. 22); thesmothetes and donator in the fourth <i>Pythais</i>, <i>F.Delphes</i> III 2, 2, l. 11 and <i>IG</i> II<sup>2</sup> 2336, l. 195. Pallene-->
+        <lb/>Kallippos son of Demetrios 
+        <lb/>Marsyas son of Theron <!--<i>IG</i> II<sup>2</sup> 1009, col. 4, l. 80. Anaphlystos-->
+        <lb/>Heliodoros son of Heliodoros <!--relative of Heliodoros s. Heliodoros, Pythaist in the third <i>Pythais</i>, F.Delphes III 2, 15, col. 2, l. 6 and ephebe in the fourth, <i>F.Delphes</i> III 2, 26, col. 1, l. 22.-->
+        <lb/>Androkles son of Lykiskos
+        <lb/>Sostratos son of Klearchos <!--<i>IG</i> II<sup>2</sup> 2327, l. 7. Kytheros-->
+        <lb/>Nikophon
+        <lb/>and Philodromos sons of Philodromos,
+        <lb/>sons of Ismenios<note type="footnote">5</note>
+        <lb/><del rend="erasure">Polykleitos son of Alexandros</del>.<note type="footnote">6</note>
+        <lb/>
+    </p>
+    </div>
+  </div>
+  <div xml:lang="en" type="commentary" xml:space="preserve">
+    <p>
+    !+1+ <em>Textual Note</em>: AIO includes readings and supplements in col. 3, ll. 15–16 ([Ν]ικαρ[χος ... | ...]νίου), col. 4, l. 4 (Σ[τρ]ἀ[τω]ν Ῥί[νων]ος) from <i>F.Delphes</i> III 2, add. p. 287; in col. 3, l. 8 ([Μαρ]σύας) from Tracy, <i>BCH</i> 99, 1975, 191.<br/><br/> <!--CdL: We should include the updated Greek texts in these textual notes (the alternative is to produce a Greek text of the whole inscription, which we are not going to do for texts this long!)-->
+    This is a list of 47 names of Pythaist-boys who participated in the second <i>Pythais</i> at Delphi, which took place in 128/7 BC. It was inscribed on two horizontally joined blocks in the southern façade of the Athenian Treasury, below the list of Pythaist-boys of the first <i>Pythais</i> of 138/7 BC (<i>F.Delphes</i> III 2, 11). On the <i>Pythais</i> and the Treasury, see <a href="/inscription/FDIII2/3" class="highlight"><i>F.Delphes</i> III 2, 3</a> and on Attic inscriptions at Delphi, see <a href="/inscription/IGII34/17" class="highlight"><i>IG</i> II<sup>3</sup> 4, 17</a> with notes. The first three lines, which serve as a preamble, were inscribed across both blocks, aligned to the left with large letterspaces. G. Daux, <i>Delphes au II<sup>e</sup> et au I<sup>er</sup> siècle</i>, 1936, 524 (followed by Tracy, <i>ALC</i>, 257) notes that the script of this inscription is distinct from other texts in the second <i>Pythais</i>: for instance, the alpha was written here with four rather than three strokes (cf. also <a href="/inscription/FDIII2/8" class="highlight"><i>F.Delphes</i> III 2, 8</a>, with notes).!
+    </p>
+    <p>
+    !+2+ Pythaist-boys participated in the <i>Pythais</i> procession as part of a chorus under the direction of a chorus director (<i>didaskalos chorou</i>, cf. <i>F.Delphes</i> III 2, 11, l. 20 and <i>F.Delphes</i> III 2, 47, l. 8). They may have sung the hymns and paians during the procession (see <a href="/inscription/PohlmannWest/20" class="highlight">Pöhlmann and West, <i>Greek Music</i> 20</a>-<a href="/inscription/PohlmannWest/21" class="highlight">21</a>). Lists of Pythaist-boys survive from all the four <i>Pythaides</i>: <i>F.Delphes</i> III 2, 11 (138/7 BC), <i>F.Delphes</i> III 2, 15 (106/5 BC), and <i>F.Delphes</i> III 2, 17 (97/6 BC). Participation was a mark of status, as fathers of several boys here also participate in the <i>Pythais</i> as cavalrymen or <i>theoroi</i>. Many of the boys would later become ephebes and Pythaists (on Pythaist-boys, see S. Kühn, <i>Pythais-Prozession</i>, 2018, 150-151; for the role of family bonds, see K. Karila-Cohen in M. Dana and I. Savalli-Lestrade eds.,<i>La cité interconnectée dans le monde gréco-romain</i>, 2019, 287-306). It is not clear how the names were grouped or ordered as boys from different demes are listed together, and those from the same deme are often separated (e.g., Attinas in col. 2, l. 8 and Polykleitos in col. 3, l. 4 were both from Phlya). This practice may correspond to its contemporary omission of demes and tribes in Delphic proxeny decrees for Athenians (e.g., <i>F.Delphes</i> III 2, 93).!
+    <!--An e.g. of a proxeny decree would be good. The point that the demotics are excluded should be stated explicitly, as should the fact that the demotics are absent in (nearly?) all the Pythais inscriptions – this is something that might be mentioned in the main Pythais entry, rather than just here.-->
+    </p>
+    <p>
+    !+3+ This Medeios was the eponymous archon in Athens in 101/0 and for three consecutive years from 91/0 to 89/8 BC (<i>IG</i> II<sup>2</sup> 1713, ll. 9-11), as well as polis priest of Poseidon Erechtheus (Ps. Plut. <i>X. Orat</i>. 843b). His role in funding the fourth <i>Pythais</i> (97/6 BC) is shown in <i>IG</i> II<sup>2</sup> 2336, in which his name was erased and reinscribed four times (ll. 183-189): see also S. Tracy, <i>IG II<sup>2</sup> 2336, Contributors of First Fruits for the Pythais</i>, 1982, 66 (= <i>SEG</i> 32.218) and E. Culasso Gastaldi, Cahiers Glotz 14, 2003, 261-2 (also <a href="/papers/aio-papers-2" class="highlight"><i>AIO Papers</i> 2, 19-20</a>). [Medeios' totally illegal repeat archonships indicate a seriously disordered constitutional situation in Athens in the lead up to the disastrous decision to oppose Rome in the First Mithridatic War. – Christopher de Lisle]!
+    <!-- This is very nearly perfect, but:
+ We shouldn't seek to explain the erasure in IG II2 2336 in the notes for this entry.
+ Medeios' chief significance is that his totally illegal repeat archonships indicate a seriously disordered constitutional situation in Athens in the lead up to the disastrous decision to oppose Rome in the First Mithridatic War. This should be stated more explicitly.  -->
+    </p>
+    <p>
+    !+4+ Dionysios and Niketes are brothers (cf. <a href="/inscription/IGII2/1963" class="highlight"><i>IG</i> II<sup>2</sup> 1963</a> with note on "ephebic twins") and their father Athenobios participated in this <i>Pythais</i> as cavalryman. Niketes would become an ephebe in 117/6 BC (<i>IG</i> II<sup>2</sup> 1109); both Dionysios and Niketes participated in the third <i>Pythais</i> (106/5 BC) as cavalrymen (<i>F.Delphes</i> III 2, 28: not inscribed side-by-side as here). Dionysios was later supervisor (<i>epimelētes</i>) of the market of Delos in 98/7 BC (<i>I Délos</i> 1711, when Medeios in the previous note was the manager at Delos), and the brothers appear to have been mint magistrates around 97/6 BC (C. Habicht, <i>Chiron</i> 21, 1991, 11). On this family see K. Karila-Cohen in J.-Chr. Couvenhes et al. eds., <i>Mélanges offerts à André Laronde</i>, 2012, 395-409. Other boys who later appear as ephebes include Dorotheos (col. 1, l. 11) and Xenodikos (col. 3, l. 13) in the ephebic catalogue of 122/1 BC (<i>IG</i> II<sup>2</sup> 1006 + <i>SEG</i> 38.114, col. 4, l. 118 and col. 3, l. 135 respectively); Androkles (col. 2, l. 15), Sosigenes (col. 3, l. 12, with doubt) and Charikles (col. 3, l. 14) later in a list of pre-ephebes (<i>mellepheboi</i>, see <a href="/inscription/IGII34/367" class="highlight"><i>IG</i> II<sup>3</sup> 4, 367</a>, at ll. 13, 19, 14 respectively; on <i>mellepheboi</i>, see <a href="/inscription/IGII34/470" class="highlight"><i>IG</i> II<sup>3</sup> 4, 370</a> with notes) in around 120 BC; and Leotichos (col. 1, l. 6), Timotheos (col. 1, l. 8), Charimedes (col. 1, l. 9), Hermokles (col. 2, l. 10), Agenor (col. 3, l. 5), Sosigenes (col. 3, l. 12) in the ephebic list in 118/7 BC (<i>IG</i> II<sup>2</sup> 1008, col. 1, l. 124; col. 3, l. 104; col. 3, l. 125; col. 3, l. 127; col. 1, l. 100; col. 4, l. 108 respectively); Kratermos (col. 1, l. 12) in the ephebic list in 116/5 BC (<i>IG</i> II<sup>2</sup> 1009, col. 4, l. 67). As these boys took ephebic trainings around ten years later but not in the same year, it can be assumed that they were around ten years old when being Pythaist-boys, and that they did not strictly follow the age criterium (as a result, "ephebic twins" can also simply be non-twin brothers). </br> </br>
+    The frequent overlaps and familial networks among Athenian institutional citizen groups (Pythaist-boys, ephebes, cavalrymen, and magistrates on Delos) in around 150-90 BC characterise a strong 'small world' of elites, who held key military, ritual, economic and civic positions and whose offsprings (male, but also female, e.g. <i>kanēphoroi</i> in <i>F.Delphes</i> III 2, 29–31) participated in civic affairs at a young age through rituals, processions, and ephebic trainings, in preparation for taking key positions of the city-state. On this sociological structure, see now S. Lambert in M. Horster and A. Klöckner eds., <i>Civic Priests</i>, 2012, 67-133; É. Perrin-Saminadayar, <i>Éducation, culture et société à Athènes</i>, 2007, 248-266.
+    
+    ! <!-- I'm not quite sure what this means. "The pair are a good example of how participation in the Pythais formed part of prominent families' participation in public life" ? ? ? 
+One might then transition to some general points about what the prosopographic work that you've done here tells us generally about the class/social profile of the Pythaists. We discussed this a bit and also how much of it goes here vs in the Pythais key-entry.
+ The fact that most of these boys show up in IG II2 1008 (cohort of 118/7 indicates that they must be around 10 years old at this point – but clearly Dorotheos and Xenodikos illustrate that the age of participation both as pythaist boys and as ephebes was not strictly policed).
+ The clear overlap between pythaiistai paides - ephebes – cavalrymen (and the fact that many of them go on to hold key magistracies on Delos) is important evidence for the way the elite worked in this period – EPS's "small world": a recognisable upper class holding prominent positions in civic, religious/ritual, military, and economic spheres (I don't have a sense of how much Karila-Cohen and Kühn have spelt out this big picture point, but of course it would be good to cite them insofar as they have, but AIO should also point readers to discussions of the class structure in this period in the most general works (i.e. Habicht & Perrin-Saminadayar, Lambert and Blok's chapter in civic priests).
+It also seems clear that the Pythais played a role in introducing the next generation of the family to public life – perhaps the establishment of these pythaist boys and the mellephebes suggest an interest in the L ii BC in starting this process even earlier than before?
+It's also interesting who is not part of the elite on display in the Pythais – notably women and resident foreigners (both of whom had public roles in Athens at this time in other venues… but apparently not here). 
+Making these points briefly but precisely is a challenge!
+Thought is necessary on how much goes here and how much in the key entry / other entries (either is practical, particularly with links), and how much goes in the AIO Paper rather than either entry. 
+Line numbers are needed for IG II2 1109 etc
+(I'd remove phrases like "it is worth noting", "it is interesting that" etc – if it wasn't, you wouldn't be noting it.)
+-->
+</p>
+    <p>
+    !+5+ The brothers Nikophon and Philodromos might have been sons of Philodromos son of Nikophon who was an official visitor (<i>theōros</i>) of the Athenian artists’ association in this <i>Pythais</i> (<i>F.Delphes</i> III 2, 47, l. 7; on the artists, see <a href="/inscription/IGII2/1320" class="highlight"><i>IG</i> II<sup>2</sup> 1320</a> with notes). The patronym 'sons of Philodromos' breaks the layout of the list and was clearly added afterwards. The erroneous patronym '(sons of) Ismenios' was not erased when this correction was made.!
+    </p>
+    <p>
+    !+6+ The last line was inscribed by a different hand and was later erased (<i>F.Delphes</i> III 2, p. 21). Since the name Polykleitos son of Alexandros already appears in col. 3, l. 4, it seems likely that it was duplicated in error and later erased (but see S. Tracy, <i>BCH</i> 99, 1975, 191).!
+    </p>
+    </div>
+  
+    </body>
+  </text>
+</TEI>

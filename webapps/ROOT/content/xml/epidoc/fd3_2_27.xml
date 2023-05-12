@@ -1,0 +1,125 @@
+<body xmlns:xml="http://www.w3.org/XML/1998/namespace">
+  <div xml:lang="en" type="translation" xml:space="preserve">
+      <div n="1" type="textpart">
+          <lb/>And the following cavalrymen were dispatched together by the
+          <lb/>People of the Athenians to escort
+          <lb/>the Pythais.<note type="footnote">1</note>
+          <lb/>
+      </div>
+      <div n="1" subtype="column" type="textpart">
+          <lb/><term target="hipparchos" xml:lang="grc-Latn">Cavalry commander</term>:
+          <lb/><milestone unit="line" n="5"/>Diokles son of Diokles<note type="footnote">2</note>
+          <lb/><term target="phularchoi" xml:lang="grc-Latn">Tribal cavalry commanders</term>:
+          <lb/><space unit="character" quantity="7"/>Erechtheis<note type="tribe">I</note>
+          <lb/>Hagias son of Boulon
+          <lb/><space unit="character" quantity="7"/>Aigeis<note type="tribe">II</note>
+          <lb/><milestone unit="line" n="10"/>Hermon son of Antiphon.<note type="footnote">3</note>
+          <lb/><space unit="character" quantity="7"/>Cavalrymen
+          <lb/><space unit="character" quantity="7"/>Erechtheis<note type="tribe">I</note>
+          <lb/>E-
+          <lb/>E[umarei]des<note type="footnote">4</note>
+          <lb/><milestone unit="line" n="15"/>Alkidamos<note type="footnote">5</note>
+          <lb/>Pyrrhos
+          <lb/>Byttakos
+          <lb/><space unit="character" quantity="7"/>Aigeis<note type="tribe">II</note>
+          <lb/>Eu-
+          <lb/><milestone unit="line" n="20"/>A-
+          <lb/><gap reason="illegible" unit="line" qunatity="2"/>
+          <lb/><space unit="character" quantity="7"/>Pandionis<note type="tribe">III</note>
+          <lb/>Demetrios of Oa
+          <lb/><milestone unit="line" n="25"/><space unit="character" quantity="7"/>Leontis<note type="tribe">IV</note>
+          <lb/>Athenobios
+          <lb/>Charinos
+          <lb/>Zoilos
+          <lb/>Sotion
+          <lb/><milestone unit="line" n="30"/>Sosigenes
+          <lb/>Boukattes
+          <lb/><space unit="character" quantity="7"/>Ptolemais<note type="tribe">V</note>
+          <lb/>Sosibios
+          <lb/>Herakleides
+          <lb/><milestone unit="line" n="35"/>Artemon
+          <lb/>Mnesitheos
+          <lb/>Polykleitos
+          <lb/>Sostratos
+          <lb/>Kallitheos
+          <lb/><milestone unit="line" n="40"/><space unit="character" quantity="7"/>Akamantis<note type="tribe">VI</note>
+          <lb/>Demoteles
+          <lb/>Menandros
+          <lb/>Asklepiades
+          <lb/>
+      </div>
+      <div n="2" subtype="column" type="textpart">
+          <lb/><milestone unit="line" n="3"/>Amyntas
+          <lb/><space unit="character" quantity="7"/>Oineis<note type="tribe">VII</tribe>
+          <lb/>Archestratos
+          <lb/>Antipatros
+          <lb/>Zopyros
+          <lb/>Eubios
+          <lb/>Menekrates
+          <lb/>Kallias
+          <lb/>Theophrastos
+          <lb/><space unit="character" quantity="7"/>Kekropis<note type="tribe">VIII</note>
+          <lb/>Diodotos
+          <lb/>Eudemos<note type="footnote">6</note>
+          <lb/>Kichesias
+          <lb/>Archytas
+          <lb/><space unit="character" quantity="7"/>Hippothontis<note type="tribe">IX</note>
+          <lb/>Glaukos
+          <lb/>Eudoxos
+          <lb/><space unit="character" quantity="7"/>Theoros<note type="footnote">7</note>
+          <lb/>Hipparchos
+          <lb/><space unit="character" quantity="7"/>Aiantis<note type="tribe">X</note
+          <lb/>-des
+          <lb/><gap reason="illegible" unit="line" quantity="1"/>
+          <lb/><space unit="character" quantity="7"/>Antiochis<note type="tribe">XI</note><note type="footnote">8</note>
+          <lb/>Sotas
+          <lb/>Dionysodoros
+          <lb/>Rhadamanthys<note type="footnote">9</note>
+          <lb/>Dionysios
+          <lb/>Demophilos
+          <lb/>Philinos
+          <lb/>Demetrios
+          <lb/>Autandros
+          <lb/>Apollonios
+          <lb/>Kallistratos
+          <lb/>Menekrates
+          <lb/>Menophilos<note type="tribe">XII</note>
+          <lb/>Diodoros
+          <lb/>Anaxikrates
+          <lb/>Apollonios
+          <lb/>Diomenes.+9+
+          <lb/>
+      </div>
+  </div>
+  <div xml:lang="grc" type="edition" xml:space="preserve">
+      <div n="1" type="textpart">
+          <lb/>
+          <lb/>
+      </div>
+  </div>
+  <div xml:lang="en" type="note" xml:space="preserve">
+    <p>
+    !+1+<strong>Textual Note</strong> AIO accepts the restoration of #### in col. 1, l. 14 by H. Pomtow in Syll.3 697 G.<br/><br/>
+
+This list of 63 cavalrymen from the second <i>Pythais</i> at Delphi, which took place in 128/7 BC, was inscribed on the southern façade of the Athenian Treasury, occupying a rectangular space on two blocks one on top of the other (join at l. 22). On the <i>Pythais</i> and the Treasury, see <a href="/inscription/FDIII2/3" class="highlight"><i>F.Delphes</i> III 2, 3</a> and on Attic inscriptions at Delphi, see <a href="/inscription/IGII34/17" class="highlight"><i>IG</i> II<sup>3</sup> 4, 17</a> with notes. Cavalrymen rode alongside the procession as escorts and participated in contests during the <i>Pythais</i>, see S. Kühn, <i>Pythais-Prozession</i>, 2018, 156. A similar roster of participating cavalrymen survives from the third <i>Pythais</i> (<i>F.Delphes</i> III 2, 28); the cavalrymen of the fourth <i>Pythais</i> were listed under the roster of ephebes (<i>F.Delphes</i> III 2, 26). Unlike other lists from the second <i>Pythais</i>, this cavalry list does not have a spatial connection with the other cavalry list on the Treasury (<i>F.Delphes</i> III 2, 28), but is located directly beneath a Delphic honorific decree for the association (<i>koinon</i>) of cavalrymen in Athens and key cavalry commanders (<i>F.Delphes</i> III 2, 46, also in 128/7 BC), to which it is linked by the opening ‘and’. The heading takes two and a half lines (ll. 1-3), leaving space on the right side of the line. The first line of col. 2 starts at l. 3.!
+
+!+2+ Diokles son of Diokles is also mentioned in <a href="/inscription/FDIII2/24" class="highlight"><i>F.Delphes</i> III 2, 24</a>, l. 5 (from the same Pythais), where he holds the title 'general of the cavalry' (strategos epi to hippikon), while here and in <i>F.Delphes</i> III 2, 46, l. 9 he is 'commander of the cavalry' (hipparchos). On the hipparch and his duties, see <a href="/inscription/IGII31/1281" class="highlight"><i>IG</i> II<sup>3</sup> 1, 1281</a> with note. This difference is rather of nomenclature than of function, as parallel interchangeability between 'general of the navy' (strategos epi to nautikon) and 'commander of the navy' (nauarchos) exists also in the second century BC (cf. W. S. Ferguson, Klio 9, 1909, 314-323).!
+
+!+3+ In <a href="/inscription/FDIII2/24" class="highlight"><i>F.Delphes</i> III 2, 24</a>, four tribal cavalry commanders are mentioned without tribal filiation. Here the tribes of two tribal cavalry commanders are specified, and the other two tribal cavalry commanders are not mentioned. On tribal cavalry commanders and their duties, see <a href="/inscription/IGII31/949" class="highlight"><i>IG</i> II<sup>3</sup> 1, 949</a> with note. The biological father of Hermon, Antiphon, was added inline in <a href="/inscription/FDIII2/24" class="highlight"><i>F.Delphes</i> III 2, 24</a>, l. 6, but here he is directly mentioned as son of Antiphon.!
+
+!+4+ An Eumareides was ephebe in the first <i>Pythais</i> (<i>F.Delphes</i> III 2, 23, col. 2, l. 21) and dedicated a base at the Hermaia (<a href="/inscription/IGII34/368" class="highlight"><i>IG</i> II<sup>3</sup> 4, 368</a>).!
+
+!+5+ Alkidamos (col. 1, l. 15) was honoured by the Delphians in this year for bringing the tripod on a chariot during the procession, see <i>F.Delphes</i> III 2, 33. On this ritual of bringing the tripod on a chariot (tripodophoros), see <i>F.Delphes</i> III 2, 32 (from the fourth Pythais), as well as S. Kühn, <i>Pythais-Prozession</i>, 2018, 128-130.!
+
+!+6+ Eudemos (col. 2, l. 14) and Rhadamanthys (col. 2, l. 28) appear also in the list of official visitors (<i>theoroi</i>), <a href="/inscription/FDIII2/8" class="highlight"><i>F.Delphes</i> III 2, 8</a>. A possible explanation is that they were honoured because of their status as cavalrymen, but they served as <i>theoroi</i> in this <i>Pythais</i> and did not join the group of cavalrymen in the procession.!
+
+!+7+ The word '<i>theoros</i>' (col. 2, l. 20) was centred, like the tribal rubrics. If this word is interpreted as the title, ‘official visitor’ (per G. Colin in <i>F.Delphes</i> III 2, 27, p. 34), one needs to explain why Hipparchos was added to this list and not to the list of <a href="/inscription/FDIII2/8" class="highlight"><i>F.Delphes</i> III 2, 8</a>. Alternatively, it might be a personal name (perhaps a relative of Theoros son of Theoros who was an ephebe in 97/6 BC, cf. <i>F.Delphes</i> III 2, 26, col. 2, l. 7, as has been argued by Pomtow in <i>Syll</i>.<sup>3</sup>, Tracy, <i>BCH</i> 99, 1975, 192–93, and Rutherford, <i>State Pilgrims</i>, 2014, 164), with the ambiguity of the word as title or personal name leading the stonecutter to make an understandable mistake. Hipparchos (l. 21) appears to have been the manager (<i>epimeletes</i>) of Delos in 114/3 BC (<i>I Délos</i> 1901).!
+
+
+!+8+ The names of the cavalrymen are listed by tribe, but the name of the twelfth tribe, Attalis, is omitted. Menophilos is named as a cavalryman of Attalis in 106/5 BC (<i>F.Delphes</i> III 2, 28, col. 3, l. 30), and thus at least the last five cavalrymen (col. 2, ll. 37-41) should come from Attalis (Pomtow in <i>Syll</i>.<sup>2</sup>; Sundwall, <i>Nachträge zur Prosopographia Attica</i>, 1910, 128). S. Tracy, <i>BCH</i> 99, 1975, 193 supposes that, given that Attalis had 11 cavalrymen and Antiochis only 7 in the third <i>Pythais</i> of 106/5 BC, 'something more than half of the 16 cavalrymen listed here under Antiochis in fact belonged to Attalis.' However, the fact that Kekropis, which had only four cavalrymen in 128/7 BC, had twelve representatives in 106/5 BC, challenges this suggestion.!
+
+!+9+ Thanks to their participation in the contests for the <i>Pythais</i>, as well as family relationships with other Pythaists, we can identify some names in this lists despite the lack of patronyms and demonyms. Hagias (col. 1, l. 7), Hermon (l. 10), Pyrrhos (l. 16), Byttakos (l. 17), Charinos(l. 27), Zoilos (l. 28), Sotion (l. 29), Kallitheos(l. 39), and Kallistratos (col. 2, l. 35) are attested in <a href="/inscription/FDIII2/34" class="highlight"><i>F.Delphes</i> III 2, 34-42</a> as victors in the cavalry contests of the second <i>Pythais</i>.!
+
+    </p>
+  </div>
+  </body>

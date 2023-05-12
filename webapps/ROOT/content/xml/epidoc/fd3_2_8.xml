@@ -88,47 +88,55 @@
                       </div>
                     </div>
                     <div type="translation">
-                        <div n="1" subtype="title" type="textpart">
+                        <div n="1" subtype="column" type="textpart">
                             <p>
-                              <lb/>For Good Fortune. In the archonship of Pyrrhos at Delphi,+1+
-                              <lb/>and of Dionysios after Lykiskos in Athens,
-                              <lb/>these sacred delegates (theoroi) from the People 
-                              <lb/>of Athens were dispatched to help in conducting the Pytha<lb break="no" n="5"/>is+2+. 
+                                <lb/>For Good Fortune. In the archonship of Pyrrhos at Delphi,
+                                <lb/>and of Dionysios after Lykiskos<note type="inline">(128/7)</note> in Athens,
+                                <lb/>the following were dispatched as <term target="theōroi" xml:lang="grc-Latn">official visitors</term> by the People	
+                                <lb/>of the Athenians to help conduct
+                                <lb/><milestone unit="line" n="5"/>the Pythais.<note type="footnote">1</note>
+                                <note type="inline">Uninscribed space</note>
+                                <lb/>Demainetos son of Demeas
+                                <lb/>Eudemos son of Sarapion, by birth son of Gorgippos<note type="footnote">2</note>
+                                <lb/>-anos son of Gorgippos
+                                <lb/>Chares son of Chares, the younger<note type="footnote">3</note>
+                                <lb/><milestone unit="line" n="10"/>Ptolemaios son of Euboulos
+                                <lb/>Euboulos son of Euboulos, Dionysios son of Euboulos
+                                <lb/>Rhadamanthys son of Attinas
+                                <lb/>Sostratos son of Alexandros
+                                <lb/>Xenon son of Philanthes
+                                <lb/><milestone unit="line" n="15"/>Lysias son of Pyrrhos.
+                                <lb/><note type="inline">Uninscribed space</note>
+                                <lb/>
                             </p>
                         </div> 
                         <div n="2" subtype="subcolumn" type="textpart">
                             <p>
-                              <lb/>Demainetos son of Demeas,
-                              <lb/>Eudemos son of Sarapion, by birth son of Gorgippos,+3+ 
-                              <lb/><gap reason="lost" quantity="2" unit="character"/>anos son of Gorgippos,
-                              <lb/>Chares the younger, son of Chares,
-                              <lb n="10"/>Ptolemaios son of Euboulos, 
-                              <lb/>Euboulos son of Euboulos, Dionysios son of Euboulos,
-                              <lb/>Rhadamanthys son of Attinos,
-                              <lb/>Sostratos son of Alexandros,
-                              <lb/>Xenon son of Philanthos,
-                              <lb n="15"/>Lysias son of Pyrrhos.
-                            </p>
-                        </div>
-                        <div n="3" subtype="subcolumn" type="textpart">
-                            <p>
-                              <lb/>Sacred delegates (theoroi) from <placeName ref="https://pleiades.stoa.org/places/580117">Tetrapolis</placeName>:+4+
-                              <lb/>Mētrodōros son of Kallistratos,
+                              <lb/><milestone unit="line" n="2"/><term target="theōroi" xml:lang="grc-Latn">Official visitors</term> from <placeName ref="https://pleiades.stoa.org/places/580117">the Tetrapolis</placeName>:<note type="footnote">4</note>
+                              <lb/>Metrodoros son of Kallistratos,
                               <lb/>Damokritos son of Damokritos,
-                              <lb/>Hēniochidēs son of Euphilētos
-                              <lb/><space quantity="5" unit="character"/>from Pyrrhakidai:+5+
-                              <lb/>Tiranax son of Euklēs of <placeName ref="https://pleiades.stoa.org/places/580076">Phlya</placeName><note type="deme">XIII</note>.
+                              <lb/>Heniochides son of Euphiletos
+                              <lb/><space quantity="5" unit="character"/>from Pyrrhakidai:<note type="footnote">5</note>
+                              <lb/>Tiranax son of Eukles of <placeName ref="https://pleiades.stoa.org/places/580076">Phlya</placeName><note type="deme">XIII</note>.
                             </p>
                         </div>
                     </div>
                     <div xml:lang="en" type="commentary">
-                      <p> +1+ This text was inscribed on one block on the southern façade of the Athenian Treasury, below the list of <i>theōroi</i> for the first Pythaïs in 138/7 BCE. For more detail on Hellenistic inscriptions on the Athenian Treasury, see Note 1 for <a class="highlight" href="/inscription/fdIII2/3"><i>F.Delphes</i> III 2.3</a>; on the Pythais, see <a class="highlight" href="/inscription/IGII34/18"><i>IG</i> II<sup>3</sup> 4, 18</a> with notes.
-                      <br/><em>Textual Note</em>. After consulting the squeezes at <i>Inscriptiones Graecae</i>, the editor gives variant readings in comparison with <i>F.Delphes</i> III 2 and Tracy, <i>BCH</i> 99 (1975), 190: l. 1.2, a break should be mentioned; l. 2.1, the Π has three legs rather than two, probably due to a stonecutter's fault; 2.6, the last Υ is visible.!</p>
-                      <p> +2+ The first five lines were inscribed with slightly larger letters and thicker serifs. The fifth line, having only three letters, serves as a visual break between the title parts (l. 1–4) and the name lists from l. 6 onwards.!</p>
-                      <p> +3+ For the formula indicating the natural father, now see <a class="highlight" href="/papers/aiuk-45"><i>AIUK Papers</i> 4.5</a>, 59. This Eudemos reappeared in <i>F.Delphes</i> III 2.27, 2.14, where we know he belonged to Kekropis <i>phylē</i>.</p>
-                      <p> +4+ Tetrapolis, a community in Attica including the cities of Marathon, Probalinthos, Trikorythos and Oinoi. For the community in detail, see <a class="highlight" href="/inscription/SEG/50168"><i>SEG</i> 50.168</a>, note 1; The community maintained a special connection with Delphi independently from Athens, even when the Sanctuary of Apollo was under the dominance of Aitolians: Delphi honoured Tetrapolis because of their 'proximity with the god' and rendered them the privilege of perennial <i>promanteia</i> (the collective priority of consulting the oracle) and 'the right to sacrifice at the altars in the first place after the Delphians' (<i>prothysia</i>), see <i>F.Delphes</i> III 2.18 (mid-third century), 2.19 (<i>Chronologie delphique</i> K24, reengraved in the second century), 2.20 (the last one dated to 178/7 BCE) = <i>Choix des inscriptiones de Delphes</i>, No. 198–200.</p>
-                     <p>Column 2 was inscribed right below Column 2 of <i>F.Delphes</i> III 2.7, where the <i>theoroi</i> also from Tetrapolis were added later than the original engraving. As the block still has much space below Column 1, it seems that the layout suggests a continuity of Tetrapolitan <i>theoroi</i> between the two Pythaïdes. See also Karila-Cohen in Baslez and Prévot, <i>Prosopographie et histoire religieuse</i>, 76–80; Humphreys, <i>Kinship in Ancient Athens</i>, 2019, 657.</p>
-                      <p> +5+ Pyrrhakidai was a <i>genos</i> of Athens, perhaps emerging in the late second century BCE, though two inscriptions dated to <i>ca</i>.400 on Delos recorded two names as 'of Pyrrhakidai' (<i>ID</i> 66 and 67), suggesting an earlier affiliation to Delos. The name Timanax (also <i>F.Delphes</i> III 2.7 as patronym, perhaps the grandfather of Timanax here) was also attested more in the Cyclades than in Attica. See also Papazarkadas, <i>Sacred and Public Land in Ancient Athens</i>, 2012, Appendix V and Humphreys, <i>Kinship in Ancient Athens</i>, 2019, 680, 716.</p>
+                      <p> 
+                      !+1+ This list of the official visitors (<i>theōroi</i>) from the second <i>Pythais</i> at Delphi, which took place in 128/7 BC, was inscribed on a single block in the southern façade of the Athenian Treasury, immediately below the list of official visitors of the first <i>Pythais</i> in 138/7 BC (<i>F.Delphes</i> III 2, 7; on the Hellenistic <i>Pythais</i> and the Treasury, see <a href="/inscription/FDIII2/3" class="highlight"><i>F.Delphes</i> III 2, 3</a> and on Attic inscriptions at Delphi, see <a href="/inscription/IGII34/17" class="highlight"><i>IG</i> II<sup>3</sup> 4, 17</a> with notes). Official visitors were a kind of official envoy sent by city-states for matters relating to ritual affairs: city-states dispatched official visitors to offer sacrifices on their behalf at panhellenic festivals, to announce their own festivals to other communities, and to supervise processions and other rituals abroad – in this case, the <i>Pythais</i> (On <i>theōroi</i> in general, see <a href="/inscription/IGII31/1390" class="highlight"><i>IG</i> II<sup>3</sup> 1 1390</a> with note and I. Rutherford, <i>State Pilgrims and Sacred Observers in Ancient Greece</i>, 2014). In this inscription, there are eleven official visitors from Athens, three from the <placeName ref="https://pleiades.stoa.org/places/580117">Marathonian Tetrapolis</placeName> (see n. 4) and one from the genos of the Pyrrhakidai (see n. 5). In the other three <i>Pythaides</i>, there was one or three <i>archetheōroi</i> ("chief official visitors") who preceded various sub-delegations (<i>F.Delphes</i> III 2, 9 for the third <i>Pythais</i>, and <i>F.Delphes</i> III 2, 10 for the fourth), though this position was not present in the second <i>Pythais</i>. The association of Athenian artists (<i>technitai</i>) also sent an <i>archetheōros</i> and <i>theōroi</i> to supervise musical performance and contests during the second <i>Pythais</i> (<i>F.Delphes</i> III 2, 47-49), who were independent of the official visitors dispatched by the city of Athens (see S. Aneziri, <i>Die Vereine der dionysischen Techniten</i>, 2003, 140-41 and 155-58, and <a href="/inscription/IGII2/1320" class="highlight"><i>IG</i> II<sup>2</sup> 1320</a> with notes on the artists generally).<br/><br/>
+                      In col. 1, the first five lines were inscribed with slightly larger letters and thicker strokes. Having only three letters, line 5, together with an uninscribed space beneath, serves as a visual break between the preamble (ll. 1-5) and the list of names (ll. 6-15), inscribed with slightly smaller letters. Col. 2 was inscribed to the right of col. 1, with its first line standing between ll. 2-3 of col. 1, and below col. 2 of <i>F.Delphes</i> III 2, 7 (138/7 BC), which contains a list of official visitors from the Marathonic Tetrapolis that was added later. Since there is uninscribed space on the block below col. 1, the layout seems to have been deliberately arranged to place the list of official visitors from the Tetrapolis directly below the one in <i>F.Delphes</i> III 2, 7. [After having consulted the squeezes of <i>F.Delphes</i> III 2, 8 among others, I argue that col. 1, ll. 6-15 of <i>F.Delphes</i> III 2, 8 should be attributed to the stonecutter of <a href="/inscription/FDIII2/12" class="highlight"><i>F.Delphes</i> III 2, 12</a> (given their constant usage of non-rounded Φ, Π with uneven legs, and more rounded Ω), and am skeptical of Tracy identification of the lettercutters of the first two <i>Pythaides</i> – WBB].!
+                      </p>
+                      <p> 
+                      !+2+ For this formula indicating the natural father, see <a href="/papers/aiuk-45/" class="highlight"><i>AIUK</i> 4.5 (BM dedications), p. 59</a>. This Eudemos reappears in the list of cavalry (<a href="/inscription/FDIII2/27" class="highlight"><i>F.Delphes</i> III 2, 27</a>, col. 2, l. 14, as does Rhadamanthys, col. 2, l. 28, see the note there), and may belong to the family of Sarapion of <placeName ref="https://pleiades.stoa.org/places/582863" class="highlight">Melite</placeName>, which would appear frequently in the third and fourth <i>Pythaides</i>. Such family connections between participants in the <i>Pythais</i> (<i>theōroi</i>, Pythaists, ephebes) are common, and they indicate an growing elitism in Athenian public activities in the second half of the second century onwards: on this see K. Karila-Cohen in J.-Ch. Couvenhes and S. Milanezi eds., <i>Individus, groupes et politique à Athènes de Solon à Mithridate</i>, 2007, 365-384. The !
+                      </p>
+                      <p>
+                      !+3+ The term "the younger" (<i>neoteros</i>) distinguished this Chares (II) from his homonymous father Chares (I); his son Chares (III) also participated in this <i>Pythais</i> as ephebe (<a href="/inscription/FDIII2/24" class="highlight"><i>F.Delphes</i> III 2, 24</a>, col. 1, l. 19). This distinguisher was not used consistently. In Athenian name lists, it is usually abbreviated to <i>ne</i> (e.g., <i>IG</i> II<sup>2</sup> 1335, ll. 19 and 35, together with the abbreviated "the elder", ll. 21 and 43), here it was written out in full.!
+                      </p>
+                      <p> 
+                      !+4+ The Tetrapolis was an association of four Attic demes: Marathon, Probalinthos, Trikorynthos and Oinoe (see <a href="/inscription/AIO/2618" class="highlight"><i>AIO</i> 2618</a> with notes). The community maintained a special connection with Delphi independently from Athens, even when the sanctuary of Apollo was under Aitolian control: Delphi honoured Tetrapolis because of their ‘proximity with the god’ and granted them both priority access to the oracle (<i>promanteia</i>) and the right to sacrifice at the altars immediately after the Delphians, in <i>F.Delphes</i> III 2, 18 (mid-third century BC), <i>F.Delphes</i> III 2, 19 (late third century decree, re-inscribed in the second century BC), and <i>F.Delphes</i> III 2, 20 (178/7 BC), three decrees inscribed on the same <i>anta</i> on the east face of the Treasury, as well as the fragmentary <i>F.Delphes</i> III 2, 21 (third century). <i>Theōroi</i> from the Tetrapolis also appear in <i>F.Delphes</i> III 2, 7 from the first <i>Pythais</i> (138/7 BC). One Pythaist from the Tetrapolis is known from the third <i>Pythais</i> (<i>F.Delphes</i> III 2, 13, 106/5 BC). In the fourth <i>Pythais</i> (97/6 BC), the Tetrapolis had one <i>archetheōros</i>,  three <i>theōroi</i> and one Pythaist (<i>F.Delphes</i> III 2, 10). On the Tetrapolis' relationship with Delphi, see K. Karila-Cohen in M.-F. Baslez and F. Prevot eds., <i>Prosopographie et histoire religieuse</i>, 2005, 76–80. The sixth letter of the word ‘Tetrapolis’ is carved with a three-legged pi, rather than the regular two-legged pi (Π), probably a mistake by the lettercutter.!
+                      </p>
+      
+                      <p>!+5+ The Pyrrhakidai were an Athenian genos, perhaps emerging in the late second century BC, although two inscriptions dated to ca. 400 BC on Delos record two names as ‘of Pyrrhakidai’ (<i>I Délos</i> 66 and 67), which might indicate an earlier connection to Delos. The Pyrrhakidai sent an Eukles son of Timanax as <i>theoros</i> for the first <i>Pythais</i> (<i>F.Delphes</i> III 2, 7</a>), who must be a relative (father?) of the Timanax appearing here. Later, in the third <i>Pythais</i> one Pythaist comes from the Pyrrhakidai (<i>F.Delphes</i> III 2, 13, col. 1), and in the fourth <i>Pythais</i> three Pythaists came from the Pyrrhakidai, two of whom were also relatives of Timanax (<i>F.Delphes</i> III 2, 10, col. 2). As this family of Timanax appears to be much involved in the <i>Pythaides</i>, they may have played a special role in the <i>Pythais</i>, perhaps related to their connection with Delos. On the Pyrrhakidai in general, see <a href="/inscription/AgoraXIX/p5" class="highlight"><i>Agora</i> XIX P5</a> with notes, N. Papazarkadas, <i>Sacred and Public Land</i>, 2012, Appendix V; and S. Humphreys, <i>Kinship in Ancient Athens</i>, 2018, 680, 716.!</p>
                     </div>
                     </body>
             </text>
