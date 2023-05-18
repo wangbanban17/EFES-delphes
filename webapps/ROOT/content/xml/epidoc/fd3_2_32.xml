@@ -1,3 +1,34 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:space="preserve">
+<teiHeader>
+  <fileDesc>
+    <titleStmt>
+      <editor xml:id="wbb"><persName>WANG Banban</persName></editor>
+      <title>Register for Amphikrates the tripod carrier in the fourth <i>Pythais</i></title>
+    </titleStmt>
+    <publicationStmt>
+      <idno type="filename">/inscription/FDIII2/32/</idno>
+    </publicationStmt>
+    <sourceDesc>
+      <msDesc>
+        <msIdentifier>
+          <repository ref="266">266</repository> 
+          <idno type="invNo"/>
+          <collection>Delphi Museum</collection>
+        </msIdentifier>
+        <msContents><summary corresp="#treaty">List of Names</summary></msContents>
+      <physDesc>
+        <objectDesc>
+          <supportDesc>
+            <support><objectType ref="#stele">Block, Wall</objectType></support></objectDesc>
+      </physDesc>
+      <history>
+        <origin>
+        <origPlace ref="#praisos">Delphi</origPlace>
+        <origDate period="#hellenistic" notBefore="-0097" notAfter="-0096">97/96 BCE</origDate>
+        </origin>
+      </history>
+    </sourceDesc>
+</teiHeader>
 <body xmlns:xml="http://www.w3.org/XML/1998/namespace">
   <div xml:lang="en" type="translation" xml:space="preserve">
       <div n="1" type="textpart">
@@ -13,7 +44,10 @@
   <div xml:lang="en" type="note" xml:space="preserve">
     <p>
     !+1+
-    This text, inscribed on the southern façade of the Athenian Treasury, is likely to serve as the preamble of an honorific decree. Amphikrates
+    This text, inscribed on the southern façade of the Athenian Treasury, is likely to serve as the preamble of an honorific decree. It was engraved right below the list of magistrates organising the fourth <i>Pythais</i> in 97/6 BC (<i>F.Delphes</i> III 2, 6) and near the other lists of participants in this <i>Pythais</i> (<i>F.Delphes</i> III 2, 2, 6, 10, 16, 17, 26, 31, 45). On the <i>Pythais</i> and the Treasury, see <a href="/inscription/FDIII2/3" class="highlight"><i>F.Delphes</i> III 2, 3</a>, on Attic inscriptions at Delphi, see <a href="/inscription/IGII34/17" class="highlight"><i>IG</i> II<sup>3</sup> 4, 17</a> with notes, and on the fourth <i>Pythais</i> . </br></br>
+    After the procession from Athens to Delphi, a tripod </br></br>
+    Amphikrates participated in the third <i>Pythais</i> in 106/5 BC as the sacrificer of the first fruits (<i>epi tas aparchas</i>, <i>F.Delphes</i> III 2, 13, l. 20) and took !
     </p>
   </div>
 </body>
+</TEI>
