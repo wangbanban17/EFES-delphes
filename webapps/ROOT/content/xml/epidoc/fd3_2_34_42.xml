@@ -233,14 +233,239 @@
 
   </div>
   <div xml:lang="grc" type="edition" xml:space="preserve">
-      <div n="1" type="textpart">
-          <lb/>
-          <lb/>
+            <div n="34" subtype="F.Delphes III 2" type="textpart" xml:space="preserve">
+      <p>
+        <lb/><supplied reason="lost">θ</supplied>εός. τύχαν ἀγαθά<supplied reason="lost">ν. ἐ</supplied>πὶ Πύρρου ἄρχοντος ἐν Δελφοῖς, ἐν δὲ Ἀθήνησι<supplied reason="lost">ν Δι</supplied>
+        <lb break="no"/><supplied reason="lost">ο</supplied>νυσίου τοῦ με<supplied reason="lost">τὰ</supplied> Λυκίσκον, νικήσας τῶν φυλάρχων πρῶτος τῶ<supplied reason="lost">ν</supplied>
+        <lb/><supplied reason="lost">σ</supplied>υμπεμψάντω<supplied reason="lost">ν τ</supplied>ὴν <supplied reason="lost">Πυ</supplied>θαΐδα μετὰ τοῦ ἱππάρχου Διοκλέους καὶ τῶ<supplied reason="lost">ν</supplied>
+        <lb/><supplied reason="lost">σ</supplied>υναρχόντων, θέντος τὸν ἀγῶνα Διοκλέους τοῦ Διοκλέους Ἀθηναίο<supplied reason="lost">υ</supplied>.
+        <lb/>
+      </p>
+    <div n="1" subtype="column" type="textpart" xml:space="preserve">
+      <p>
+        <lb/><note type="inline">crown to the left of the text</note>
+        <lb n="5"/>ἐκ τῶν φυλάρ
+        <lb break="no"/>χων· ἵππωι
+        <lb/>πολεμιστῆι
+        <lb/>δίαυλον· Ἁ
+        <lb break="no"/>γίας Βούλω
+        <lb break="no" n="10"/>νος Ἀθηναῖ
+        <lb break="no"/>ος.
+      </p>
+    </div>
+    <div n="2" subtype="column" type="textpart" xml:space="preserve">
+      <p>
+        <lb/><note type="inline">crown to the left of the text</note>
+        <lb/>ἐκ τῶν ἱππέων· ἵπ
+        <lb break="no"/>πωι πολεμιστ<supplied reason="lost">ῆι</supplied>
+        <lb/>δίαυλον· Ἁγίας
+        <lb/>Βούλωνος Ἀθ<supplied reason="lost">η</supplied>
+        <lb break="no"/>ναῖος.
+      </p>
+    </div>
+    </div>
+    <div n="42" subtype="F.Delphes III 2" type="textpart" xml:space="preserve">
+      <p>
+        <lb/>ἐκ πάντων· ἵππωι ἀκάμπιον·
+        <lb/>Στράτων Βούλωνος Ἀθηναῖος.
+        <lb/><note type="inline">crown below</note>
+        <lb/>
+      </p>
+    </div>
+    <div n="36" subtype="F.Delphes III 2" type="textpart" xml:space="preserve">
+        <div n="1" type="textpart" xml:space="preserve">
+          <p>
+            <lb/>ἵππῳ πολεμι<supplied reason="lost">στῇ</supplied>
+            <lb/>δίαυλον· Ἕρ<supplied reason="lost">μων</supplied>
+            <lb/>Ἀντιφῶντ<supplied reason="lost">ος</supplied>.
+            <lb/><note type="inline">crown below</note>
+            <lb/>
+          </p>
+        </div>
+    </div>
+    <div n="37" subtype="F.Delphes III 2" type="textpart" xml:space="preserve">
+        <div n="1" subtype="column" type="textpart" xml:space="preserve">
+          <p>
+            <lb/>Βύττ<supplied reason="lost">ακος</supplied>
+            <lb/>Βυτ<supplied reason="lost">τάκου</supplied>
+            <lb/><supplied reason="lost">ἀ</supplied>κ<supplied reason="lost">άμπιον</supplied>.
+            <lb/><note type="inline">crown below</note>
+            <lb/>
+          </p>
+        </div>
+        <div n="2" subtype="column" type="textpart" xml:space="preserve">
+          <p>
+            <lb/><supplied reason="lost">Ζώ</supplied>ϊλος Τιμοκράτου Ἀθηναῖος,
+            <lb/><supplied reason="lost">ἐ</supplied>κ τῶν ἱππέων, ἀκοντίζων.<del rend="erasure">πολεμιστῆι δίαυλον</del>
+            <lb/><del rend="erasure">ταραντίνων ἵππωι</del>.
+            <lb/><note type="inline">crown below</note>
+            <lb/>
+          </p>
+        </div>
+        <div n="3" subtype="column" type="textpart" xml:space="preserve">
+          <p>
+            <lb/>Καλλίστρατος
+            <lb/>Καλλιστράτου
+            <lb/>Ἀθηναῖος δίαυλον,
+            <lb/>ἐκ τῶν ταραντίνων,
+            <lb n="5"/>ἵππωι πολεμιστῆι.
+            <lb/><note type="inline">crown below</note>
+            <lb/>
+          </p>
+        </div>
+    </div>y
+    <div n="38" subtype="F.Delphes III 2" type="textpart" xml:space="preserve">
+        <div n="1" subtype="column" type="textpart" xml:space="preserve">
+          <p>
+            <lb/>Καλλίθεος
+            <lb/>Λυσαιάδου,
+            <lb/>δίαυλον.<del rend="erasure">ἀκοντίζων</del>.
+            <lb/><note type="inline">crown below</note>
+            <lb/>
+          </p>
+        </div>
+        <div n="2" subtype="column" type="textpart" xml:space="preserve">
+          <p>
+            <lb/>Πύρρος
+            <lb/>Πύρρου,
+            <lb/>ἀκάμπιον.
+            <lb/><note type="inline">(crown below)</note>
+            <lb/>
+          </p>
+        </div>
+    </div>
+    <div n="35" subtype="F.Delphes III 2" type="textpart" xml:space="preserve">
+      <div n="1" type="textpart" xml:space="preserve">
+          <p>
+              <lb/><supplied reason="lost">ἐ</supplied>πὶ Πύρρου ἄρχον<supplied reason="lost">τος ἐν Δελφοῖς, Ἀθήνησιν δὲ Διονυσίου τ</supplied>οῦ μετὰ Λυκίσκον, οἵ<supplied reason="lost">δε</supplied>
+              <lb/>ἐνίκησαν τῶν ἱ<supplied reason="lost">ππέων καὶ τῶν φυλάρχων τῶν συμπαραπε</supplied>μψάντων τὴν Πυθαΐδα,
+              <lb/>θέντος τὸν ἀ<supplied reason="lost">γῶνα τοῦ ἱππάρχου Διοκλέους τοῦ Διοκλέους, ταραντιναρχούν</supplied>
+              <lb break="no"/>των Διογένο<supplied reason="lost">υ τοῦ Ἀρόπου, Λύσωνος τοῦ Δημοκράτεος</supplied>, φυλαρχούντων Ἕρμωνος
+              <lb n="5"/>τοῦ Διονυσίο<supplied reason="lost">υ, Ἁγίου τοῦ Βούλωνος, Χαρικλέους τοῦ Θ</supplied>εοδώρου, Ξενοκλέους
+              <lb/>τοῦ Δημητρίο<supplied reason="lost">υ</supplied>.
+              <lb/>
+            </p>
       </div>
+      <div n="1" subtype="column" type="textpart" xml:space="preserve">
+        <p>
+          <lb n="7"/>ΤΕ<gap reason="lost" extent="unknown" unit="character"/>
+          <lb/><gap reason="lost" unit="line" quantity="2"/>
+          <lb/>
+        </p>
+      </div>
+      <div n="2" subtype="column" type="textpart" xml:space="preserve">
+        <p>
+          <lb n="6"/><supplied reason="lost">ἐκ τῶν φυλάρ</supplied>χων·
+          <lb/><supplied reason="lost">ἵππωι πολεμι</supplied>στῆι
+          <lb/><supplied reason="lost">δίαυλον ἐν ὅπ</supplied>λοις·
+          <lb/><supplied reason="lost">Ἕρμων Διονυσίο</supplied>υ Ἀθηναῖος,
+          <lb n="10"/><supplied reason="lost">γόνωι δὲ Ἀντιφῶ</supplied>ντος.
+          <lb/><note type="inline">crown below</note>
+          <lb/>
+        </p>
+      </div>
+      <div n="3" subtype="column" type="textpart" xml:space="preserve">
+        <p>
+          <lb n="6"/>ἵππωι πολεμιστῆι
+          <lb/>δίαυλον· Ἁγίας
+          <lb/>Βούλωνος.
+          <lb/><note type="inline">crown below</note>
+          <lb/>
+        </p>
+      </div>
+    </div>
+    <div n="39" subtype="F.Delphes III 2" type="textpart" xml:space="preserve">
+        <div n="1" subtype="column" type="textpart" xml:space="preserve">
+          <p>
+            <lb/><supplied reason="lost">ἀκάμπιο</supplied>ν·
+            <lb/><supplied reason="lost">Χαρικ</supplied>λῆς
+            <lb/><supplied reason="lost">Θε</supplied>οδώρου.
+            <lb/><note type="inline">crown below</note>
+            <lb/>
+          </p>
+        </div>
+        <div n="2" subtype="column" type="textpart" xml:space="preserve">
+          <p>
+            <lb/>ἀκάμπιον·
+            <lb/>Ξενοκλῆς
+            <lb/>Δημητρίου
+            <lb/>Ἀθηναῖος.
+            <lb/><note type="inline">crown below</note>
+            <lb/>
+          </p>
+        </div>
+        <div n="3" subtype="column" type="textpart" xml:space="preserve">
+          <p>
+            <lb/><supplied reason="lost">ἐκ πάντων· ἵππωι</supplied>
+            <lb/>πο<supplied reason="lost">λεμιστῆι δίαυλον</supplied>·
+            <lb/>Ἁγί<supplied reason="lost">ας Βούλωνος</supplied>.
+            <lb/><note type="inline">crown below</note>
+            <lb/>
+          </p>
+        </div>
+    </div>
+    <div n="40" subtype="F.Delphes III 2" type="textpart" xml:space="preserve">
+        <div n="1" subtype="column" type="textpart" xml:space="preserve">
+          <p>
+            <lb/>ἵππωι δίαυλον·
+            <lb/>Σωτίων Νικάνορος.
+            <lb/><note type="inline">crown below</note>
+            <lb/>
+          </p>
+        </div>
+        <div n="2" subtype="column" type="textpart" xml:space="preserve">
+          <p>
+            <lb/>ἀκάμπιον·
+            <lb/>Χαρῖνος
+            <lb/>Λυκίνου.
+            <lb/><note type="inline">crown below</note>
+            <lb/>
+          </p>
+        </div>
+        <div n="3" subtype="column" type="textpart" xml:space="preserve">
+          <p>
+            <lb/>ἐκ πάντω<supplied reason="lost">ν· ἵππωι</supplied>
+            <lb/>πολεμιστ<supplied reason="lost">ῆι</supplied>
+            <lb/>δίαυλον· Διο<gap reason="lost" extent="unknown" unit="character"></gap>
+            <lb/>Διοδότου Ἀθ<supplied reason="lost">ηναῖος</supplied>.
+            <lb/><note type="inline">crown below</note>
+            <lb/>
+          </p>
+        </div>
+    </div>
+    <div n="41" subtype="F.Delphes III 2" type="textpart" xml:space="preserve">
+        <div n="1" subtype="column" type="textpart" xml:space="preserve">
+          <p>
+            <lb/>Θεοπείθης
+            <lb/>Θεοφίλου,
+            <lb/>δίαυλον.
+            <lb/><note type="inline">crown below</note>
+            <lb/>
+          </p>
+        </div>
+        <div n="2" subtype="column" type="textpart" xml:space="preserve">
+          <p>
+            <lb/>Διοκλῆς
+            <lb/>Διοκλέους,
+            <lb/>ἀκάμπιον.
+            <lb/><note type="inline">crown below</note>
+            <lb/>
+          </p>
+        </div>
+        <div n="3" subtype="column" type="textpart" xml:space="preserve">
+          <p>
+            <lb/>Τιμοκλῆς Ἱππάρχου
+            <lb/>Ἀθηναῖος, ἐκ τῶν ἱππέων,
+            <lb/>ἀκάμπιον.
+            <lb/><note type="inline">crown below</note>
+            <lb/>
+          </p>
+        </div>
+    </div>
   </div>
   <div xml:lang="en" type="note" xml:space="preserve">
     <p>
-!+1+ <strong>Textual Note</strong> AIO includes col. 1 in <i>F.Delphes</i> III 2, 37 from <i>F.Delphes</i> III 2, Add. pp. 290-1: 'Βύττ[ακος] | Βυτ[τάκου] | [ἀ]κ[άμπιον]'. For <i>F.Delphes</i> III 2, 37, col. 2, the space which bears the word ἀκοντίζων ('javelin throw') has traces of erased letters, and <i>F.Delphes</i> III 2, p. 42 reads these as ταραντίνων ἵππωι ('with Tarantine horse'). Analysis of the squeezes for <i>F.Delphes</i> III 2, 37 indicates that a third line in col. 2 reads πολεμιστῆι δίαυλον ('double race with war-'), which was almost entirely erased. Although <i>F.Delphes</i> III 2 gives each group an individual number in an attempt to attribute one unique number to different victories engraved on the same block, it is more appropriate to treat all nine inscriptions together. We rearrange the order of these inscriptions according to their locations, see below. <br/><br/>
+!+1+ <strong>Textual Note</strong> AIO includes col. 1 in <i>F.Delphes</i> III 2, 37 from <i>F.Delphes</i> III 2, Add. pp. 290-1: 'Βύττ<supplied reason="lost">ακος</supplied> | Βυτ<supplied reason="lost">τάκου</supplied> | <supplied reason="lost">ἀ</supplied>κ<supplied reason="lost">άμπιον</supplied>'. For <i>F.Delphes</i> III 2, 37, col. 2, the space which bears the word ἀκοντίζων ('javelin throw') has traces of erased letters, and <i>F.Delphes</i> III 2, p. 42 reads these as ταραντίνων ἵππωι ('with Tarantine horse'). Analysis of the squeezes for <i>F.Delphes</i> III 2, 37 indicates that a third line in col. 2 reads πολεμιστῆι δίαυλον ('double race with war-'), which was almost entirely erased. Although <i>F.Delphes</i> III 2 gives each group an individual number in an attempt to attribute one unique number to different victories engraved on the same block, it is more appropriate to treat all nine inscriptions together. We rearrange the order of these inscriptions according to their locations, see below. <br/><br/>
 
 This dossier honours 22 victors at several sporting contests during the second <i>Pythais</i>, which took place at <a href="https://pleiades.stoa.org/places/540726" class="highlight">Delphi</a> in 128/7 BC. It was inscribed on various connected blocks on the southern façade, as well as on the front and inner faces of the south <i>anta</i> of the <a href="https://arachne.dainst.org/entity/5593" class="highlight">Athenian Treasury</a> (on the <i>Pythais</i> and the Treasury, see <a href="/inscription/FDIII2/3" class="highlight"><i>F.Delphes</i> III 2, 3</a> with notes, and on Attic inscriptions at Delphi, see <a href="inscription/IGII34/17" class="highlight"><i>IG</i> II<sup>3</sup> 4, 17</a> with notes). The victor's names were engraved with a crown beneath them (or, in <i>F.Delphes</i> III 2, 34, to the left) and were mostly grouped in two or three columns, each occupying a single block on the Treasury wall. This practice was prominent in the second <i>Pythais</i>, although three victors from the third and the fourth <i>Pythaides</i> also survived to us (<i>F.Delphes</i> III 2, 43–44 for the third, and <i>F.Delphes</i> III 2, 45 for the fourth). Most of the texts have only the victor's name and the contest, meaning that they can only be dated on prosopographic grounds (most of the names appear also in the list of cavalrymen for the second <i>Pythais</i>: <a href="/inscription/FDIII2/27" class="highlight"><i>F.Delphes</i> III 2, 27</a>). Equestrian and musical contests were held during the <i>Pythais</i> (for the musical contests, see the Delphic honorific decrees for the Dionysiac artists, <i>F.Delphes</i> III 2.47–49, and S. Kühn, <i>Pythais-Prozession</i>, 2018, 172-76). The equestrian contests of the <i>Pythais</i>, like the tribal contests at the Panathenaia (<i>IG</i> II<sup>2</sup> 2316-17) and Theseia (<i>IG</i> II<sup>2</sup> 956–958), were organized into separate divisions: tribal cavalry commanders, members of the Tarantine cavalry, and all Athenian cavalrymen (named simply as 'of all'). Like in the Panatheniac contests and unlike in the Olympics and other Panhellenic games, the contestants rode their own horses in the contests (cf. J. Shear, <i>Serving Athena</i>, 2021, 193-94 and table 5.14 on the Panathenaia). The contests include a javelin throw from the horseback (<i>akontizōn</i>), a straight race (<i>akampios</i>, i.e. from one end of the stadium to the other), a double-length race (<i>diaulos</i>, i.e. from one end of the stadium to the other and back), a double-length race with a war horse (<i>hippo polemistē diaulos</i>), and a double race with a war horse in armour (<i>hippo polemistē diaulos en hoplois</i>). On equestrian contests in the Hellenistic world generally, see C. Chandezon in J.-C. Moretti and P. Valavanis, <i>Les hippodromes et les concours hippiques</i>, 2020; on equestrian contests in Delphi, see S. Kühn, <i>Pythais-Prozession</i>, 2018, 168-72.!
 

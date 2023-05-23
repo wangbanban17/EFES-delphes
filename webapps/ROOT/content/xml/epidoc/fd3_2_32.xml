@@ -16,10 +16,11 @@
           <collection>Delphi Museum</collection>
         </msIdentifier>
         <msContents><summary corresp="#treaty">List of Names</summary></msContents>
+      </msDesc>
       <physDesc>
         <objectDesc>
           <supportDesc>
-            <support><objectType ref="#stele">Block, Wall</objectType></support></objectDesc>
+            <support><objectType ref="#stele">Block, Wall</objectType></support></supportDesc></objectDesc>
       </physDesc>
       <history>
         <origin>
@@ -28,6 +29,7 @@
         </origin>
       </history>
     </sourceDesc>
+  </fileDesc>
 </teiHeader>
 <body xmlns:xml="http://www.w3.org/XML/1998/namespace">
   <div xml:lang="en" type="translation" xml:space="preserve">
@@ -45,8 +47,8 @@
     <p>
     !+1+
     This text, inscribed on the southern façade of the Athenian Treasury, is likely to serve as the preamble of an honorific decree. It was engraved right below the list of magistrates organising the fourth <i>Pythais</i> in 97/6 BC (<i>F.Delphes</i> III 2, 6) and near the other lists of participants in this <i>Pythais</i> (<i>F.Delphes</i> III 2, 2, 6, 10, 16, 17, 26, 31, 45). On the <i>Pythais</i> and the Treasury, see <a href="/inscription/FDIII2/3" class="highlight"><i>F.Delphes</i> III 2, 3</a>, on Attic inscriptions at Delphi, see <a href="/inscription/IGII34/17" class="highlight"><i>IG</i> II<sup>3</sup> 4, 17</a> with notes, and on the fourth <i>Pythais</i> . </br></br>
-    After the procession from Athens to Delphi, a tripod </br></br>
-    Amphikrates participated in the third <i>Pythais</i> in 106/5 BC as the sacrificer of the first fruits (<i>epi tas aparchas</i>, <i>F.Delphes</i> III 2, 13, l. 20) and took !
+    After the procession arrived at Delphi, the Athenian participants acquired the sacred fire and tripod there. A man and a woman were appointed to take charge in carrying the tripod and the fire, respectively, back to Athens. Sources about this ritual include <i>F.Delphes</i> III 2, 33 (bearer of the tripod in the second <i>Pythais</i>, 128/7 BC), <i>F.Delphes</i> III 2, 13, ll. 1–2 (<i>Pyrphoros</i> in the third <i>Pythais</i>, 106/5 BC). On this ritual, see <a href="/browse/bysource/Kuehn2018/" class="highlight">S. Kühn, <i>Pythaïs-Prozession</i></a>, 128–130. On the role of the tripod in Athenian narrative about Delphi, see also <a class="highlight" href="/inscription/PohlmannWest/20">Pöhlmann and West, <i>Greek Music</i> no. 20</a>, l. 21 and <a href="inscription/PohlmannWest/21" class="highlight">Pöhlmann and West, <i>Greek Music</i> no. 21</a>, l. 22.</br></br>
+    Amphikrates participated in the third <i>Pythais</i> in 106/5 BC as the sacrificer of the first fruits (<i>epi tas aparchas</i>, <i>F.Delphes</i> III 2, 13, l. 20) and ordered to inscribe the benefactors for the first fruits in the fourth <i>Pythais</i> (<i>IG<i> II<sup>2</sup> 2336 + <i>SEG</i> 32.218, ll. 1-4).!
     </p>
   </div>
 </body>
